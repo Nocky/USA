@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/user_info_update_user_body_LL"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:paddingLeft="30dp"
+    android:paddingRight="30dp" >
+
+    <TextView
+        android:id="@+id/activity_sport_data_detail_sleepSumView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:gravity="center_vertical"
+        android:text="@string/user_info_update_user_height"
+        android:textColor="@color/m00_text_black_333333_color"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/user_info_update_user_height"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/chat_put_in"
+        android:inputType="number"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:gravity="center_vertical"
+        android:text="@string/user_info_update_user_weight"
+        android:textColor="@color/m00_text_black_333333_color"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/user_info_update_user_weight"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/chat_put_in"
+        android:inputType="number"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:gravity="center_vertical"
+        android:text="@string/user_info_update_user_age"
+        android:textColor="@color/m00_text_black_333333_color"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/user_info_update_user_age"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/chat_put_in"
+        android:inputType="number"
+        android:text="" />
+    
+    <RadioGroup
+                android:id="@+id/radioGroup1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12dp"
+                android:gravity="center"
+                android:orientation="horizontal" >
+
+                <RadioButton
+                    android:id="@+id/user_info_update_user_manCb"
+                    style="@style/radio_btn_style"
+                    android:checked="true"
+                    android:textColor="@color/m00_text_black_333333_color"
+                    android:text="@string/register_form_view_man" />
+
+                <RadioButton
+                    android:id="@+id/user_info_update_user_womanCb"
+                    style="@style/radio_btn_style"
+                    android:layout_marginLeft="36dp"
+                    android:textColor="@color/m00_text_black_333333_color"
+                    android:text="@string/register_form_view_woman" />
+            </RadioGroup>
+
+</LinearLayout>

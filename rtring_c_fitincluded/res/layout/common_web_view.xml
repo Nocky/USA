@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+    
+    <com.eva.android.widget.CustomeTitleBar
+        android:id="@+id/common_webview_titlebar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+    </com.eva.android.widget.CustomeTitleBar>
+
+    <WebView
+        android:id="@+id/view_web_webview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+
+</LinearLayout>

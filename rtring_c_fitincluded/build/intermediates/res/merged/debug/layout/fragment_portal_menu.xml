@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/fragment_menu"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fragment_menu_bg"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="3dp"
+        android:layout_marginTop="3dp"
+        android:gravity="left|center_vertical"
+        android:orientation="vertical"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp" >
+
+        <FrameLayout
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_centerVertical="true"
+            android:layout_marginBottom="3dp"
+            android:layout_marginTop="4dp">
+
+            <ImageView
+                android:id="@+id/fragment_head"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:src="@drawable/menu_default_head" />
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:src="@drawable/menu_default_head_bg" />
+        </FrameLayout>
+
+        <TextView
+            android:id="@+id/fragment_name_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="李丽丽"
+            android:singleLine="true"
+            android:textColor="@color/white"
+            android:textSize="@dimen/m00_font_size_36pt" />
+
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="2px"
+        android:adjustViewBounds="true"
+        android:background="@drawable/fragment_menu_deliver"
+        android:scaleType="fitXY" />
+
+    <ListView
+        android:id="@+id/fragment_menu_list"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.0"
+        android:cacheColorHint="@android:color/transparent"
+        android:divider="@drawable/fragment_menu_deliver" >
+    </ListView>
+    
+     <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="80dp"
+        android:orientation="vertical"
+        >
+        <Button
+        android:id="@+id/fragment_menu_exit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/exit_button_selector"
+        android:paddingBottom="5dp"
+        android:paddingTop="5dp"
+        android:text="@string/menu_exit"
+        android:textColor="@color/white" />
+        </LinearLayout>
+
+    
+
+</LinearLayout>

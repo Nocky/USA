@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <com.eva.android.widget.CustomeTitleBar
+        android:id="@+id/moving_target_info_titleBar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+    </com.eva.android.widget.CustomeTitleBar>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:id="@+id/movingtarget_sex"
+                android:layout_width="50dip"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="30dip"
+                android:layout_marginTop="50dip"
+                android:layout_marginBottom="50dip"
+                 />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="30dip"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="BMI指数"
+                android:textColor="#666666"
+                android:textSize="18sp" >
+            </TextView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="(身体质量指数)"
+                android:textColor="#666666"
+                android:textSize="14sp" >
+            </TextView>
+
+            <TextView
+                android:id="@+id/movingtarget_BMI"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dip"
+                android:text="22"
+                android:textSize="22sp" >
+            </TextView>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="30dip"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="您的体型"
+                android:textColor="#666666"
+                android:textSize="18sp" />
+            
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="(通过BMI计算)"
+                android:textColor="#666666"
+                android:textSize="14sp" >
+            </TextView>
+
+            <TextView
+                android:id="@+id/movingtarget_BMIDesc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="正常"
+                android:textSize="22sp" >
+            </TextView>
+        </LinearLayout>
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="2px"
+        android:layout_marginTop="10dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/common_split_line" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="120dip" >
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="20dip"
+            android:layout_marginRight="20dip"
+            android:src="@drawable/movingtarget_recommend" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="40dip"
+            >
+         <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffff"
+            android:layout_weight="1"
+            android:textSize="22sp" >
+        </TextView>
+        <TextView
+            android:id="@+id/recommend_target_step"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+             android:layout_weight="1"
+            android:text="10000"
+            android:paddingLeft="70dip"
+            android:textColor="#ffffff"
+            android:textSize="22sp" >
+        </TextView>
+            
+            
+        </LinearLayout>
+
+    </FrameLayout>
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="2px"
+        android:layout_marginTop="10dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/common_split_line" />
+
+    <RelativeLayout
+        android:id="@+id/weight_container"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/weight_value"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="10dip"
+                android:text="自定目标"
+                android:textColor="@color/orange"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/target_step"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/weight_value"
+                android:layout_marginLeft="5dip"
+                android:layout_toRightOf="@+id/weight_value"
+                android:text="111"
+                android:textColor="#04DCB1"
+                android:textSize="18sp" />
+        </RelativeLayout>
+
+        <com.linkloving.rtring_c_watch.utils.ObservableHorizontalScrollView
+            android:id="@+id/target_scrollview"
+            android:layout_width="262.0dip"
+            android:layout_height="62.0dip"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="30.0dip"
+            android:background="@drawable/userinfo_scroll_top_target"
+            android:fillViewport="true"
+            android:padding="0dp"
+            android:scrollbars="none" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:layout_marginTop="1dip" >
+
+                <ImageView
+                    android:layout_width="1262.0dip"
+                    android:layout_height="60.0dip"
+                    android:layout_marginLeft="130.0dip"
+                    android:layout_marginRight="130.0dip"
+                    android:src="@drawable/userinfo_scroll_target" />
+            </LinearLayout>
+        </com.linkloving.rtring_c_watch.utils.ObservableHorizontalScrollView>
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="2px"
+        android:layout_marginTop="10dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/common_split_line" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/target_info_save_btn"
+            style="@style/text_darkShadow7"
+            android:layout_width="fill_parent"
+            android:layout_height="45dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/common_login_btn"
+            android:text="完成"
+            android:textColor="@color/white"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+</LinearLayout>

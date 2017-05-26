@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <FrameLayout
+            android:layout_width="276dp"
+            android:layout_height="276dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="0dp" >
+
+            <com.linkloving.rtring_c_watch.logic.main.impl.TodayCircleView
+                android:id="@+id/fragment_todayCircleView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center" >
+
+                    <!--
+                             <ImageView
+                            android:id="@+id/imageView1"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginRight="5dp"
+                            android:src="@drawable/main_page_over_circle_greetext_runman_img" />
+                    -->
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:orientation="vertical" >
+
+                        <TextView
+                            android:id="@+id/textView2"
+                            style="@style/text_witheShadow3"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:gravity="center_vertical"
+                            android:text="@string/portal_main_finish"
+                            android:textColor="@color/white"
+                            android:textSize="30sp" />
+
+                        <TextView
+                            android:id="@+id/textView3"
+                            style="@style/text_darkShadow8"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginBottom="20dp"
+                            android:layout_marginTop="15dp"
+                            android:text="0%"
+                            android:textColor="@color/white"
+                            android:textSize="46sp" />
+
+                        <TextView
+                            android:id="@+id/activity_sport_data_detail_sleepSumView"
+                            style="@style/text_darkShadow8"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginBottom="13dp"
+                            android:gravity="center"
+                            android:text="目标--步"
+                            android:textColor="#ff9a9a9a"
+                            android:textSize="19sp" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </FrameLayout>
+
+        <!--
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom|right"
+                android:gravity="center"
+                android:layout_marginRight="-15dp"
+                android:background="@drawable/main_fragment_ble_dark_btn_bg_pressed" >
+
+                <ImageView
+                    android:id="@+id/main_fragment_ble_connect_statusIconView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="8dp"
+                    android:src="@drawable/main_fragment_ble_connect_status_green" />
+
+                <TextView
+                    android:id="@+id/main_fragment_ble_connect_statusDescView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginRight="18dp"
+                    android:text="设备已连接"
+                    style="@style/text_darkShadow7"
+                    android:textColor="@color/bg_green_light"
+                    android:textSize="12sp" />
+
+            </LinearLayout>
+        -->
+
+    </FrameLayout>
+
+</LinearLayout>

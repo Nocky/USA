@@ -1,0 +1,108 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <com.eva.android.widget.CustomeTitleBar
+        android:id="@+id/relationship_group_titleBar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+    </com.eva.android.widget.CustomeTitleBar>
+
+    <TabHost
+        android:id="@android:id/tabhost"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical" >
+
+            <TabWidget
+                android:id="@android:id/tabs"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:visibility="gone" >
+            </TabWidget>
+
+            <FrameLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" >
+
+                <RadioGroup
+                    android:layout_width="fill_parent"
+                    android:layout_height="46dp"
+                    android:orientation="horizontal" >
+
+                    <RadioButton
+                        android:id="@+id/concern_about_btn"
+                        android:layout_width="0px"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1"
+                        android:background="@drawable/relationship_tab_selector"
+                        android:button="@null"
+                        android:gravity="center_horizontal|bottom"
+                        android:paddingBottom="10dp"
+                        android:text="@string/relationship_concern_about"
+                        android:textColor="@color/white" />
+
+                    <RadioButton
+                        android:id="@+id/concern_me_btn"
+                        android:layout_width="0px"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1"
+                        android:background="@drawable/relationship_tab_selector"
+                        android:button="@null"
+                        android:gravity="center_horizontal|bottom"
+                        android:paddingBottom="10dp"
+                        android:text="@string/relationship_concern_me"
+                        android:textColor="@color/white" />
+
+                    <RadioButton
+                        android:id="@+id/comments_btn"
+                        android:layout_width="0px"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1"
+                        android:background="@drawable/relationship_tab_selector"
+                        android:button="@null"
+                        android:gravity="center_horizontal|bottom"
+                        android:paddingBottom="10dp"
+                        android:text="@string/relationship_comments"
+                        android:textColor="@color/white" />
+                </RadioGroup>
+                <ImageView
+                  android:id="@+id/imageView1"
+                  android:layout_gravity="bottom"
+                  android:layout_width="fill_parent"
+                  android:layout_height="wrap_content"
+                  android:layout_marginTop="8dp"
+                  android:src="@drawable/line_bg" />
+                
+                    <TextView
+                        android:id="@+id/relationship_unread_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/unread_bg"
+                        android:layout_gravity="right|top"
+                        android:gravity="center"
+                        android:text=""
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginBottom="20dp"
+                        android:textColor="@color/white"
+                        android:textSize="10sp"
+                        android:textStyle="bold"
+                        android:visibility="gone"
+                       />
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@android:id/tabcontent"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" >
+            </FrameLayout>
+        </LinearLayout>
+    </TabHost>
+
+</LinearLayout>

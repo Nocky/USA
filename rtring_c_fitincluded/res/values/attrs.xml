@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <declare-styleable name="sport_item">       
+        <attr name="icon"  format="reference|color" />
+        <attr name="iconText"  format="reference"/>
+        <attr name = "textColor"  format="color"/>       
+    </declare-styleable>    
+    
+     <declare-styleable name="chart_view">
+         <attr name="lineColor"  format="color"></attr>
+         <attr name="deepSleepColor"  format="color"></attr>
+         <attr name="lightSleepColor" format="color"></attr>
+         <attr name="baseSlice"   format="integer"></attr>
+         <attr name = "lineWidth"  format="dimension"></attr>
+         <attr name = "deepSleepHeight"  format = "dimension"></attr>
+         <attr name = "lightSleepHeight"   format = "dimension"></attr>
+     </declare-styleable>
+</resources>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\menu\\custom.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\Linkloving_BLE4.0_lib\\build\\intermediates\\bundles\\default\\res\\menu\\custom.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\Linkloving_BLE4.0_lib\\build\\intermediates\\bundles\\default\\res\\menu\\gatt_services.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\menu\\common_data_loadable_activity_menu.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\menu\\common_data_loadable_activity_menu.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\Linkloving_BLE4.0_lib\\build\\intermediates\\bundles\\default\\res\\menu\\main.xml"
+    }
+]

@@ -1,0 +1,9 @@
+<resources>
+
+    <style name="SampleTheme" parent="@android:style/Theme">
+        <!--<item name="calendarViewStyle">@style/Widget.Holo.CalendarView</item>-->
+        <!--<item name="datePickerStyle">@style/Widget.Holo.DatePicker</item>-->
+        <!--<item name="numberPickerStyle">@style/NPWidget.Holo.NumberPicker</item>-->
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>

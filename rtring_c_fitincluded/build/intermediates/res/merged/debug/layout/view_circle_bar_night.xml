@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+     <FrameLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+            <FrameLayout
+                android:layout_width="276dp"
+                android:layout_height="276dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="0dp" >
+
+                <com.linkloving.rtring_c_watch.logic.main.impl.TodayCircleSleepView
+                    android:id="@+id/fragment_todayCircleView"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:orientation="vertical" >
+
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center" >
+
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/textView2"
+                                style="@style/text_witheShadow3"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginBottom="10dp"
+                                android:gravity="center_vertical"
+                                android:text="@string/general_sleep"
+                                android:textColor="@color/white"
+                                android:textSize="40sp" />
+
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:gravity="center_vertical" >
+
+                                <TextView
+                                    android:id="@+id/textView3"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="0.0"
+                                    android:textColor="@color/white"
+                                    android:textSize="62sp" 
+                                    style="@style/text_darkShadow8" />
+                                
+                                <TextView
+                                    android:gravity="bottom"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="match_parent"
+                                    android:layout_marginLeft="2dp"
+                                    android:paddingBottom="12.5dp"
+                                    android:text="@string/unit_hour"
+                                    android:textColor="@color/white"
+                                    android:textSize="28sp" 
+                                    style="@style/text_darkShadow8" />
+                            </LinearLayout>
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+            </FrameLayout>
+
+
+            <!-- <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom|right"
+                android:gravity="center"
+                android:layout_marginRight="-15dp"
+                android:background="@drawable/main_fragment_ble_dark_btn_bg_pressed" >
+
+                <ImageView
+                    android:id="@+id/main_fragment_ble_connect_statusIconView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="8dp"
+                    android:src="@drawable/main_fragment_ble_connect_status_green" />
+
+                <TextView
+                    android:id="@+id/main_fragment_ble_connect_statusDescView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginRight="18dp"
+                    android:text="设备已连接"
+                    style="@style/text_darkShadow7"
+                    android:textColor="@color/bg_green_light"
+                    android:textSize="12sp" />
+
+            </LinearLayout> -->
+            
+        </FrameLayout>
+</LinearLayout>

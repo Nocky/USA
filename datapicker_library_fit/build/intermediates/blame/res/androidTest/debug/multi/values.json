@@ -1,0 +1,786 @@
+[
+    {
+        "outputFile": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 111,
+                    "endColumn": 53,
+                    "endOffset": 160
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 111,
+                        "endColumn": 53,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 165,
+                    "endColumn": 55,
+                    "endOffset": 216
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 55,
+                        "endOffset": 216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 221,
+                    "endColumn": 38,
+                    "endOffset": 255
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 221,
+                        "endColumn": 38,
+                        "endOffset": 255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 260,
+                    "endColumn": 45,
+                    "endOffset": 301
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 260,
+                        "endColumn": 45,
+                        "endOffset": 301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 306,
+                    "endColumn": 67,
+                    "endOffset": 369
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 306,
+                        "endColumn": 67,
+                        "endOffset": 369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 374,
+                    "endColumn": 47,
+                    "endOffset": 417
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 374,
+                        "endColumn": 47,
+                        "endOffset": 417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 422,
+                    "endColumn": 41,
+                    "endOffset": 459
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 422,
+                        "endColumn": 41,
+                        "endOffset": 459
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 2391,
+                    "endColumn": 42,
+                    "endOffset": 2429
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 2391,
+                        "endColumn": 42,
+                        "endOffset": 2429
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 2434,
+                    "endColumn": 42,
+                    "endOffset": 2472
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2434,
+                        "endColumn": 42,
+                        "endOffset": 2472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 2477,
+                    "endColumn": 41,
+                    "endOffset": 2514
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2477,
+                        "endColumn": 41,
+                        "endOffset": 2514
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2519,
+                    "endColumn": 74,
+                    "endOffset": 2589
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2519,
+                        "endColumn": 74,
+                        "endOffset": 2589
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2594,
+                    "endColumn": 78,
+                    "endOffset": 2668
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2594,
+                        "endColumn": 78,
+                        "endOffset": 2668
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2673,
+                    "endColumn": 76,
+                    "endOffset": 2745
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2673,
+                        "endColumn": 76,
+                        "endOffset": 2745
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2750,
+                    "endColumn": 64,
+                    "endOffset": 2810
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2750,
+                        "endColumn": 64,
+                        "endOffset": 2810
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2815,
+                    "endColumn": 74,
+                    "endOffset": 2885
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2815,
+                        "endColumn": 74,
+                        "endOffset": 2885
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2890,
+                    "endColumn": 78,
+                    "endOffset": 2964
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2890,
+                        "endColumn": 78,
+                        "endOffset": 2964
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2969,
+                    "endColumn": 76,
+                    "endOffset": 3041
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2969,
+                        "endColumn": 76,
+                        "endOffset": 3041
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 3046,
+                    "endColumn": 47,
+                    "endOffset": 3089
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3046,
+                        "endColumn": 47,
+                        "endOffset": 3089
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 3094,
+                    "endColumn": 45,
+                    "endOffset": 3135
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3094,
+                        "endColumn": 45,
+                        "endOffset": 3135
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 3140,
+                    "endLine": 28,
+                    "endColumn": 12,
+                    "endOffset": 3256
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3140,
+                        "endLine": 28,
+                        "endColumn": 12,
+                        "endOffset": 3256
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3261,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 3451
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 3261,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 3451
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3456,
+                    "endLine": 40,
+                    "endColumn": 12,
+                    "endOffset": 4031
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 3456,
+                        "endLine": 40,
+                        "endColumn": 12,
+                        "endOffset": 4031
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4036,
+                    "endLine": 45,
+                    "endColumn": 12,
+                    "endOffset": 4257
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 4036,
+                        "endLine": 45,
+                        "endColumn": 12,
+                        "endOffset": 4257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4262,
+                    "endLine": 48,
+                    "endColumn": 12,
+                    "endOffset": 4409
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 4262,
+                        "endLine": 48,
+                        "endColumn": 12,
+                        "endOffset": 4409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 4414,
+                    "endLine": 51,
+                    "endColumn": 12,
+                    "endOffset": 4579
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 4414,
+                        "endLine": 51,
+                        "endColumn": 12,
+                        "endOffset": 4579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 4584,
+                    "endLine": 54,
+                    "endColumn": 12,
+                    "endOffset": 4763
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 4584,
+                        "endLine": 54,
+                        "endColumn": 12,
+                        "endOffset": 4763
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 4768,
+                    "endLine": 56,
+                    "endColumn": 12,
+                    "endOffset": 4899
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 4768,
+                        "endLine": 56,
+                        "endColumn": 12,
+                        "endOffset": 4899
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 4904,
+                    "endLine": 59,
+                    "endColumn": 12,
+                    "endOffset": 5072
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 4904,
+                        "endLine": 59,
+                        "endColumn": 12,
+                        "endOffset": 5072
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 5077,
+                    "endLine": 66,
+                    "endColumn": 12,
+                    "endOffset": 5506
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 5077,
+                        "endLine": 66,
+                        "endColumn": 12,
+                        "endOffset": 5506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 5511,
+                    "endLine": 69,
+                    "endColumn": 12,
+                    "endOffset": 5625
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 5511,
+                        "endLine": 69,
+                        "endColumn": 12,
+                        "endOffset": 5625
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 5630,
+                    "endLine": 84,
+                    "endColumn": 12,
+                    "endOffset": 6530
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 5630,
+                        "endLine": 84,
+                        "endColumn": 12,
+                        "endOffset": 6530
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 6535,
+                    "endLine": 91,
+                    "endColumn": 12,
+                    "endOffset": 6951
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 6535,
+                        "endLine": 91,
+                        "endColumn": 12,
+                        "endOffset": 6951
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 6956,
+                    "endLine": 101,
+                    "endColumn": 12,
+                    "endOffset": 7640
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 6956,
+                        "endLine": 101,
+                        "endColumn": 12,
+                        "endOffset": 7640
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 7645,
+                    "endLine": 105,
+                    "endColumn": 12,
+                    "endOffset": 7847
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 7645,
+                        "endLine": 105,
+                        "endColumn": 12,
+                        "endOffset": 7847
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 7852,
+                    "endLine": 114,
+                    "endColumn": 12,
+                    "endOffset": 8450
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 4,
+                        "startOffset": 7852,
+                        "endLine": 114,
+                        "endColumn": 12,
+                        "endOffset": 8450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 8455,
+                    "endLine": 116,
+                    "endColumn": 12,
+                    "endOffset": 8543
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 8455,
+                        "endLine": 116,
+                        "endColumn": 12,
+                        "endOffset": 8543
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 8548,
+                    "endLine": 122,
+                    "endColumn": 12,
+                    "endOffset": 8813
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 4,
+                        "startOffset": 8548,
+                        "endLine": 122,
+                        "endColumn": 12,
+                        "endOffset": 8813
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 8818,
+                    "endLine": 131,
+                    "endColumn": 12,
+                    "endOffset": 9299
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 4,
+                        "startOffset": 8818,
+                        "endLine": 131,
+                        "endColumn": 12,
+                        "endOffset": 9299
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\libs\locSDK_4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="41b93335a2753c93f8b8f56741615cb81ea72437">
+        <dex dex="F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\build\intermediates\transforms\dex\debug\folders\1000\2\locSDK_4.2_83d9cd99ed6da45fee13a59c61d3e15ed2235d2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\libs\EPC_common_android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9a2014a5f16c0f982e88bb37ae96a225b8b5745b">
+        <dex dex="F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\build\intermediates\transforms\dex\debug\folders\1000\2\EPC_common_android_0e9cbdbd6c9c846db1e02c88a733c8ae40d37c5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\DanielEclipse\rt_c_watch_work_new\SlidingMenuLibrary\build\intermediates\bundles\default\libs\android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aaa9bc27cf2226482875d769ac45286970935b21">
+        <dex dex="F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\build\intermediates\transforms\dex\debug\folders\1000\8\android-support-v4_4b49d40dff33c0fb4a8b8bd18e3002759fc388ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\libs\eva_android_extra_jarable.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="afcaee4ec5d5ae866989990d59e8cd5aafd69816">
+        <dex dex="F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\build\intermediates\transforms\dex\debug\folders\1000\2\eva_android_extra_jarable_4face6aa687c52c1f6b77a2b67578f0bef53ec27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\DanielEclipse\rt_c_watch_work_new\Linkloving_BLE4.0_lib\build\intermediates\bundles\default\libs\connectfactorylibrary.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a6b10b52569c2d85de0864dabce394ab2c912881">
+        <dex dex="F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\build\intermediates\transforms\dex\debug\folders\1000\8\connectfactorylibrary_d9373861b76307c7fa73547cf881b0a5bc5c48d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\libs\gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.2.4_9f93fa6cecff70378756a8e0020328075fcd531c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\DanielEclipse\rt_c_watch_work_new\OneKeyShare-fitincluded\build\intermediates\bundles\default\libs\MobTools-2017.0412.1554.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8cdc21c1d3204abe56d6dca37b0cfecc1e77e454">
+        <dex dex="F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\build\intermediates\transforms\dex\debug\folders\1000\8\MobTools-2017.0412.1554_f2bb71154db47beb5289a9495e8daac5330e29aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\libs\EPC_core_c_android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="569fddcb3c9dbb9014d7eb346e3067956af9bc54">
+        <dex dex="F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\build\intermediates\transforms\dex\debug\folders\1000\2\EPC_core_c_android_e8a0d2561c7d47fe47d65bd6f1c4dd5eae48486f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\libs\mta-sdk-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1d1a215c3acd13ef011b8391cab495f7760c2a1d">
+        <dex dex="F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\build\intermediates\transforms\dex\debug\folders\1000\2\mta-sdk-1.0.0_2c2057ee7b3450a6aba2d59ea82f31bc00789d77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\leo.wang\.android\build-cache\25d43557ebbd686b520da298dad4af35f86d8e84\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e4da6cdb80e84f44d9527289159b43a300bb9074\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\libs\eva_android_jarable.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="97201c85e9c6a7ea464fc03299b51acac78315bb">
+        <dex dex="F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\build\intermediates\transforms\dex\debug\folders\1000\2\eva_android_jarable_dc4427d974f85ec9fcfb958f0bebd241eeb17c10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\DanielEclipse\rt_c_watch_work_new\OneKeyShare-fitincluded\build\intermediates\bundles\default\libs\MobCommons-2017.0412.1554.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="673f26ccfc1d95183b03754d5125e557a72715c4">
+        <dex dex="F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\build\intermediates\transforms\dex\debug\folders\1000\8\MobCommons-2017.0412.1554_992d78b497daa2687fe834666c3f821f2c002ac1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\DanielEclipse\rt_c_watch_work_new\google-play-services_lib\build\intermediates\bundles\default\libs\google-play-services.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ea56075d19eab0f0b788ac700a7dabb5a043c3e">
+        <dex dex="F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\build\intermediates\transforms\dex\debug\folders\1000\8\google-play-services_3f1938c743c7fefbd4dcf723559c4e782c8ed65a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_0efc9cf274ec33b31847a6de70f0af280da97bc4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\DanielEclipse\rt_c_watch_work_new\OneKeyShare-fitincluded\build\intermediates\bundles\default\libs\ShareSDK-Core-2.8.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af540798cba0f2535af122735c82a43d02a4dbe">
+        <dex dex="F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\build\intermediates\transforms\dex\debug\folders\1000\8\ShareSDK-Core-2.8.3_7fd9506b0010bf36e6373f05d5a328c379464ded\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\DanielEclipse\rt_c_watch_work_new\OneKeyShare-fitincluded\build\intermediates\bundles\default\libs\ShareSDK-Facebook-2.8.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8c41a4eb048e796e305149770c8d5132e8f8c1c2">
+        <dex dex="F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\build\intermediates\transforms\dex\debug\folders\1000\8\ShareSDK-Facebook-2.8.3_c18ee95500c712c7565aae84c7b62ef937841e86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="02eb6cd78d49aa9c5e2776d5f3d1980e26b39f39">
+        <dex dex="F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e970d0fa13d68eae977006194c37adaa4456a185\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\libs\baidumapapi_v3_1_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efeb871ae8a927e8d9c0d3e439ebde93621f888a">
+        <dex dex="F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\build\intermediates\transforms\dex\debug\folders\1000\2\baidumapapi_v3_1_1_4e8573d841b76a501dbd291a1c152190f7a7ee6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\libs\EFIMCoreServer_meta.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="991d07eb0faee4149424c66481f5a3bf1f8a9608">
+        <dex dex="F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\build\intermediates\transforms\dex\debug\folders\1000\2\EFIMCoreServer_meta_7f7808fda92dc612ceeab86087db0d0dc9779b81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\libs\rtring_s_new_s_watch_utils.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25a7a5baa2167c71c0abb8a8cebc47dee7c8571f">
+        <dex dex="F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\build\intermediates\transforms\dex\debug\folders\1000\2\rtring_s_new_s_watch_utils_5a751184c399270ea9f42034d8fb1d9225aeee91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\libs\linkloving_band.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="29d82ac76913757c606a463baeb07b0d38d45a81">
+        <dex dex="F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\build\intermediates\transforms\dex\debug\folders\1000\2\linkloving_band_ef57989c1879c6253f2f3eb07cb7208d91d0b260\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\libs\fastjson-1.0.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1164ef7cd9e39a348988f90c74d98f9a03b85181">
+        <dex dex="F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\build\intermediates\transforms\dex\debug\folders\1000\2\fastjson-1.0.4_f90a9e250581ffa2ecc26158df39dcb7c99543c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\libs\eva_android_dto.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e9a7a580c3b0f54f01860965599ec4a942ea3d3">
+        <dex dex="F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\build\intermediates\transforms\dex\debug\folders\1000\2\eva_android_dto_702bee47d3124be320593839471dea907d466d3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\DanielEclipse\rt_c_watch_work_new\OneKeyShare-fitincluded\build\intermediates\bundles\default\libs\ShareSDK-Twitter-2.8.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e2675d1254193ed0934ae756441bd2102370908">
+        <dex dex="F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\build\intermediates\transforms\dex\debug\folders\1000\8\ShareSDK-Twitter-2.8.3_779691b8c302dea0759e64b79f2154bbf988efb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\libs\rtring_s_new_s_watch_dto.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="70498224bd71a8a650373132f58a2201dd3c61c8">
+        <dex dex="F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\build\intermediates\transforms\dex\debug\folders\1000\2\rtring_s_new_s_watch_dto_8eb3e6e288daedd5312608f81f25c32b6d18d8d1\classes.dex" />
+    </item>
+
+</items>

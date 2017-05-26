@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/user_info_update_what_s_up_LL"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp" >
+
+    <EditText
+        android:id="@+id/user_info_update_whatsupView"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/info_bg"
+        android:lines="5"
+        android:textColor="@color/m00_text_black_666666_color"
+        android:hint="@string/user_info_what_s_up_enter_hint"
+        android:gravity="top"
+        android:maxLength="3600"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/user_info_update_whatsup_max"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:text="* You can enter 3600 characters"
+        android:textColor="@color/medium_gray2"
+        android:textSize="12sp"  />
+
+</LinearLayout>

@@ -1,0 +1,38 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+   >
+   <com.handmark.pulltorefresh.library.PullToRefreshListView
+                     android:layout_width="fill_parent"
+                      android:layout_height="fill_parent"
+                      android:id="@+id/comments_list">
+   </com.handmark.pulltorefresh.library.PullToRefreshListView>
+    <LinearLayout
+        android:id="@+id/comments_activity_null_data_LL"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:visibility="gone" >
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="129dp"
+            android:src="@drawable/ranking_activity_null_data" />
+
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="28dp"
+            android:text="@string/general_null_data"
+            android:textColor="@color/gray_for_text"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+</LinearLayout>
+

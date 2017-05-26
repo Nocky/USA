@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/about_activity"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <com.eva.android.widget.CustomeTitleBar
+        android:id="@+id/main_about_titleBar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+    </com.eva.android.widget.CustomeTitleBar>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/new_logo" />
+
+        <ScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/imageView1"
+            android:fadingEdge="none" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:fadingEdge="none"
+                android:orientation="vertical"
+                android:paddingBottom="11.0dip"
+                android:paddingLeft="11.0dip"
+                android:paddingRight="11.0dip"
+                android:paddingTop="11.0dip" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="90dp"
+                    android:background="@drawable/common_settings_item_bg_group_full"
+                    android:orientation="vertical"
+                    android:padding="0dp" >
+
+                    <FrameLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="0dip" >
+
+                        <Button
+                            android:id="@+id/main_about_terms_conditions"
+                            style="@style/settings_item_bg_group_top"
+                            android:drawableRight="@drawable/common_list_item_rightarrow_icon"
+                            android:textColor="@color/black"
+                            android:text="@string/main_about_terms_conditions" />
+
+                        <TextView
+                            style="@style/settings_item_textView"
+                            android:layout_marginTop="2.5dp"
+                            android:text=""
+                            android:textColor="@color/text_bluesky1"
+                            android:textSize="14sp" />
+                    </FrameLayout>
+                    
+                    <ImageView
+                    android:id="@+id/imageView2"
+                    style="@style/settings_item_bg_group_image_view_separator" />
+
+                    <FrameLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content" >
+
+                        <Button
+                            android:id="@+id/main_about_privacy_policy"
+                            style="@style/settings_item_bg_group_bottom"
+                            android:textColor="@color/black"
+                            android:drawableRight="@drawable/common_list_item_rightarrow_icon"
+                            android:text="@string/main_about_privacy_policy" />
+
+                        <TextView
+                            style="@style/settings_item_textView"
+                            android:layout_marginTop="2.5dp"
+                            android:text=""
+                            android:textColor="@color/text_bluesky1"
+                            android:textSize="14sp" />
+                    </FrameLayout>
+                </LinearLayout>
+
+                <!-- 大陆 START -->
+                <LinearLayout
+                    android:visibility="gone"
+                    android:id="@+id/main_about_sns_cn_ll"
+                    android:layout_width="fill_parent"
+                    android:layout_height="110dp"
+                    android:layout_marginTop="14dp"
+                    android:background="@drawable/common_settings_item_bg_group_full"
+                    android:orientation="vertical" >
+
+                    <FrameLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dip" >
+
+                        <Button
+                            android:id="@+id/main_about_weibo"
+                            style="@style/settings_item_bg_group_top"
+                            android:drawableLeft="@drawable/icon_weibo"
+                            android:text="@string/main_about_weibo"
+                            android:textColor="@color/m00_text_black_333333_color" />
+
+                        <TextView
+                            style="@style/settings_item_textView"
+                            android:layout_marginTop="2.5dp"
+                            android:drawablePadding="10dp"
+                            android:drawableRight="@drawable/common_list_item_rightarrow_icon"
+                            android:text="weibo.com/linkloving"
+                            android:textColor="@color/text_bluesky1"
+                            android:textSize="12sp" />
+                    </FrameLayout>
+                    
+                     <ImageView
+                    android:id="@+id/imageView101"
+                    style="@style/settings_item_bg_group_image_view_separator" />
+
+                    <FrameLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content" >
+
+                        <Button
+                            android:id="@+id/main_about_douban"
+                            style="@style/settings_item_bg_group_bottom"
+                            android:drawableLeft="@drawable/icon_douban"
+                            android:text="@string/main_about_douban"
+                            android:textColor="@color/m00_text_black_333333_color" />
+
+                        <TextView
+                            android:id="@+id/main_about_douban_urlView"
+                            style="@style/settings_item_textView"
+                            android:layout_marginBottom="2.5dp"
+                            android:drawablePadding="10dp"
+                            android:drawableRight="@drawable/common_list_item_rightarrow_icon"
+                            android:ellipsize="end"
+                            android:maxLength="30"
+                            android:singleLine="true"
+                            android:text="http://douban.com/people/linkloving"
+                            android:textColor="@color/text_bluesky1"
+                            android:textSize="12sp" />
+                    </FrameLayout>
+                </LinearLayout> 
+
+                <!-- 大陆 END -->
+                
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="110dp"
+                    android:layout_marginTop="14dp"
+                    android:background="@drawable/common_settings_item_bg_group_full"
+                    android:orientation="vertical"
+                    android:padding="0dp" >
+
+                <FrameLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp" >
+
+                    <Button
+                        android:id="@+id/main_about_official_website"
+                        style="@style/settings_item_bg_group_top"
+                        android:drawableLeft="@drawable/icon_official_website"
+                        android:drawableRight="@drawable/common_list_item_rightarrow_icon"
+                        android:textColor="@color/black"
+                        android:text="@string/main_about_official_website" />
+
+                    <TextView
+                        android:id="@+id/sms_block_info8"
+                        style="@style/settings_item_textView"
+                        android:text="" />
+                </FrameLayout>
+                
+                 <ImageView
+                    android:id="@+id/imageView100"
+                    style="@style/settings_item_bg_group_image_view_separator" />
+
+                <FrameLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content" >
+
+                    <Button
+                        android:id="@+id/main_about_mail"
+                        style="@style/settings_item_bg_group_bottom"
+                        android:drawableLeft="@drawable/icon_mail"
+                        android:drawableRight="@drawable/common_list_item_rightarrow_icon"
+                        android:textColor="@color/black"
+                        android:text="@string/main_about_mail" />
+
+                    <TextView
+                        style="@style/settings_item_textView"
+                        android:layout_marginTop="2.5dp"
+                        android:text=""
+                        android:textColor="@color/text_bluesky1"
+                        android:textSize="14sp" />
+                </FrameLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
+
+        <LinearLayout
+            android:id="@+id/linearLayout1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:visibility="gone"
+            android:paddingBottom="20.0dip" >
+
+            <TextView
+                android:id="@+id/main_about_versionView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/imageView1"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:text="version_info"
+                android:textColor="@color/m00_text_black_666666_color"
+                android:textSize="12sp" />
+
+            <TextView
+                style="@style/text_witheShadow1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:singleLine="true"
+                android:text="@string/main_about_publish_by"
+                android:textColor="#ff666666"
+                android:textSize="11.0sp" />
+
+            <TextView
+                style="@style/text_witheShadow1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ellipsize="start"
+                android:gravity="center"
+                android:singleLine="true"
+                android:text="Copyright © 2014 www.demo.com"
+                android:textColor="#ff666666"
+                android:textSize="10.0sp" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+     >
+
+    <LinearLayout
+        android:id="@+id/fragment_main_menu"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/widget_title_bar_bg"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:id="@+id/fragment_main_menu_linear"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:background="@drawable/main_fragment_title_logo_bg_selector"
+                android:clickable="true"
+                android:focusable="true"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                
+             <!--    <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:src="@drawable/portal_more" /> -->
+
+                <FrameLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" >
+
+                    <ImageView
+                        android:id="@+id/main_fragment_little_logo"
+                        android:layout_width="135dp"
+                        android:layout_height="28dp"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginLeft="15dp"
+                        android:src="@drawable/main_fragment_little_logo" />
+
+                    <TextView
+                        android:id="@+id/main_fragment_unread_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/unread_bg"
+                        android:gravity="center"
+                        android:text=""
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginBottom="20dp"
+                        android:textColor="@color/white"
+                        android:textSize="10sp"
+                        android:textStyle="bold"
+                        android:visibility="gone"
+                       />
+                </FrameLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="right|center_vertical"
+                android:orientation="vertical" >
+
+                <FrameLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent"
+                    android:paddingLeft="15dp"
+                    android:paddingRight="15dp" >
+
+                    <ImageView
+                        android:id="@+id/fragment_ble_bgView"
+                        android:layout_width="wrap_content"
+                        android:layout_height="fill_parent"
+                        android:layout_gravity="center"
+                        android:src="@drawable/main_fragment_ble_state_icon_unconnect" />
+
+                    <LinearLayout
+                        android:id="@+id/fragment_ble_battery_linear"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_gravity="center"
+                        android:background="@drawable/main_fragment_title_logo_bg_selector"
+                        android:gravity="center_vertical"
+                        android:orientation="vertical" >
+
+                        <LinearLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="7dp"
+                            android:clickable="false"
+                            android:focusable="false"
+                            android:gravity="center"
+                            android:orientation="horizontal" >
+
+                            <ImageView
+                                android:id="@+id/fragment_ble_battery"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:src="@drawable/fullscreen_bt_bg" />
+
+                            <TextView
+                                android:id="@+id/fragment_ble_descView"
+                                style="@style/text_darkShadow8"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="连接中..."
+                                android:textColor="@color/white"
+                                android:textSize="@dimen/m00_font_size_14pt"
+                                android:visibility="gone" />
+
+                            <TextView
+                                android:id="@+id/fragment_ble_battery_percent"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="电量--%"
+                                android:textColor="@color/white"
+                                android:textSize="@dimen/m00_font_size_18pt"
+                                android:visibility="gone" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:visibility="gone" >
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginRight="0dp"
+                                android:text="同步于"
+                                android:textColor="@color/white"
+                                android:textSize="@dimen/m00_font_size_18pt" />
+
+                            <TextView
+                                android:id="@+id/fragment_ble_sync_time"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginBottom="5dp"
+                                android:text="--月--日 --:--"
+                                android:textColor="@color/white"
+                                android:textSize="@dimen/m00_font_size_18pt" />
+                        </LinearLayout>
+                    </LinearLayout>
+                </FrameLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/fragment_syncTipLL"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top|center"
+            android:layout_marginBottom="0dp"
+            android:gravity="center_vertical"
+            android:paddingBottom="6dp"
+            android:paddingLeft="8dp"
+            android:paddingRight="8dp"
+            android:paddingTop="6dp" >
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="15dp"
+                android:layout_height="15dp"
+                android:src="@drawable/widget_unduplitoast_icon" />
+
+            <TextView
+                android:id="@+id/textView2"
+                style="@style/text_witheShadow2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:layout_weight="1"
+                android:text="tip:swipe down to sync"
+                android:textColor="@color/white"
+                android:textSize="12sp" />
+
+            <ImageView
+                android:id="@+id/fragment_tip_closeView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="5dp"
+                android:src="@drawable/main_fragment_tip_close_btn" />
+        </LinearLayout>
+
+        <com.handmark.pulltorefresh.library.PullToRefreshScrollView
+            android:id="@+id/fragment_ble_scrollView"
+            android:layout_width="fill_parent"
+            android:layout_height="0px"
+            android:layout_weight="1" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="43dp"
+                    android:layout_marginTop="20dp"
+                    android:gravity="center" >
+
+                    <Button
+                        android:id="@+id/report_page_activity_circleviews_dataswitch_leftBtn"
+                        android:layout_width="43dp"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="30dp"
+                        android:background="@drawable/main_report_page_left_btn"
+                        android:text="" />
+
+                    <LinearLayout
+                        android:id="@+id/report_page_activity_circleviews_dataswitchLL"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center" >
+
+                        <TextView
+                            android:id="@+id/report_page_activity_circleviews_dataswitch_dateView"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:clickable="false"
+                            android:focusable="false"
+                            android:gravity="center"
+                            android:text="- ~ -"
+                            android:textSize="19sp" />
+
+                        <ImageView
+                            android:id="@+id/imageView3"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="3dp"
+                            android:clickable="false"
+                            android:focusable="false"
+                            android:src="@drawable/main_fragment_title_arrow" />
+                    </LinearLayout>
+
+                    <Button
+                        android:id="@+id/report_page_activity_circleviews_dataswitch_rightBtn"
+                        android:layout_width="43dp"
+                        android:layout_marginRight="30dp"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/main_report_page_right_btn"
+                        android:text="" />
+                </LinearLayout>
+
+                <RadioGroup
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="15dp"
+                    android:layout_marginTop="10dp"
+                    android:gravity="center"
+                    android:orientation="horizontal" >
+
+                    <RadioButton
+                        android:id="@+id/fragment_ble_sport_btn"
+                        android:layout_width="100dp"
+                        android:layout_height="60dp"
+                        android:background="@drawable/portal_sport_bg"
+                        android:button="@null"
+                        android:gravity="center"
+                        android:padding="0dp"
+                        android:text="@string/general_sport"
+                        android:textColor="@color/main_fragment_radio_btn_textcolor_selector" />
+                    <RadioButton
+                        android:layout_width="20dp"
+                        android:layout_height="wrap_content"
+                        android:button="@null"
+                        android:gravity="center"
+                        android:padding="0dp" />
+                    <RadioButton
+                        android:id="@+id/fragment_ble_sleep_btn"
+                        android:layout_width="100dp"
+                        android:layout_height="60dp"
+                        android:background="@drawable/portal_sport_bg"
+                        android:button="@null"
+                        android:gravity="center"
+                        android:padding="0dp"
+                        android:text="@string/general_sleep"
+                        android:textColor="@color/main_fragment_radio_btn_textcolor_selector" />
+                </RadioGroup>
+
+                <FrameLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+
+                    <include
+                        android:id="@+id/circle_bar"
+                        layout="@layout/view_circle_bar" />
+
+                    <include
+                        android:id="@+id/circle_bar_night"
+                        layout="@layout/view_circle_bar_night"
+                        android:visibility="gone" />
+
+                    <LinearLayout
+                        android:id="@+id/main_cirrcle_view_clickableLL"
+                        android:layout_width="276dp"
+                        android:layout_height="276dp"
+                        android:layout_gravity="center"
+                        android:background="@drawable/main_circle_view_clickable_selector"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:orientation="horizontal">
+                    </LinearLayout>
+                </FrameLayout>
+            </LinearLayout>
+        </com.handmark.pulltorefresh.library.PullToRefreshScrollView>
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/test_info"
+                android:layout_width="260dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="3dp"
+                android:layout_marginLeft="3dp"
+                android:layout_marginRight="3dp"
+                android:layout_weight="0.57"
+                android:drawableLeft="@drawable/main_fragment_ble_hint_icon"
+                android:drawablePadding="3dp"
+                android:ellipsize="end"
+                android:singleLine="true"
+                android:text=""
+                android:textColor="@color/medium_gray2"
+                android:textSize="10sp"
+                android:visibility="gone" 
+                />
+
+            <TextView
+                android:id="@+id/ble_state"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="3dp"
+                android:layout_marginRight="3dp"
+                android:singleLine="true"
+                android:text=""
+                android:textColor="@color/bg_gray"
+                android:textSize="10sp"
+                android:visibility="gone" />
+        </RelativeLayout>
+
+        <FrameLayout
+            android:id="@+id/main_ent_notice_LL"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="3dp"
+            android:background="@drawable/main_ent_notice_bg"
+            android:clickable="true"
+            android:gravity="center"
+            android:padding="0dp" >
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left|center_vertical"
+                android:layout_marginLeft="8dp"
+                android:src="@drawable/main_ent_notice_icon" />
+
+            <TextView
+                android:id="@+id/main_ent_notice_count"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left|top"
+                android:layout_marginLeft="22dp"
+                android:layout_marginTop="1dp"
+                android:background="@drawable/main_ent_notice_count"
+                android:gravity="center"
+                android:text="1"
+                android:textColor="@color/white"
+                android:textSize="10sp" />
+
+            <TextView
+                android:id="@+id/main_ent_notice"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="28dp"
+                android:text="若态中秋节活动，请各位同仁一起参加"
+                android:textColor="@color/text_bluesky1"
+                android:textSize="12sp" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right|center"
+                android:layout_marginRight="10dp"
+                android:src="@drawable/main_ent_notice_arrow" />
+        </FrameLayout>
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:orientation="vertical"
+            android:background="@drawable/line_bg"
+            android:layout_marginBottom="10dp"
+             >
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="100dp"
+            android:orientation="horizontal"
+             >
+
+            <LinearLayout
+                android:id="@+id/fragment_ble_day_linear"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:layout_width="0px"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:orientation="vertical" >
+
+                        <ImageView
+                            android:layout_width="50dp"
+                            android:layout_height="50dp"
+                            android:background="@drawable/portal_steps_img" />
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/report_steps"
+                            android:textColor="@color/white"
+                            android:textSize="12sp" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:gravity="center" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="0"
+                            android:textColor="@color/text_red"
+                            android:textSize="@dimen/m00_font_size_24pt" />
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text=" "
+                            />
+                        <TextView
+                            android:id="@+id/fragment_ble_steps"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/unit_step"
+                            android:textColor="@color/text_red"
+                            android:textSize="@dimen/m00_font_size_24pt" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                
+
+                <LinearLayout
+                    android:layout_width="0px"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:orientation="vertical" >
+
+                        <ImageView
+                            android:layout_width="50dp"
+                            android:layout_height="50dp"
+                            android:background="@drawable/portal_distance_img" />
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/unit_mileage"
+                            android:textColor="@color/white"
+                            android:textSize="12sp" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:gravity="center" >
+
+                        <TextView
+                            android:id="@+id/fragment_ble_distance"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/text_red"
+                            android:textSize="@dimen/m00_font_size_24pt" />
+                    </LinearLayout>
+                </LinearLayout>
+
+              
+
+                <LinearLayout
+                    android:layout_width="0px"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:orientation="vertical" >
+
+                        <ImageView
+                            android:layout_width="50dp"
+                            android:layout_height="50dp"
+                            android:background="@drawable/portal_calory_img" />
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/unit_cal"
+                            android:textColor="@color/white"
+                            android:textSize="12sp" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:gravity="center" >
+
+                        <TextView
+                            android:id="@+id/fragment_ble_calory"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="0 Cal"
+                            android:textColor="@color/text_red"
+                            android:textSize="@dimen/m00_font_size_24pt" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/fragment_ble_night_linear"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:orientation="horizontal"
+                android:visibility="gone" >
+
+                <LinearLayout
+                    android:layout_width="0px"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:orientation="vertical" >
+
+                        <ImageView
+                            android:layout_width="50dp"
+                            android:layout_height="50dp"
+                            android:background="@drawable/portal_sleep_img" />
+
+                        <TextView
+                            style="@style/text_darkShadow8"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/detail_sport_data_qssj"
+                            android:textColor="@color/white"  
+                            android:textSize="15sp" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:gravity="center" >
+
+                        <TextView
+                            android:id="@+id/fragment_ble_sleep"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="0h"
+                            android:textColor="@color/text_red"
+                            android:textSize="@dimen/m00_font_size_24pt" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0px"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:orientation="vertical" >
+
+                        <ImageView
+                            android:layout_width="50dp"
+                            android:layout_height="50dp"
+                            android:background="@drawable/portal_deep_sleep_img" />
+
+                        <TextView
+                            style="@style/text_darkShadow8"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/detail_sport_data_sssj"
+                            android:textColor="@color/white"  
+                            android:textSize="15sp" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:gravity="center" >
+
+                        <TextView
+                            android:id="@+id/fragment_ble_sleep_deep"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="0h"
+                            android:textColor="@color/text_red"
+                            android:textSize="@dimen/m00_font_size_24pt" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <!-- 2014-08-26d一拖多的蓝牙切换有时不可靠，所以此功能暂时不发布了！ -->
+
+    <LinearLayout
+        android:id="@+id/account_head_group"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:layout_marginTop="150dp"
+        android:background="@drawable/child_account_home_bg"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:visibility="gone" >
+
+        <FrameLayout
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginLeft="5dp" >
+
+            <ImageView
+                android:id="@+id/account_head_imageView"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:src="@drawable/mini_avatar_shadow_rec" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/child_account_home_head" />
+        </FrameLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/child_account_arrow_right" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/first_in_dialog_LL"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@color/back_black"
+        android:clickable="true"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:visibility="gone" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="60dp"
+            android:src="@drawable/down_pull_to_refresh" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="90dp"
+            android:src="@drawable/click_to_detail" />
+    </LinearLayout>
+
+</FrameLayout>

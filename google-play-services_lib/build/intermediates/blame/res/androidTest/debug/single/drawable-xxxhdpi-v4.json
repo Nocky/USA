@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4\\places_ic_clear.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\places_ic_clear.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4\\places_ic_search.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\places_ic_search.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4\\powered_by_google_light.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\powered_by_google_light.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4\\powered_by_google_dark.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\powered_by_google_dark.png"
+    }
+]

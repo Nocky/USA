@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 95,
+                    "endOffset": 146
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 95,
+                        "endOffset": 146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 151,
+                    "endColumn": 64,
+                    "endOffset": 211
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\Linkloving_BLE4.0_lib\\build\\intermediates\\bundles\\default\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 64,
+                        "endOffset": 115
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\PullToRefreshLibrary\\build\\intermediates\\bundles\\default\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\PullToRefreshLibrary\\build\\intermediates\\bundles\\default\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\anim\\widget_loading_big1.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\anim\\widget_loading_big1.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\anim\\widget_choice_item_popup_push_bottom_in.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\anim\\widget_choice_item_popup_push_bottom_in.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\anim\\widget_choice_item_popup_push_bottom_out.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\anim\\widget_choice_item_popup_push_bottom_out.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\anim\\widget_loading_infinite_colorfull.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\anim\\widget_loading_infinite_colorfull.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\anim\\popup_exit.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\anim\\popup_exit.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\PullToRefreshLibrary\\build\\intermediates\\bundles\\default\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\PullToRefreshLibrary\\build\\intermediates\\bundles\\default\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\anim\\popup_enter.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\anim\\popup_enter.xml"
+    }
+]

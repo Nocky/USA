@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/alarm_item_setting_clickableLL"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:clickable="true"
+    android:focusable="true"
+    android:orientation="horizontal"
+    android:paddingLeft="15dp"
+    android:paddingRight="15dp" >
+
+    <ImageView
+        android:id="@+id/alarm_item_setting_btn"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_gravity="left|center_vertical"
+        android:clickable="false"
+        android:focusable="false"
+        android:background="@drawable/alarm_item_icon_nor" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="false"
+        android:focusable="false"
+        android:layout_gravity="left|center_vertical"
+        android:layout_marginLeft="50dp"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/alarm_item_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|left"
+            android:layout_marginLeft="5dp"
+            android:clickable="false"
+            android:focusable="false"
+            android:gravity="center"
+            android:text="05:06"
+            android:textColor="@color/text_red"
+            android:textSize="23sp"
+            android:textStyle="normal" />
+
+        <TextView
+            android:id="@+id/alarm_item_day_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|left"
+            android:layout_marginLeft="5dp"
+            android:clickable="false"
+            android:focusable="false"
+            android:gravity="center"
+            android:text="周一 二 三"
+            android:textColor="@color/white"
+            android:textSize="14sp" />
+
+    </LinearLayout>
+
+ <!--<com.linkloving.rtring_c_watch.widget.SwitchButton
+        android:id="@+id/alarm_item_switch_checkbox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right|center_vertical"
+        android:gravity="center" />   -->
+    <!--  <Switch
+        android:id="@+id/alarm_item_switch_checkbox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right|center_vertical"
+        android:gravity="center" ></Switch>-->
+    
+    <CheckBox
+        android:id="@+id/alarm_item_switch_checkbox"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_width="60dp"
+        android:layout_height="40dp"
+        android:layout_gravity="right|center_vertical"
+        android:background="@drawable/longsit_check_box_selector"
+        android:button="@null"
+        android:gravity="center" />
+
+</FrameLayout>

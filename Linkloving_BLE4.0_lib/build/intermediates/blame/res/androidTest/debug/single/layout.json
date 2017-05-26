@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\Linkloving_BLE4.0_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\listitem_device.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\Linkloving_BLE4.0_lib\\build\\intermediates\\bundles\\debug\\res\\layout\\listitem_device.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\Linkloving_BLE4.0_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\fragment_custom.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\Linkloving_BLE4.0_lib\\build\\intermediates\\bundles\\debug\\res\\layout\\fragment_custom.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\Linkloving_BLE4.0_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\gatt_services_characteristics.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\Linkloving_BLE4.0_lib\\build\\intermediates\\bundles\\debug\\res\\layout\\gatt_services_characteristics.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\Linkloving_BLE4.0_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_custom.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\Linkloving_BLE4.0_lib\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_custom.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\Linkloving_BLE4.0_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\actionbar_indeterminate_progress.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\Linkloving_BLE4.0_lib\\build\\intermediates\\bundles\\debug\\res\\layout\\actionbar_indeterminate_progress.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\Linkloving_BLE4.0_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_main.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\Linkloving_BLE4.0_lib\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_main.xml"
+    }
+]

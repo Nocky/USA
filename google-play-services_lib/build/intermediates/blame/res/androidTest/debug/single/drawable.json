@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    }
+]

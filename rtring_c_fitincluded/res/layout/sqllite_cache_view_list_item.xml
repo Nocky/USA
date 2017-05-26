@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!-- 本地sqlLite缓存查看列表item的布局 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:background="@android:drawable/list_selector_background"
+	android:layout_height="fill_parent" android:orientation="vertical">
+	<RelativeLayout android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:id="@+id/relativeLayout1" android:layout_marginLeft="3dp" android:paddingRight="3dp" android:layout_marginTop="10dp" android:layout_marginBottom="10dp">
+		<Button android:layout_height="wrap_content"
+			android:id="@+id/update_list_item_imageButton" android:background="@drawable/common_refresh_button"
+			android:layout_width="wrap_content" android:layout_alignParentTop="true"
+			android:layout_alignParentRight="true"></Button>
+		<LinearLayout android:layout_width="wrap_content"
+			android:layout_height="fill_parent" android:orientation="vertical"
+			android:id="@+id/linearLayout4">
+			<LinearLayout android:layout_width="fill_parent"
+				android:layout_height="wrap_content" android:id="@+id/linearLayout5">
+				<TextView android:layout_width="wrap_content" android:text="TextView"
+					android:layout_height="wrap_content" android:id="@+id/update_list_item_tableView"
+					android:textColor="@color/gray_for_text" android:textSize="18sp"></TextView>
+			</LinearLayout>
+			<LinearLayout android:layout_width="fill_parent"
+				android:layout_height="wrap_content" android:id="@+id/linearLayout2">
+				<TextView android:layout_width="wrap_content" android:text="最近更新时间："
+					android:textColor="@color/light_gray_for_text"
+					android:layout_height="wrap_content" android:id="@+id/TextView02"
+					android:textSize="14sp"></TextView>
+				<TextView android:layout_width="wrap_content" android:text="TextView"
+					android:layout_height="wrap_content" android:id="@+id/update_timeView "
+					android:textColor="@color/light_gray_for_text" android:textSize="14sp"></TextView>
+			</LinearLayout>
+		</LinearLayout>
+		<TextView android:layout_width="wrap_content" android:text="TextView"
+			android:layout_height="wrap_content" android:id="@+id/data_countView"
+			android:textSize="13sp"
+			android:layout_alignParentTop="true" android:layout_toLeftOf="@+id/update_list_item_imageButton" android:textColor="@color/text_pink"></TextView>
+		<TextView android:text="数据条数:" android:id="@+id/activity_sport_data_detail_sleepSumView"
+			android:layout_width="96dp" android:layout_height="wrap_content"
+			android:gravity="right" android:textColor="@color/light_gray_for_text"
+			android:textSize="13sp" android:layout_alignParentTop="true"
+			android:layout_toLeftOf="@+id/data_countView"></TextView>
+	</RelativeLayout>
+</LinearLayout>

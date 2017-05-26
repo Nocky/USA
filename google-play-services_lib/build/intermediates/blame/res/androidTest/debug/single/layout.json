@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\layout\\place_autocomplete_fragment.xml"
+    }
+]

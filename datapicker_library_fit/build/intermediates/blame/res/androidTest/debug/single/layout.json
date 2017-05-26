@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\date_picker_holo.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\debug\\res\\layout\\date_picker_holo.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\calendar_view.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\debug\\res\\layout\\calendar_view.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\time_layout.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\debug\\res\\layout\\time_layout.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\number_picker_with_selector_wheel.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\debug\\res\\layout\\number_picker_with_selector_wheel.xml"
+    }
+]

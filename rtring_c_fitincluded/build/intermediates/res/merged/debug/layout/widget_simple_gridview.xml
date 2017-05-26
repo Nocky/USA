@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 主功能列表的布局 -->
+<GridView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widget_simple_gridview_id"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:background="#00000000"
+    android:columnWidth="100dp"
+    android:fadingEdge="none"
+    android:gravity="center|left|top"
+    android:horizontalSpacing="8dp"
+    android:numColumns="4"
+    android:padding="0dp"
+    android:paddingBottom="0dp"
+    android:paddingLeft="2dp"
+    android:paddingRight="0dp"
+    android:paddingTop="1dp"
+    android:stretchMode="columnWidth"
+    android:verticalSpacing="0dp" />

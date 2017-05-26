@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 主页"更多"activity总体布局 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_more_linear"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <com.eva.android.widget.CustomeTitleBar
+        android:id="@+id/main_more_titleBar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+    </com.eva.android.widget.CustomeTitleBar>
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:fadingEdge="none" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:fadingEdge="none"
+            android:orientation="vertical"
+            android:paddingBottom="11.0dip"
+            android:paddingLeft="11.0dip"
+            android:paddingRight="11.0dip"
+            android:paddingTop="11.0dip" >
+
+            <FrameLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="15dip" >
+
+                <RelativeLayout
+                    android:id="@+id/main_more_settings_currentUserBtn"
+                    android:layout_width="fill_parent"
+                    android:layout_height="80dip"
+                    android:background="@drawable/more_item_bg"
+                    android:gravity="center_vertical" >
+
+                    <FrameLayout
+                        android:id="@+id/main_more_settings_avatarView_FL"
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="10dip"
+                        android:layout_marginRight="10dip"
+                        android:adjustViewBounds="true" >
+
+                        <ImageView
+                            android:id="@+id/main_more_settings_avatarView"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:src="@drawable/mini_avatar_shadow" />
+
+                        <ImageView
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:src="@drawable/head_personal_userinfo" />
+                    </FrameLayout>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_toRightOf="@+id/main_more_settings_avatarView_FL"
+                        android:orientation="vertical" >
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal" >
+
+                            <TextView
+                                android:id="@+id/main_more_settings_currentUserInfoView"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:ellipsize="end"
+                                android:gravity="center_vertical"
+                                android:singleLine="true"
+                                android:text="Jack Jiang"
+                                android:textColor="@color/white"
+                                android:textSize="16dip" />
+
+                            <ImageView
+                                android:id="@+id/main_more_settings_gender"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="10dp"
+                                android:background="@drawable/gender_woman" />
+                        </LinearLayout>
+
+                        <TextView
+                            android:id="@+id/main_more_settings_mailView"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="5.0dip"
+                            android:ellipsize="end"
+                            android:gravity="center_vertical"
+                            android:singleLine="true"
+                            android:text="3232@qq.com"
+                            android:textColor="#ff888888"
+                            android:textSize="14dip" />
+                    </LinearLayout>
+
+                    <ImageView
+                        android:id="@+id/imageView1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="10dp"
+                        android:src="@drawable/common_list_item_rightarrow_icon" />
+                </RelativeLayout>
+
+                <!--
+            <TextView
+                android:id="@+id/imageView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="top|right"
+                android:gravity="center"
+                android:paddingTop="0dp"
+                android:paddingBottom="2dp"
+                android:layout_marginRight="3dp"
+                android:layout_marginTop="3dp"
+                android:textColor="@color/white"
+                android:textSize="10sp"
+                android:text="Hot"
+                style="@style/text_darkShadow2"
+                android:background="@drawable/main_more_avatar_hot_bg_img" />
+                -->
+            </FrameLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/more_item_bg"
+                android:orientation="vertical"
+                android:padding="0dp" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:id="@+id/main_more_settings_cloud_sync_linear"
+                    android:layout_height="45dp"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal" >
+
+                    <LinearLayout
+                        android:layout_width="0px"
+                        android:layout_height="45dp"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        android:orientation="vertical"
+                        android:paddingLeft="17dp" >
+
+                        
+
+                        <TextView
+                            android:id="@+id/textView1"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/main_more_sycn"
+                            android:textColor="@color/yellow_title" />
+
+                        <TextView
+                            android:id="@+id/main_more_settings_cloud_sync_text"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text=""
+                            android:visibility="gone"
+                            android:textColor="@color/bg_gray"
+                            android:textSize="12sp" />
+                    </LinearLayout>
+                        <ImageView
+                            android:id="@+id/imageView3"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginRight="20dp"
+                            android:src="@drawable/common_list_item_rightarrow_icon" />
+
+                </LinearLayout>
+
+                <ImageView
+                    android:id="@+id/imageView2"
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:layout_marginLeft="3dp"
+                    android:layout_marginRight="3dp"
+                    android:background="@drawable/line_bg"
+                     />
+
+                <FrameLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content" >
+
+                    <Button
+                        android:id="@+id/main_more_settings_currentVersionBtn"
+                        style="@style/settings_item_bg_group_middle"
+                        android:text="@string/main_more_version" />
+
+                    <TextView
+                        android:id="@+id/main_more_settings_currentVersionInfoView"
+                        style="@style/settings_item_textView"
+                        android:drawablePadding="10dp"
+                        android:text="-" />
+                </FrameLayout>
+
+                <ImageView
+                    android:id="@+id/imageView22"
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:layout_marginLeft="3dp"
+                    android:layout_marginRight="3dp"
+                    android:background="@drawable/line_bg" />
+
+                <FrameLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content" >
+
+                    <Button
+                        android:id="@+id/main_more_settings_helpBtn"
+                        style="@style/settings_item_bg_group_bottom"
+                        android:drawableRight="@drawable/common_list_item_rightarrow_icon"
+                        android:text="@string/main_more_understand" />
+
+                    <TextView
+                        android:id="@+id/sms_block_info8"
+                        style="@style/settings_item_textView"
+                        android:text="" />
+                </FrameLayout>
+
+                <ImageView
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:layout_marginLeft="3dp"
+                    android:layout_marginRight="3dp"
+                    android:background="@drawable/line_bg" />
+
+                <FrameLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content" >
+
+                    <Button
+                        android:id="@+id/main_more_settings_faqBtn"
+                        style="@style/settings_item_bg_group_bottom"
+                        android:drawableRight="@drawable/common_list_item_rightarrow_icon"
+                        android:text="@string/main_more_faq" />
+
+                    <TextView
+                        style="@style/settings_item_textView"
+                        android:text="" />
+                </FrameLayout>
+                
+                 <ImageView
+                    android:id="@+id/imageViewonoff"
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:layout_marginLeft="3dp"
+                    android:layout_marginRight="3dp"
+                    android:background="@drawable/line_bg"
+                     />
+
+                <FrameLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content" >
+
+                    <Button
+                        android:id="@+id/main_more_settings_privacy"
+                        style="@style/settings_item_bg_group_middle"
+                        android:drawableRight="@drawable/common_list_item_rightarrow_icon"
+                        android:text="@string/main_more_setting" />
+
+                    <TextView
+                        style="@style/settings_item_textView"
+                        android:text="" />
+                </FrameLayout>
+                <ImageView
+                    android:id="@+id/imageView111"
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:layout_marginLeft="3dp"
+                    android:layout_marginRight="3dp"
+                    android:background="@drawable/line_bg" />
+                <LinearLayout
+                    android:id="@+id/main_more_settings_entCustomerLL"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical" >
+
+                    <FrameLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content" >
+
+                        <Button
+                            android:id="@+id/main_more_settings_aboutEntCustomerBtn"
+                            style="@style/settings_item_bg_group_middle"
+                            android:drawableRight="@drawable/common_list_item_rightarrow_icon"
+                            android:text="About xx" />
+
+                        <TextView
+                            style="@style/settings_item_textView"
+                            android:text="" />
+                    </FrameLayout>
+
+                   <ImageView
+                    android:id="@+id/imageView5"
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:layout_marginLeft="3dp"
+                    android:layout_marginRight="3dp"
+                    android:background="@drawable/line_bg"
+                     />
+
+                    <FrameLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content" >
+
+                        <Button
+                            android:id="@+id/main_more_settings_exitEntCustomerBtn"
+                            style="@style/settings_item_bg_group_middle"
+                            android:drawableRight="@drawable/common_list_item_rightarrow_icon"
+                            android:text="Exit xx" />
+
+                        <TextView
+                            style="@style/settings_item_textView"
+                            android:text="" />
+                    </FrameLayout>
+                    <ImageView
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:layout_marginLeft="3dp"
+                    android:layout_marginRight="3dp"
+                    android:background="@drawable/line_bg" />
+
+                   
+                </LinearLayout>
+
+                <!--
+                <ImageView
+                    android:id="@+id/imageView2"
+                    style="@style/settings_item_bg_group_image_view_separator" />
+
+                <FrameLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content" >
+
+                    <Button
+                        android:id="@+id/main_more_settings_entFaqBtn"
+                        style="@style/settings_item_bg_group_middle"
+                        android:drawableRight="@drawable/common_list_item_rightarrow_icon"
+                        android:text="常见问题" />
+
+                    <TextView
+                        android:id="@+id/sms_block_info7"
+                        style="@style/settings_item_textView"
+                        android:text="" />
+                </FrameLayout>
+                -->
+
+
+                <!--
+                <ImageView
+                    android:id="@+id/imageView2"
+                    style="@style/settings_item_bg_group_image_view_separator" />
+
+                <FrameLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content" >
+
+                    <Button
+                        android:id="@+id/main_more_settings_entCustomerBtn"
+                        style="@style/settings_item_bg_group_middle"
+                        android:drawableRight="@drawable/common_list_item_rightarrow_icon"
+                        android:text="手机适配" />
+
+                    <TextView
+                        android:id="@+id/sms_block_info7"
+                        style="@style/settings_item_textView"
+                        android:text="" />
+                </FrameLayout>
+                -->
+                
+
+                <FrameLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content" >
+
+                    <Button
+                        android:id="@+id/main_more_settings_aboutusBtn"
+                        style="@style/settings_item_bg_group_middle"
+                        android:drawableRight="@drawable/common_list_item_rightarrow_icon"
+                        android:text="@string/main_more_about" />
+
+                    <TextView
+                        android:id="@+id/sms_block_info7"
+                        style="@style/settings_item_textView"
+                        android:text="" />
+                </FrameLayout>
+               
+
+               <!--  <ImageView
+                    android:id="@+id/imageView2"
+                    style="@style/settings_item_bg_group_image_view_separator" />
+                 -->
+                <FrameLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content" 
+                    android:visibility="gone"
+                    >
+                     <ImageView
+                    android:id="@+id/imageViewabout"
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:layout_marginLeft="3dp"
+                    android:layout_marginRight="3dp"
+                    android:background="@drawable/line_bg" />
+
+                    <Button
+                        android:id="@+id/main_more_theme"
+                        style="@style/settings_item_bg_group_middle"
+                        android:drawableRight="@drawable/common_list_item_rightarrow_icon"
+                        android:text="theme switcher" 
+                        
+                       />
+
+                    <TextView
+                        android:id="@+id/sms_block_info9"
+                        style="@style/settings_item_textView"
+                        android:text="" />
+                </FrameLayout>
+                
+                
+
+               
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/main_more_settings_exitSystemBtn"
+                android:layout_width="200dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/common_btn_blue"
+                android:gravity="center"
+                android:text="退出系统"
+                android:textColor="@color/white"
+                android:visibility="gone" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

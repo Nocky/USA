@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:composition="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <com.eva.android.widget.CustomeTitleBar
+        android:id="@+id/reportday_titleBar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+    </com.eva.android.widget.CustomeTitleBar>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <!-- android:background="@drawable/reportday_detailchart_bg_img" -->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="43dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="4dp"
+                android:gravity="center" >
+
+                <Button
+                    android:id="@+id/activity_sport_data_detail_dataswitch_leftBtn"
+                    android:layout_width="50dp"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/main_report_page_dataselect_left_btn"
+                    android:text="" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center" >
+
+                    <TextView
+                        android:id="@+id/activity_sport_data_detail_dataswitch_dateView"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:text="- ~ -"
+                        android:textSize="19sp" />
+
+                    <ImageView
+                        android:id="@+id/imageView3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="3dp"
+                        android:clickable="false"
+                        android:focusable="false"
+                        android:src="@drawable/main_fragment_title_arrow" />
+                </LinearLayout>
+
+                <Button
+                    android:id="@+id/activity_sport_data_detail_dataswitch_rightBtn"
+                    android:layout_width="50dp"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/main_report_page_dataselect_right_btn"
+                    android:text="" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="200dip"
+                android:orientation="vertical" >
+
+                <com.linkloving.rtring_c_watch.logic.reportday.DetailChartControl
+                    android:id="@+id/activity_sport_data_detail_detailChartView1"
+                    android:layout_width="fill_parent"
+                    android:layout_height="0px"
+                    android:layout_weight="1"
+                    composition:baseSlice="3600"
+                    composition:deepSleepHeight="100dp"
+                    composition:lightSleepHeight="50dp"
+                    composition:lineWidth="1dp" >
+                </com.linkloving.rtring_c_watch.logic.reportday.DetailChartControl>
+            </LinearLayout>
+            <!-- android:layout_height="wrap_content" -->
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"   
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="2dp"
+            android:layout_marginTop="2dp"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:layout_width="0px"
+                android:layout_height="80dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical" >
+
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="55dp"
+                    android:background="@drawable/reportday_sum_main_walk_img" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/detail_sport_data_sum_main_walk"
+                    android:textColor="@color/white"
+                    android:textSize="17sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0px"
+                android:layout_height="80dp"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical" >
+
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="55dp"
+                    android:background="@drawable/reportday_sum_main_run_img" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/detail_sport_data_sum_main_run"
+                    android:textColor="@color/white"
+                    android:textSize="17sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0px"
+                android:layout_height="80dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical" >
+
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="55dp"
+                    android:background="@drawable/reportday_sum_main_sleep_img" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/detail_sport_data_sum_main_sleep"
+                    android:textColor="@color/white"
+                    android:textSize="17sp" />
+            </LinearLayout>
+        </LinearLayout>
+        <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/line_bg" />
+
+        <ScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical"
+                android:padding="0dp" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="0px"
+                    android:layout_weight="1"
+                    android:orientation="horizontal" >
+
+                    <com.linkloving.rtring_c_watch.logic.reportday.TextCompositionView
+                        android:id="@+id/activity_sport_data_detail_ydlCompositeView"
+                        android:layout_width="0px"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        composition:icon="@drawable/reportday_center_sport_step_img"
+                        composition:iconText="@string/unit_step" >
+                    </com.linkloving.rtring_c_watch.logic.reportday.TextCompositionView>
+                    
+                    <ImageView
+                        android:layout_width="2dp"
+                        android:layout_height="match_parent"
+                        android:src="@drawable/line_ver_bg"
+                        ></ImageView>
+
+                    <com.linkloving.rtring_c_watch.logic.reportday.TextCompositionView
+                        android:id="@+id/activity_sport_data_detail_pblCompositeView"
+                        android:layout_width="0px"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1"
+                        composition:icon="@drawable/reportday_center_sport_step_img"
+                        composition:iconText="@string/unit_step"
+                        android:gravity="center_vertical" >
+                    </com.linkloving.rtring_c_watch.logic.reportday.TextCompositionView>
+                    
+                    <ImageView
+                        android:layout_width="2dp"
+                        android:layout_height="fill_parent"
+                        android:src="@drawable/line_ver_bg"
+                        ></ImageView>
+
+                    <com.linkloving.rtring_c_watch.logic.reportday.TextCompositionView
+                        android:id="@+id/activity_sport_data_detail_smCompositeView"
+                        android:layout_width="0px"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        composition:icon="@drawable/reportday_center_sport_shuimian_img"
+                        composition:iconText="@string/detail_sport_data_sm" >
+                    </com.linkloving.rtring_c_watch.logic.reportday.TextCompositionView>
+                </LinearLayout>
+                
+                <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/line_bg" />
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="0px"
+                    android:layout_weight="1"
+                    android:orientation="horizontal" >
+
+                    <com.linkloving.rtring_c_watch.logic.reportday.TextCompositionView
+                        android:id="@+id/activity_sport_data_detail_ydjlCompositeView"
+                        android:layout_width="0px"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        composition:icon="@drawable/reportday_center_sport_juli_img"
+                        composition:iconText="@string/unit_mileage"
+                         >
+                    </com.linkloving.rtring_c_watch.logic.reportday.TextCompositionView>
+                    
+                    <ImageView
+                        android:layout_width="2dp"
+                        android:layout_height="match_parent"
+                        android:src="@drawable/line_ver_bg"
+                        ></ImageView>
+
+                    <com.linkloving.rtring_c_watch.logic.reportday.TextCompositionView
+                        android:id="@+id/activity_sport_data_detail_pbjlCompositeView"
+                        android:layout_width="0px"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1"
+                        composition:icon="@drawable/reportday_center_sport_juli_img"
+                        composition:iconText="@string/unit_mileage"
+                        android:gravity="center_vertical" >
+                    </com.linkloving.rtring_c_watch.logic.reportday.TextCompositionView>
+                    
+                    <ImageView
+                        android:layout_width="2dp"
+                        android:layout_height="match_parent"
+                        android:src="@drawable/line_ver_bg"
+                        ></ImageView>
+
+                    <com.linkloving.rtring_c_watch.logic.reportday.TextCompositionView
+                        android:id="@+id/activity_sport_data_detail_qsCompositeView"
+                        android:layout_width="0px"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        composition:icon="@drawable/reportday_center_sport_qianshui_img"
+                        composition:iconText="@string/detail_sport_data_qssj" >
+                    </com.linkloving.rtring_c_watch.logic.reportday.TextCompositionView>
+                </LinearLayout>
+                
+                <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/line_bg" />
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="0px"
+                    android:layout_weight="1"
+                    android:orientation="horizontal" >
+
+                    <com.linkloving.rtring_c_watch.logic.reportday.TextCompositionView
+                        android:id="@+id/activity_sport_data_detail_ydsjCompositeView"
+                        android:layout_width="0px"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        composition:icon="@drawable/reportday_center_sport_haoshi_img"
+                        composition:iconText="@string/unit_minute" >
+                    </com.linkloving.rtring_c_watch.logic.reportday.TextCompositionView>
+                    
+                    <ImageView
+                        android:layout_width="2dp"
+                        android:layout_height="match_parent"
+                        android:src="@drawable/line_ver_bg"
+                        ></ImageView>
+
+                    <com.linkloving.rtring_c_watch.logic.reportday.TextCompositionView
+                        android:id="@+id/activity_sport_data_detail_pbsjCompositeView"
+                        android:layout_width="0px"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1"
+                        composition:icon="@drawable/reportday_center_sport_haoshi_img"
+                        composition:iconText="@string/unit_minute"
+                        android:gravity="center_vertical" >
+                    </com.linkloving.rtring_c_watch.logic.reportday.TextCompositionView>
+                    
+                    <ImageView
+                        android:layout_width="2dp"
+                        android:layout_height="match_parent"
+                        android:src="@drawable/line_ver_bg"
+                        ></ImageView>
+
+                    <com.linkloving.rtring_c_watch.logic.reportday.TextCompositionView
+                        android:id="@+id/activity_sport_data_detail_ssCompositeView"
+                        android:layout_width="0px"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        composition:icon="@drawable/reportday_center_sport_shengshui_img"
+                        composition:iconText="@string/detail_sport_data_sssj" >
+                    </com.linkloving.rtring_c_watch.logic.reportday.TextCompositionView>
+                </LinearLayout>
+                
+                <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/line_bg" />
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="0px"
+                    android:layout_weight="1"
+                    android:orientation="horizontal" >
+
+                    <com.linkloving.rtring_c_watch.logic.reportday.TextCompositionView
+                        android:id="@+id/activity_sport_data_detail_ydsdCompositeView"
+                        android:layout_width="0px"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        composition:icon="@drawable/reportday_center_sport_sudu_img"
+                        composition:iconText="@string/unit_km_per_hour" >
+                    </com.linkloving.rtring_c_watch.logic.reportday.TextCompositionView>
+                    <ImageView
+                        android:layout_width="2dp"
+                        android:layout_height="match_parent"
+                        android:src="@drawable/line_ver_bg"
+                        ></ImageView>
+
+                    <com.linkloving.rtring_c_watch.logic.reportday.TextCompositionView
+                        android:id="@+id/activity_sport_data_detail_pbsdCompositeView"
+                        android:layout_width="0px"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1"
+                        composition:icon="@drawable/reportday_center_sport_sudu_img"
+                        composition:iconText="@string/unit_km_per_hour"
+                        android:gravity="center_vertical" >
+                    </com.linkloving.rtring_c_watch.logic.reportday.TextCompositionView>
+                    <ImageView
+                        android:layout_width="2dp"
+                        android:layout_height="match_parent"
+                        android:src="@drawable/line_ver_bg"
+                        ></ImageView>
+                    <com.linkloving.rtring_c_watch.logic.reportday.TextCompositionView
+                        android:id="@+id/activity_sport_data_detail_rsCompositeView"
+                        android:layout_width="0px"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        composition:icon="@drawable/reportday_center_sport_gobed_img"
+                        composition:iconText="@string/detail_sport_data_rs" 
+                       >
+                    </com.linkloving.rtring_c_watch.logic.reportday.TextCompositionView>
+                </LinearLayout>
+<ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/line_bg" />
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="0px"
+                    android:layout_weight="1"
+                    android:orientation="horizontal" >
+
+                    <com.linkloving.rtring_c_watch.logic.reportday.TextCompositionView
+                        android:id="@+id/activity_sport_data_detail_ydxhCompositeView"
+                        android:layout_width="0px"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        composition:icon="@drawable/reportday_center_sport_nengliang_img"
+                        composition:iconText="@string/unit_cal_big" >
+                    </com.linkloving.rtring_c_watch.logic.reportday.TextCompositionView>
+                    
+                    <ImageView
+                        android:layout_width="2dp"
+                        android:layout_height="match_parent"
+                        android:src="@drawable/line_ver_bg"
+                        ></ImageView>
+
+                    <com.linkloving.rtring_c_watch.logic.reportday.TextCompositionView
+                        android:id="@+id/activity_sport_data_detail_pbxhCompositeView"
+                        android:layout_width="0px"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1"
+                        composition:icon="@drawable/reportday_center_sport_nengliang_img"
+                        composition:iconText="@string/unit_cal_big"
+                        android:gravity="center_vertical" >
+                    </com.linkloving.rtring_c_watch.logic.reportday.TextCompositionView>
+                    
+                    <ImageView
+                        android:layout_width="2dp"
+                        android:layout_height="match_parent"
+                        android:src="@drawable/line_ver_bg"
+                        ></ImageView>
+
+                    <com.linkloving.rtring_c_watch.logic.reportday.TextCompositionView
+                        android:id="@+id/activity_sport_data_detail_qcCompositeView"
+                        android:layout_width="0px"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        composition:icon="@drawable/reportday_center_sport_wakeup_img"
+                        composition:iconText="@string/detail_sport_data_qc" 
+                      >
+                    </com.linkloving.rtring_c_watch.logic.reportday.TextCompositionView>
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+
+</LinearLayout>

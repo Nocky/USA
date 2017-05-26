@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="0dp" >
+
+        <FrameLayout
+            android:id="@+id/widget_title_bar"
+            style="@style/widget_title_bar_style"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:padding="0dp" >
+
+            <!-- 左按钮区布局 -->
+
+            <LinearLayout
+                android:id="@+id/widget_title_leftBtnLayout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left|center"
+                android:orientation="horizontal" >
+
+                <Button
+                    android:id="@+id/report_page_activity_backToFriendsBtn"
+                    style="@style/widget_title_bar_backBtn_style"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="7dp" />
+            </LinearLayout>
+            <!-- 中间标题文本区布局 -->
+
+            <LinearLayout
+                android:id="@+id/widget_title_textLayout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="0dp"
+                android:gravity="center"
+                android:padding="0dp" >
+
+                <RadioGroup
+                    android:id="@+id/report_page_activity_circleviews_periodRg"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <!-- <RadioButton
+                        android:id="@+id/report_page_activity_circleviews_dayRb"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/main_report_page_top_timetype_radio_btn_day_selector"
+                        android:button="@null"
+                        android:checked="true"
+                        android:gravity="center"
+                        android:text="日"
+                        android:textColor="@color/main_report_page_top_timetype_radio_btn_textcolor_selector" /> -->
+
+                    <RadioButton
+                        android:id="@+id/report_page_activity_circleviews_weekRb"
+                        android:layout_width="120dp"
+                        android:layout_height="35dp"
+                        android:paddingLeft="15dp"
+                        android:paddingRight="15dp"
+                        android:background="@drawable/main_report_page_top_timetype_radio_btn_day_selector"
+                        android:button="@null"
+                        android:checked="true"
+                        android:gravity="center"
+                        style="@style/text_darkShadow7"
+                        android:text="@string/report_week_view"
+                        android:textColor="@color/main_report_page_top_timetype_radio_btn_textcolor_selector" />
+
+                    <RadioButton
+                        android:id="@+id/report_page_activity_circleviews_monthRb"
+                        android:layout_width="120dp"
+                        android:layout_height="35dp"
+                        android:paddingLeft="15dp"
+                        android:paddingRight="15dp"
+                        android:background="@drawable/main_report_page_top_timetype_radio_btn_month_selector"
+                        android:button="@null"
+                        android:gravity="center"
+                        style="@style/text_darkShadow7"
+                        android:text="@string/report_month_view"
+                        android:textColor="@color/main_report_page_top_timetype_radio_btn_textcolor_selector" />
+
+                </RadioGroup>
+            </LinearLayout>
+            <!-- 右按钮区布局 -->
+
+            <RelativeLayout
+                android:id="@+id/widget_title_rightBtnLayout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right|center"
+                android:layout_marginBottom="2dp"
+                android:layout_marginRight="7dp"
+                android:orientation="horizontal" >
+
+                <Button
+                    android:id="@+id/report_page_activity_shareRtn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:background="@drawable/selector_btn_share" />
+            </RelativeLayout>
+        </FrameLayout>
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center" >
+
+            <Button
+                android:id="@+id/report_page_activity_circleviews_dataswitch_leftBtn"
+                android:layout_width="50dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="20dp"
+                android:background="@drawable/main_report_page_dataselect_left_btn"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/report_page_activity_circleviews_dataswitch_dateView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="- ~ -"
+                android:textColor="@color/white"
+                android:textSize="18sp" />
+
+            <Button
+                android:id="@+id/report_page_activity_circleviews_dataswitch_rightBtn"
+                android:layout_width="50dp"
+                android:layout_height="match_parent"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/main_report_page_dataselect_right_btn"
+                android:text="" />
+
+   	</LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center" >
+
+        <!-- <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@drawable/main_report_circle_bg_img"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingTop="8dp" >
+
+                <TextView
+                    android:id="@+id/textView1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/main_report_circle_view_run_flag_icon"
+                    android:drawablePadding="2dp"
+                    android:text="跑步"
+                    android:textColor="#ffb4ff31"
+                    android:textSize="10sp" />
+
+                <TextView
+                    android:id="@+id/textView1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="6dp"
+                    android:drawableLeft="@drawable/main_report_circle_view_work_flag_icon"
+                    android:drawablePadding="2dp"
+                    android:text="走路"
+                    android:textColor="#ff43c5e1"
+                    android:textSize="10sp" />
+
+                <TextView
+                    android:id="@+id/textView1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="6dp"
+                    android:drawableLeft="@drawable/main_report_circle_view_sleep_flag_icon"
+                    android:drawablePadding="2dp"
+                    android:text="睡眠"
+                    android:textColor="#ffff9979"
+                    android:textSize="10sp" />
+
+                <TextView
+                    android:id="@+id/textView1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="6dp"
+                    android:drawableLeft="@drawable/main_report_circle_view_other_flag_icon"
+                    android:drawablePadding="2dp"
+                    android:text="其他"
+                    android:textColor="#ff838a9f"
+                    android:textSize="10sp" />
+            </LinearLayout>
+
+            <com.linkloving.rtring_c.logic.report.ReportCircleView
+                android:id="@+id/report_page_activity_circleviews_circleView"
+                android:layout_width="124.5dp"
+                android:layout_height="126dp"
+                android:layout_gravity="center"
+                android:layout_marginBottom="13dp"
+                android:layout_marginTop="8dp" />
+        </LinearLayout> -->
+
+            <com.linkloving.rtring_c_watch.logic.report.ActiveCompositionView
+                android:id="@+id/report_page_activity_circleviews_leftTopActiveView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="23dp" />
+
+            <com.linkloving.rtring_c_watch.logic.report.ActiveCompositionView
+                android:id="@+id/report_page_activity_circleviews_rightTopActiveView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="23dp" />
+
+            <com.linkloving.rtring_c_watch.logic.report.ActiveCompositionView
+                android:id="@+id/report_page_activity_circleviews_leftBottomActiveView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="23dp" />
+
+            <com.linkloving.rtring_c_watch.logic.report.ActiveCompositionView
+                android:id="@+id/report_page_activity_circleviews_rightBottomActiveView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                 />
+    </LinearLayout>
+    
+    <ImageView android:src="@drawable/line_bg"
+        android:scaleType="fitXY"
+        android:layout_marginTop="25dp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"/>
+    
+    <RadioGroup
+        android:id="@+id/report_page_activity_circleviews_activefilter_switchRg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+            <RadioButton
+                android:id="@+id/report_page_activity_circleviews_activefilter_workRb"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:background="@drawable/main_report_page_active_type_work_radio_btn_selector"
+                android:button="@null"
+                android:checked="true"
+                android:gravity="center"
+                android:layout_weight="1"
+                style="@style/text_darkShadow7"
+                android:textSize="18sp"
+                android:text="@string/report_steps" />
+
+            <RadioButton
+                android:id="@+id/report_page_activity_circleviews_activefilter_runRb"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:layout_marginLeft="2dp"
+                android:background="@drawable/main_report_page_active_type_work_radio_btn_selector"
+                android:button="@null"
+                android:gravity="center"
+                android:layout_weight="1"
+                style="@style/text_darkShadow7"
+                android:textSize="18sp"
+                android:text="@string/report_distance" />
+
+            <RadioButton
+                android:id="@+id/report_page_activity_circleviews_activefilter_caRb"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:layout_marginLeft="2dp"
+                android:background="@drawable/main_report_page_active_type_work_radio_btn_selector"
+                android:button="@null"
+                android:gravity="center"
+                android:layout_weight="1"
+                style="@style/text_darkShadow7"
+                android:textSize="18sp"
+                android:text="@string/report_calories" />
+            
+            <RadioButton
+                android:id="@+id/report_page_activity_circleviews_activefilter_sleepRb"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:layout_marginLeft="2dp"
+                android:background="@drawable/main_report_page_active_type_work_radio_btn_selector"
+                android:button="@null"
+                android:gravity="center"
+                android:layout_weight="1"
+                style="@style/text_darkShadow7"
+                android:textSize="18sp"
+                android:text="@string/report_sleep" />
+            
+    </RadioGroup>
+    
+    
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dip"
+        android:layout_weight="1" >
+
+        <!-- <LinearLayout
+            android:id="@+id/report_page_activity_linechartLL"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="horizontal" /> -->
+        
+        <!-- <LinearLayout
+            android:id="@+id/report_page_activity_barchartLL"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="horizontal" /> -->
+        
+        <HorizontalScrollView
+            android:id="@+id/report_page_activity_barchartLL"
+	        android:layout_width="fill_parent"
+	        android:layout_height="fill_parent"
+	        >
+			
+            
+            <com.lz.rtchart.ChartView2
+                android:id="@+id/report_page_activity_barchartView"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" />
+          
+            
+    	</HorizontalScrollView>
+
+        <LinearLayout
+            android:visibility="gone"
+            android:id="@+id/report_page_activity_chartLengendLL"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="5dp" >
+
+            <TextView
+                android:id="@+id/report_page_activity_chartLengendLeftView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/report_page_sleep_color_img"
+                android:drawablePadding="3dp"
+                android:text="-"
+                android:textColor="@color/green_dark_for_text"
+                android:textSize="10sp" />
+
+            <TextView
+                android:id="@+id/report_page_activity_chartLengendRightView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawablePadding="3dp"
+                android:layout_marginLeft="5dp"
+                android:drawableLeft="@drawable/report_page_deepsleep_color_img"
+                android:text="-"
+                android:textColor="@color/green_dark_for_text"
+                android:textSize="10sp" />
+
+        </LinearLayout>
+        
+    </FrameLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+    </LinearLayout>
+
+</LinearLayout>

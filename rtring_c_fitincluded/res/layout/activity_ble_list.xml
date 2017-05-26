@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/main_bg">
+    <FrameLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/widget_title_bar_bg">
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/common_title_btn_"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="12dp"
+            />
+
+        <TextView
+            android:id="@+id/activity_sport_data_detail_sleepSumView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/m00_font_size_36pt"
+            android:text="@string/bound_list" />
+        
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="right"
+            android:orientation="vertical" >
+
+           <Button
+            android:id="@+id/refresh"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/white"
+            android:background="@null"
+            android:layout_marginRight="12dp"
+            android:layout_marginTop="20dp"
+            android:textSize="@dimen/m00_font_size_24pt"
+            android:text="@string/bound_refresh"
+            /> 
+            
+        </LinearLayout>
+        
+        
+    </FrameLayout>
+    
+    <ListView android:layout_height="fill_parent"
+                         android:layout_width="fill_parent"
+                         android:dividerHeight="15dp"
+                         android:layout_marginTop="15dp"
+                         android:divider="@android:color/transparent"
+                         android:id="@+id/ble_list">
+        
+    </ListView>
+
+</LinearLayout>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     android:id="@+id/power_activity"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/main_bg"
+    android:orientation="vertical" >
+    
+    <com.eva.android.widget.CustomeTitleBar
+        android:id="@+id/power_titleBar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+    </com.eva.android.widget.CustomeTitleBar>
+    
+     <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp" >
+        
+         <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dip"
+            android:background="@drawable/longsit_activity_switch_bg_img"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:padding="15dp" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|left"
+                android:drawableLeft="@drawable/pm1_icon"
+                android:drawablePadding="10dp"
+                android:gravity="center"
+                android:text="节能模式一(PM1)"
+                android:textColor="@color/gray_dark_for_text"
+                android:textSize="16sp" />
+
+            <CheckBox
+                android:id="@+id/PM1_switch_checkbox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right|center_vertical"
+                android:background="@drawable/longsit_check_box_selector"
+                android:button="@null"
+                android:gravity="center" />
+        </FrameLayout>
+        
+         <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dip"
+            android:background="@drawable/longsit_activity_switch_bg_img"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:padding="15dp" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|left"
+                android:drawableLeft="@drawable/pm2_icon"
+                android:drawablePadding="10dp"
+                android:gravity="center"
+                android:text="节能模式二(PM2)"
+                android:textColor="@color/gray_dark_for_text"
+                android:textSize="16sp" />
+
+            <CheckBox
+                android:id="@+id/PM2_switch_checkbox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right|center_vertical"
+                android:background="@drawable/longsit_check_box_selector"
+                android:button="@null"
+                android:gravity="center" />
+        </FrameLayout>
+        
+        <FrameLayout
+            android:id="@+id/PM0_intro"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dip"
+            android:background="@drawable/longsit_activity_switch_bg_img"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:padding="15dp" 
+            android:visibility="gone">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|left"
+                android:drawablePadding="10dp"
+                android:gravity="center"
+                android:text="注:若不进行设置，所有提醒以及震动都为打开状态"
+                android:textColor="@color/gray_dark_for_text"
+                android:textSize="14sp" />
+
+        </FrameLayout>
+        
+         <FrameLayout
+            android:id="@+id/PM1_intro"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dip"
+            android:background="@drawable/longsit_activity_switch_bg_img"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:padding="15dp" 
+            android:visibility="gone">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|left"
+                android:drawablePadding="10dp"
+                android:gravity="center"
+                android:text="注:关闭抬手显屏功能，以节省电量"
+                android:textColor="@color/gray_dark_for_text"
+                android:textSize="14sp" />
+
+        </FrameLayout>
+        
+         <FrameLayout
+            android:id="@+id/PM2_intro"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dip"
+            android:background="@drawable/longsit_activity_switch_bg_img"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:padding="15dp" 
+            android:visibility="gone">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|left"
+                android:drawablePadding="10dp"
+                android:gravity="center"
+                android:text="注:关闭抬手显屏功能，关闭所有提醒震动(但闹钟,倒计时均正常使用)"
+                android:textColor="@color/gray_dark_for_text"
+                android:textSize="14sp" />
+
+        </FrameLayout>
+        
+          <FrameLayout
+            android:id="@+id/PM3_intro"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dip"
+            android:background="@drawable/longsit_activity_switch_bg_img"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:padding="15dp" 
+            android:visibility="gone">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|left"
+                android:drawablePadding="10dp"
+                android:gravity="center"
+                android:text="电量低于10%时，将会自动进入PM3模式，此时闹钟，倒计时震动降低为1次，其余所有震动关闭"
+                android:textColor="@color/gray_dark_for_text"
+                android:textSize="14sp" />
+
+        </FrameLayout>
+         
+         
+         
+         
+        </LinearLayout>
+
+</LinearLayout>

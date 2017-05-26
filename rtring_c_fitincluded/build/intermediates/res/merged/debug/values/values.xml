@@ -1,0 +1,1904 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <attr format="reference" name="calendarViewStyle"/>
+    <attr format="reference" name="datePickerStyle"/>
+    <attr format="reference" name="numberPickerStyle"/>
+    <bool name="ga_autoActivityTracking">true</bool>
+    <bool name="ga_reportUncaughtExceptions">true</bool>
+    <color name="abc1">#9f7d3c</color>
+    <color name="abc2">#ca9b41</color>
+    <color name="aliceblue">#F0F8FF</color>
+    <color name="antiquewhite">#FAEBD7</color>
+    <color name="aqua">#00FFFF</color>
+    <color name="aquamarine">#7FFFD4</color>
+    <color name="azure">#F0FFFF</color>
+    <color name="back_black">#55000000</color>
+    <color name="beige">#F5F5DC</color>
+    <color name="bg_blue_drak">#000080</color>
+    <color name="bg_gray">#A5A5A5</color>
+    <color name="bg_gray2">#fff3f3f3</color>
+    <color name="bg_green_light">#008000</color>
+    <color name="bg_mid_grey">#ffe4e4e4</color>
+    <color name="bg_pink">#F4E6E1</color>
+    <color name="bisque">#FFE4C4</color>
+    <color name="black">#000000</color>
+    <color name="black_30">#55000000</color>
+    <color name="blanchedalmond">#FFEBCD</color>
+    <color name="blue">#0000FF</color>
+    <color name="blueviolet">#8A2BE2</color>
+    <color name="brown">#A52A2A</color>
+    <color name="brown_for_register_form_text">#674f13</color>
+    <color name="brown_for_text">#7d6f4b</color>
+    <color name="brown_light_for_text">#baac6c</color>
+    <color name="brown_mid_for_text">#b88a28</color>
+    <color name="burlywood">#DEB887</color>
+    <color name="cadetblue">#5F9EA0</color>
+    <color name="chartreuse">#7FFF00</color>
+    <color name="chat_bg_color">#595959</color>
+    <color name="chat_blue">#02EBFC</color>
+    <color name="chat_list_view_bg_color">#ffededed</color>
+    <color name="chat_view_darkorange">#c06d31</color>
+    <color name="chat_view_gray_for_text">#737373</color>
+    <color name="chat_view_orange">#FF0000</color>
+    <color name="chat_view_text_bluesky1">#3A87AD</color>
+    <color name="chat_view_white_for_text">#ffffff</color>
+    <color name="chatting_list_view_voice_recording_popup_bg">#b0000000</color>
+    <color name="chocolate">#D2691E</color>
+    <color name="common_action_bar_splitter">#d2d2d2</color>
+    <color name="common_google_signin_btn_text_dark_default">@android:color/white</color>
+    <color name="common_google_signin_btn_text_dark_disabled">#1F000000</color>
+    <color name="common_google_signin_btn_text_dark_focused">@android:color/black</color>
+    <color name="common_google_signin_btn_text_dark_pressed">@android:color/white</color>
+    <color name="common_google_signin_btn_text_light_default">#90000000</color>
+    <color name="common_google_signin_btn_text_light_disabled">#1F000000</color>
+    <color name="common_google_signin_btn_text_light_focused">#90000000</color>
+    <color name="common_google_signin_btn_text_light_pressed">#DE000000</color>
+    <color name="common_plus_signin_btn_text_dark_default">@android:color/white</color>
+    <color name="common_plus_signin_btn_text_dark_disabled">#FFAAAAAA</color>
+    <color name="common_plus_signin_btn_text_dark_focused">@android:color/white</color>
+    <color name="common_plus_signin_btn_text_dark_pressed">@android:color/white</color>
+    <color name="common_plus_signin_btn_text_light_default">#FF737373</color>
+    <color name="common_plus_signin_btn_text_light_disabled">#FFAAAAAA</color>
+    <color name="common_plus_signin_btn_text_light_focused">#FF737373</color>
+    <color name="common_plus_signin_btn_text_light_pressed">#DE000000</color>
+    <color name="common_title_bar">#ffffffff</color>
+    <color name="coral">#FF7F50</color>
+    <color name="cornflowerblue">#6495ED</color>
+    <color name="cornsilk">#FFF8DC</color>
+    <color name="crimson">#DC143C</color>
+    <color name="cyan">#00FFFF</color>
+    <color name="dark_gray">#444444</color>
+    <color name="darkblue">#00008B</color>
+    <color name="darkcyan">#008B8B</color>
+    <color name="darkgoldenrod">#B8860B</color>
+    <color name="darkgray">#A9A9A9</color>
+    <color name="darkgreen">#006400</color>
+    <color name="darkgrey">#A9A9A9</color>
+    <color name="darkkhaki">#BDB76B</color>
+    <color name="darkmagenta">#8B008B</color>
+    <color name="darkolivegreen">#556B2F</color>
+    <color name="darkorange">#FF8C00</color>
+    <color name="darkorchid">#9932CC</color>
+    <color name="darkred">#8B0000</color>
+    <color name="darksalmon">#E9967A</color>
+    <color name="darkseagreen">#8FBC8F</color>
+    <color name="darkslateblue">#483D8B</color>
+    <color name="darkslategray">#2F4F4F</color>
+    <color name="darkslategrey">#2F4F4F</color>
+    <color name="darkturquoise">#00CED1</color>
+    <color name="darkviolet">#9400D3</color>
+    <color name="deeppink">#FF1493</color>
+    <color name="deepskyblue">#00BFFF</color>
+    <color name="dia_view_dark">#ff030303</color>
+    <color name="dimgray">#696969</color>
+    <color name="dimgrey">#696969</color>
+    <color name="dodgerblue">#1E90FF</color>
+    <color name="firebrick">#B22222</color>
+    <color name="fit_main">#154D66</color>
+    <color name="floralwhite">#FFFAF0</color>
+    <color name="forestgreen">#228B22</color>
+    <color name="fuchsia">#FF00FF</color>
+    <color name="gainsboro">#DCDCDC</color>
+    <color name="ghostwhite">#F8F8FF</color>
+    <color name="gold">#FFD700</color>
+    <color name="goldenrod">#DAA520</color>
+    <color name="gray">#808080</color>
+    <color name="gray_dark_for_text">#666666</color>
+    <color name="gray_e9e9e9_for_btn">#E9E9E9</color>
+    <color name="gray_f8f8f8_for_btn">#F8F8F8</color>
+    <color name="gray_for_text">#515151</color>
+    <color name="gray_for_text2">#C4C4C4</color>
+    <color name="green">#008000</color>
+    <color name="green_dark_for_text">#679670</color>
+    <color name="green_for_comments_text">#6C9698</color>
+    <color name="green_for_detial_chart">#E5F2F8</color>
+    <color name="green_for_text">#8ba490</color>
+    <color name="greenyellow">#ADFF2F</color>
+    <color name="grey">#808080</color>
+    <color name="honeydew">#F0FFF0</color>
+    <color name="hotpink">#FF69B4</color>
+    <color name="indianred">#CD5C5C</color>
+    <color name="indigo">#4B0082</color>
+    <color name="ivory">#FFFFF0</color>
+    <color name="khaki">#F0E68C</color>
+    <color name="lavender">#E6E6FA</color>
+    <color name="lavenderblush">#FFF0F5</color>
+    <color name="lawngreen">#7CFC00</color>
+    <color name="lemonchiffon">#FFFACD</color>
+    <color name="light_gray">#f7f7f7</color>
+    <color name="light_gray_for_text">#889088</color>
+    <color name="lightblue">#ADD8E6</color>
+    <color name="lightcoral">#F08080</color>
+    <color name="lightcyan">#E0FFFF</color>
+    <color name="lightgoldenrodyellow">#FAFAD2</color>
+    <color name="lightgray">#D3D3D3</color>
+    <color name="lightgreen">#90EE90</color>
+    <color name="lightgrey">#D3D3D3</color>
+    <color name="lightpink">#FFB6C1</color>
+    <color name="lightsalmon">#FFA07A</color>
+    <color name="lightseagreen">#20B2AA</color>
+    <color name="lightskyblue">#87CEFA</color>
+    <color name="lightslategray">#778899</color>
+    <color name="lightslategrey">#778899</color>
+    <color name="lightsteelblue">#B0C4DE</color>
+    <color name="lightyellow">#FFFFE0</color>
+    <color name="lime">#00FF00</color>
+    <color name="limegreen">#32CD32</color>
+    <color name="linen">#FAF0E6</color>
+    <color name="link_yellow">#FF9941</color>
+    <color name="m00_text_black_333333_color">#333333</color>
+    <color name="m00_text_black_666666_color">#666666</color>
+    <color name="m00_text_blue_065590_color">#065590</color>
+    <color name="magenta">#FF00FF</color>
+    <color name="main_bg_f7f8f8_color">#F7F8F8</color>
+    <color name="maroon">#800000</color>
+    <color name="medium_gray">#888888</color>
+    <color name="medium_gray2">#ff999999</color>
+    <color name="mediumaquamarine">#66CDAA</color>
+    <color name="mediumblue">#0000CD</color>
+    <color name="mediumorchid">#BA55D3</color>
+    <color name="mediumpurple">#9370DB</color>
+    <color name="mediumseagreen">#3CB371</color>
+    <color name="mediumslateblue">#7B68EE</color>
+    <color name="mediumspringgreen">#00FA9A</color>
+    <color name="mediumturquoise">#48D1CC</color>
+    <color name="mediumvioletred">#C71585</color>
+    <color name="menu_sport_data_text_bg">#69d568</color>
+    <color name="middle_gray1">#ff798089</color>
+    <color name="midnightblue">#191970</color>
+    <color name="mintcream">#F5FFFA</color>
+    <color name="mistyrose">#FFE4E1</color>
+    <color name="moccasin">#FFE4B5</color>
+    <color name="navajowhite">#FFDEAD</color>
+    <color name="navy">#000080</color>
+    <color name="np_numberpicker_selection_divider">#1c96e2</color>
+    <color name="oldlace">#FDF5E6</color>
+    <color name="olive">#808000</color>
+    <color name="olivedrab">#6B8E23</color>
+    <color name="orange">#FFA500</color>
+    <color name="orangered">#FF4500</color>
+    <color name="orchid">#DA70D6</color>
+    <color name="palegoldenrod">#EEE8AA</color>
+    <color name="palegreen">#98FB98</color>
+    <color name="paleturquoise">#AFEEEE</color>
+    <color name="palevioletred">#DB7093</color>
+    <color name="papayawhip">#FFEFD5</color>
+    <color name="peachpuff">#FFDAB9</color>
+    <color name="peru">#CD853F</color>
+    <color name="pink">#FFC0CB</color>
+    <color name="place_autocomplete_prediction_primary_text">#212121</color>
+    <color name="place_autocomplete_prediction_primary_text_highlight">#757575</color>
+    <color name="place_autocomplete_prediction_secondary_text">#757575</color>
+    <color name="place_autocomplete_search_hint">#42000000</color>
+    <color name="place_autocomplete_search_text">#DE000000</color>
+    <color name="place_autocomplete_separator">#1F000000</color>
+    <color name="plum">#DDA0DD</color>
+    <color name="powderblue">#B0E0E6</color>
+    <color name="purple">#800080</color>
+    <color name="red">#FF0000</color>
+    <color name="red_for_text">#eb0000</color>
+    <color name="report_active_text_ca_color">#04dcb1</color>
+    <color name="report_active_text_distance_color">#ffb636</color>
+    <color name="report_active_text_sleep_color">#0ed5dc</color>
+    <color name="report_active_text_step_color">#ff9141</color>
+    <color name="roster_list_item_bg_color">#fff5f6f1</color>
+    <color name="roster_list_item_bg_color_pressed">#ffd3d4d0</color>
+    <color name="rosybrown">#BC8F8F</color>
+    <color name="royalblue">#4169E1</color>
+    <color name="saddlebrown">#8B4513</color>
+    <color name="salmon">#FA8072</color>
+    <color name="sandybrown">#F4A460</color>
+    <color name="seagreen">#2E8B57</color>
+    <color name="seashell">#FFF5EE</color>
+    <color name="selected_green">#1AE832</color>
+    <color name="sienna">#A0522D</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="skyblue">#87CEEB</color>
+    <color name="slateblue">#6A5ACD</color>
+    <color name="slategray">#708090</color>
+    <color name="slategrey">#708090</color>
+    <color name="snow">#FFFAFA</color>
+    <color name="sns_friend_list_form_item_nickname">#BB9192</color>
+    <color name="sns_friend_list_form_item_status_txt_color_offline">#E7B880</color>
+    <color name="sns_friend_list_form_item_status_txt_color_online">#E7B880</color>
+    <color name="sns_friend_list_form_item_whatsup">#FFD6D7</color>
+    <color name="springgreen">#00FF7F</color>
+    <color name="steelblue">#4682B4</color>
+    <color name="tab_title_normal_color">#262726</color>
+    <color name="tab_title_pressed_color">#16982b</color>
+    <color name="tan">#D2B48C</color>
+    <color name="teal">#008080</color>
+    <color name="text_black_5a5a5a_color"> #5A5A5A</color>
+    <color name="text_blue">#000085</color>
+    <color name="text_bluesky1">#3A87AD</color>
+    <color name="text_dark">#ff333333</color>
+    <color name="text_green">#007000</color>
+    <color name="text_light_blue">#41BAFF</color>
+    <color name="text_light_green">#A6FF19</color>
+    <color name="text_light_orange">#FF9141</color>
+    <color name="text_pink">#FF7161</color>
+    <color name="text_red">#FF0000</color>
+    <color name="text_red_dark">#8000FF</color>
+    <color name="text_red_light">#FF00FF</color>
+    <color name="thistle">#D8BFD8</color>
+    <color name="tomato">#FF6347</color>
+    <color name="transparent">#55000000</color>
+    <color name="turquoise">#40E0D0</color>
+    <color name="violet">#EE82EE</color>
+    <color name="wallet_bright_foreground_disabled_holo_light">#ffb2b2b2</color>
+    <color name="wallet_bright_foreground_holo_dark">#fff3f3f3</color>
+    <color name="wallet_bright_foreground_holo_light">#ff000000</color>
+    <color name="wallet_dim_foreground_disabled_holo_dark">#80bebebe</color>
+    <color name="wallet_dim_foreground_holo_dark">#bebebe</color>
+    <color name="wallet_dim_foreground_inverse_disabled_holo_dark">#80323232</color>
+    <color name="wallet_dim_foreground_inverse_holo_dark">#323232</color>
+    <color name="wallet_highlighted_text_holo_dark">#6633b5e5</color>
+    <color name="wallet_highlighted_text_holo_light">#6633b5e5</color>
+    <color name="wallet_hint_foreground_holo_dark">#808080</color>
+    <color name="wallet_hint_foreground_holo_light">#808080</color>
+    <color name="wallet_holo_blue_light">#ff33b5e5</color>
+    <color name="wallet_link_text_light">#0000ee</color>
+    <color name="weight_yellow">#FF9141</color>
+    <color name="wheat">#F5DEB3</color>
+    <color name="white">#ffffff</color>
+    <color name="whitesmoke">#F5F5F5</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="yellow_title">#ff6600</color>
+    <declare-styleable name="AdsAttrs"><attr format="string" name="adSize"/><attr format="string" name="adSizes"/><attr format="string" name="adUnitId"/></declare-styleable>
+    <declare-styleable name="CalendarView"><attr format="integer" name="cv_firstDayOfWeek"/><attr format="boolean" name="cv_showWeekNumber"/><attr format="string" name="cv_minDate"/><attr format="string" name="cv_maxDate"/><attr format="integer" name="cv_shownWeekCount"/><attr format="color|reference" name="cv_selectedWeekBackgroundColor"/><attr format="color|reference" name="cv_focusedMonthDateColor"/><attr format="color|reference" name="cv_unfocusedMonthDateColor"/><attr format="color|reference" name="cv_weekNumberColor"/><attr format="color|reference" name="cv_weekSeparatorLineColor"/><attr format="reference" name="cv_selectedDateVerticalBar"/><attr format="reference" name="cv_weekDayTextAppearance"/><attr format="reference" name="cv_dateTextAppearance"/><attr format="reference" name="cv_dividerHorizontal"/></declare-styleable>
+    <declare-styleable name="CustomWalletTheme"><attr format="enum" name="windowTransitionStyle">
+            <enum name="slide" value="1"/>
+            <enum name="none" value="2"/>
+        </attr></declare-styleable>
+    <declare-styleable name="DatePicker"><attr format="integer" name="dp_startYear"/><attr format="integer" name="dp_endYear"/><attr format="boolean" name="dp_spinnersShown"/><attr format="boolean" name="dp_calendarViewShown"/><attr format="string" name="dp_minDate"/><attr format="string" name="dp_maxDate"/><attr format="reference" name="dp_internalLayout"/></declare-styleable>
+    <declare-styleable name="LoadingImageView"><attr format="enum" name="imageAspectRatioAdjust">
+            <enum name="none" value="0"/>
+            <enum name="adjust_width" value="1"/>
+            <enum name="adjust_height" value="2"/>
+        </attr><attr format="float" name="imageAspectRatio"/><attr format="boolean" name="circleCrop"/></declare-styleable>
+    <declare-styleable name="MapAttrs"><attr format="enum" name="mapType">
+      <enum name="none" value="0"/>
+      <enum name="normal" value="1"/>
+      <enum name="satellite" value="2"/>
+      <enum name="terrain" value="3"/>
+      <enum name="hybrid" value="4"/>
+
+
+
+    </attr><attr format="float" name="cameraBearing"/><attr format="float" name="cameraTargetLat"/><attr format="float" name="cameraTargetLng"/><attr format="float" name="cameraTilt"/><attr format="float" name="cameraZoom"/><attr format="boolean" name="liteMode"/><attr format="boolean" name="uiCompass"/><attr format="boolean" name="uiRotateGestures"/><attr format="boolean" name="uiScrollGestures"/><attr format="boolean" name="uiTiltGestures"/><attr format="boolean" name="uiZoomControls"/><attr format="boolean" name="uiZoomGestures"/><attr format="boolean" name="useViewLifecycle"/><attr format="boolean" name="zOrderOnTop"/><attr format="boolean" name="uiMapToolbar"/><attr format="boolean" name="ambientEnabled"/></declare-styleable>
+    <declare-styleable name="NumberPicker"><attr format="color|reference" name="solidColor"/><attr format="reference" name="selectionDivider"/><attr format="dimension" name="selectionDividerHeight"/><attr format="dimension" name="selectionDividersDistance"/><attr format="dimension" name="internalMinHeight"/><attr format="dimension" name="internalMaxHeight"/><attr format="dimension" name="internalMinWidth"/><attr format="dimension" name="internalMaxWidth"/><attr format="reference" name="internalLayout"/><attr format="reference" name="virtualButtonPressedDrawable"/></declare-styleable>
+    <declare-styleable name="PullToRefresh"><attr format="reference|color" name="ptrRefreshableViewBackground"/><attr format="reference|color" name="ptrHeaderBackground"/><attr format="reference|color" name="ptrHeaderTextColor"/><attr format="reference|color" name="ptrHeaderSubTextColor"/><attr name="ptrMode">
+            <flag name="disabled" value="0x0"/>
+            <flag name="pullFromStart" value="0x1"/>
+            <flag name="pullFromEnd" value="0x2"/>
+            <flag name="both" value="0x3"/>
+            <flag name="manualOnly" value="0x4"/>
+
+            
+            <flag name="pullDownFromTop" value="0x1"/>
+            <flag name="pullUpFromBottom" value="0x2"/>
+        </attr><attr format="reference|boolean" name="ptrShowIndicator"/><attr format="reference" name="ptrDrawable"/><attr format="reference" name="ptrDrawableStart"/><attr format="reference" name="ptrDrawableEnd"/><attr format="reference|boolean" name="ptrOverScroll"/><attr format="reference" name="ptrHeaderTextAppearance"/><attr format="reference" name="ptrSubHeaderTextAppearance"/><attr name="ptrAnimationStyle">
+            <flag name="rotate" value="0x0"/>
+            <flag name="flip" value="0x1"/>
+        </attr><attr format="reference|boolean" name="ptrScrollingWhileRefreshingEnabled"/><attr format="reference|boolean" name="ptrListViewExtrasEnabled"/><attr format="reference|boolean" name="ptrRotateDrawableWhilePulling"/><attr format="reference|color" name="ptrAdapterViewBackground"/><attr format="reference" name="ptrDrawableTop"/><attr format="reference" name="ptrDrawableBottom"/></declare-styleable>
+    <declare-styleable name="SignInButton"><attr format="reference|enum" name="buttonSize">
+            <enum name="standard" value="0"/>
+            <enum name="wide" value="1"/>
+            <enum name="icon_only" value="2"/>
+        </attr><attr format="reference|enum" name="colorScheme">
+            <enum name="dark" value="0"/>
+            <enum name="light" value="1"/>
+            <enum name="auto" value="2"/>
+        </attr><attr format="reference|string" name="scopeUris"/></declare-styleable>
+    <declare-styleable name="SlidingMenu"><attr name="mode">
+            <enum name="left" value="0"/>
+            <enum name="right" value="1"/>
+        </attr><attr format="reference" name="viewAbove"/><attr format="reference" name="viewBehind"/><attr format="dimension" name="behindOffset"/><attr format="dimension" name="behindWidth"/><attr format="float" name="behindScrollScale"/><attr name="touchModeAbove">
+            <enum name="margin" value="0"/>
+            <enum name="fullscreen" value="1"/>
+        </attr><attr name="touchModeBehind">
+            <enum name="margin" value="0"/>
+            <enum name="fullscreen" value="1"/>
+        </attr><attr format="reference" name="shadowDrawable"/><attr format="dimension" name="shadowWidth"/><attr format="boolean" name="fadeEnabled"/><attr format="float" name="fadeDegree"/><attr format="boolean" name="selectorEnabled"/><attr format="reference" name="selectorDrawable"/></declare-styleable>
+    <declare-styleable name="TextAppearanceCompatStyleable"><attr name="android:textSize"/></declare-styleable>
+    <declare-styleable name="WalletFragmentOptions"><attr format="enum" name="appTheme">
+            <enum name="holo_dark" value="0"/>
+            <enum name="holo_light" value="1"/>
+        </attr><attr format="enum" name="environment">
+            <enum name="production" value="1"/>
+            <enum name="test" value="3"/>
+            <enum name="sandbox" value="0"/>
+            <enum name="strict_sandbox" value="2"/>
+        </attr><attr format="reference" name="fragmentStyle"/><attr format="enum" name="fragmentMode">
+            <enum name="buyButton" value="1"/>
+            <enum name="selectionDetails" value="2"/>
+        </attr></declare-styleable>
+    <declare-styleable name="WalletFragmentStyle"><attr format="dimension" name="buyButtonHeight">
+            <enum name="match_parent" value="-1"/>
+            <enum name="wrap_content" value="-2"/>
+        </attr><attr format="dimension" name="buyButtonWidth">
+            <enum name="match_parent" value="-1"/>
+            <enum name="wrap_content" value="-2"/>
+        </attr><attr format="enum" name="buyButtonText">
+            <enum name="buy_with" value="5"/>
+            <enum name="logo_only" value="6"/>
+            <enum name="donate_with" value="7"/>
+            
+            <enum name="buy_with_google" value="1"/>
+            <enum name="buy_now" value="2"/>
+            <enum name="book_now" value="3"/>
+            <enum name="donate_with_google" value="4"/>
+        </attr><attr format="enum" name="buyButtonAppearance">
+            <enum name="google_wallet_classic" value="1"/>
+            <enum name="google_wallet_grayscale" value="2"/>
+            <enum name="google_wallet_monochrome" value="3"/>
+            <enum name="android_pay_dark" value="4"/>
+            <enum name="android_pay_light" value="5"/>
+            <enum name="android_pay_light_with_border" value="6"/>
+            
+            <enum name="classic" value="1"/>
+            <enum name="grayscale" value="2"/>
+            <enum name="monochrome" value="3"/>
+        </attr><attr format="reference" name="maskedWalletDetailsTextAppearance"/><attr format="reference" name="maskedWalletDetailsHeaderTextAppearance"/><attr format="reference|color" name="maskedWalletDetailsBackground"/><attr format="reference" name="maskedWalletDetailsButtonTextAppearance"/><attr format="reference|color" name="maskedWalletDetailsButtonBackground"/><attr format="color" name="maskedWalletDetailsLogoTextColor"/><attr format="enum" name="maskedWalletDetailsLogoImageType">
+            <enum name="google_wallet_classic" value="1"/>
+            <enum name="google_wallet_monochrome" value="2"/>
+            <enum name="android_pay" value="3"/>
+            
+            <enum name="classic" value="1"/>
+            <enum name="monochrome" value="2"/>
+        </attr></declare-styleable>
+    <declare-styleable name="chart_view"><attr format="color" name="lineColor"/><attr format="color" name="deepSleepColor"/><attr format="color" name="lightSleepColor"/><attr format="integer" name="baseSlice"/><attr format="dimension" name="lineWidth"/><attr format="dimension" name="deepSleepHeight"/><attr format="dimension" name="lightSleepHeight"/></declare-styleable>
+    <declare-styleable name="sport_item"><attr format="reference|color" name="icon"/><attr format="reference" name="iconText"/><attr format="color" name="textColor"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="common_title_height">51dp</dimen>
+    <dimen name="gd_arrow_offset">5dp</dimen>
+    <dimen name="header_footer_left_right_padding">24dp</dimen>
+    <dimen name="header_footer_top_bottom_padding">12dp</dimen>
+    <dimen name="horizontal_page_margin">@dimen/margin_medium</dimen>
+    <dimen name="indicator_corner_radius">12dp</dimen>
+    <dimen name="indicator_internal_padding">4dp</dimen>
+    <dimen name="indicator_right_padding">10dp</dimen>
+    <dimen name="layout_corner">7.0dip</dimen>
+    <dimen name="m00_alert_dialog_min_width">300dp</dimen>
+    <dimen name="m00_bottom_menu_height">55.5dp</dimen>
+    <dimen name="m00_btn_load_20_more_margin">15dp</dimen>
+    <dimen name="m00_btn_load_20_more_padding">3dp</dimen>
+    <dimen name="m00_category_tab_height">40.7dp</dimen>
+    <dimen name="m00_font_size_14pt">9.3sp</dimen>
+    <dimen name="m00_font_size_15pt">10sp</dimen>
+    <dimen name="m00_font_size_16pt">10.7sp</dimen>
+    <dimen name="m00_font_size_18pt">12.0sp</dimen>
+    <dimen name="m00_font_size_20pt">13.3sp</dimen>
+    <dimen name="m00_font_size_22pt">14.7sp</dimen>
+    <dimen name="m00_font_size_24pt">16sp</dimen>
+    <dimen name="m00_font_size_26pt">17.3sp</dimen>
+    <dimen name="m00_font_size_28pt">18.7sp</dimen>
+    <dimen name="m00_font_size_30pt">20sp</dimen>
+    <dimen name="m00_font_size_36pt">24sp</dimen>
+    <dimen name="m00_font_size_64pt">42.7sp</dimen>
+    <dimen name="m00_home_featured_content_height">26dp</dimen>
+    <dimen name="m00_home_featured_icon_height">100dp</dimen>
+    <dimen name="m00_home_tab_arrow_margin_bottom">2dp</dimen>
+    <dimen name="m00_home_tab_height">40.7dp</dimen>
+    <dimen name="m00_home_tab_sep_height">30dp</dimen>
+    <dimen name="m00_home_tab_sep_margin_bottom">2dp</dimen>
+    <dimen name="m00_main_list_item_divider_height">6.7dp</dimen>
+    <dimen name="m00_main_padding_length">6.7dp</dimen>
+    <dimen name="m00_title_bar_height">76.7dp</dimen>
+    <dimen name="m01_arrow_length">25dp</dimen>
+    <dimen name="m03_search_hotword_list_item_height">43.3dp</dimen>
+    <dimen name="m06_app_slider_width">80dp</dimen>
+    <dimen name="m06_btn_leave_comment_height">44dp</dimen>
+    <dimen name="m06_comment_height">270dp</dimen>
+    <dimen name="m06_comment_list_item_height">65dp</dimen>
+    <dimen name="m06_confirmation_dialog_width">220dp</dimen>
+    <dimen name="m06_credit_card_cvv_margin">78dp</dimen>
+    <dimen name="m06_descript_sub_view_height">130dp</dimen>
+    <dimen name="m06_descript_title_height">34.7dp</dimen>
+    <dimen name="m06_load_data_failed_height">300dp</dimen>
+    <dimen name="m06_load_more_height">58dp</dimen>
+    <dimen name="m06_price_max_width">40dp</dimen>
+    <dimen name="m06_radio_button_padding">18dp</dimen>
+    <dimen name="m06_relevant_view_height">110dp</dimen>
+    <dimen name="m06_screen_shot_height">218.7dp</dimen>
+    <dimen name="m06_screen_shot_item_left_width">14.7dp</dimen>
+    <dimen name="m06_screen_shot_item_width">133.3dp</dimen>
+    <dimen name="m06_screen_shot_view_height">294.7dp</dimen>
+    <dimen name="m06_screen_shot_view_padding_width">5dp</dimen>
+    <dimen name="m06_screen_shot_width">148dp</dimen>
+    <dimen name="margin_huge">64dp</dimen>
+    <dimen name="margin_large">32dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_tiny">4dp</dimen>
+    <dimen name="place_autocomplete_button_padding">16dp</dimen>
+    <dimen name="place_autocomplete_powered_by_google_height">40dp</dimen>
+    <dimen name="place_autocomplete_powered_by_google_start">16dp</dimen>
+    <dimen name="place_autocomplete_prediction_height">72dp</dimen>
+    <dimen name="place_autocomplete_prediction_horizontal_margin">16dp</dimen>
+    <dimen name="place_autocomplete_prediction_primary_text">16sp</dimen>
+    <dimen name="place_autocomplete_prediction_secondary_text">14sp</dimen>
+    <dimen name="place_autocomplete_progress_horizontal_margin">16dp</dimen>
+    <dimen name="place_autocomplete_progress_size">24dp</dimen>
+    <dimen name="place_autocomplete_separator_start">72dp</dimen>
+    <dimen name="shadow_width">15dp</dimen>
+    <dimen name="slidingmenu_offset">120dp</dimen>
+    <dimen name="vertical_page_margin">@dimen/margin_medium</dimen>
+    <drawable name="white">#ffffff</drawable>
+    <item name="cast_notification_id" type="id"/>
+    <item name="gridview" type="id"/>
+    <item name="np__decrement" type="id"/>
+    <item name="np__increment" type="id"/>
+    <item name="scrollview" type="id"/>
+    <item name="selected_view" type="id"/>
+    <item name="webview" type="id"/>
+    <integer name="ga_dispatchPeriod">10</integer>
+    <integer name="google_play_services_version">8487000</integer>
+    <string name="accept">Accept</string>
+    <string name="action_settings">Settings</string>
+    <string name="alarm_activity_manage_title"> ALARM SETUP </string>
+    <string name="alarm_desc_everyday">Every day</string>
+    <string name="alarm_desc_friday">Fri</string>
+    <string name="alarm_desc_monday">Mon</string>
+    <string name="alarm_desc_none">None</string>
+    <string name="alarm_desc_saturday">Sat</string>
+    <string name="alarm_desc_sunday">Sun</string>
+    <string name="alarm_desc_thursday">Thu</string>
+    <string name="alarm_desc_tuesday">Tue</string>
+    <string name="alarm_desc_wednesday">Wed</string>
+    <string name="alarm_desc_weekend">Weekend</string>
+    <string name="alarm_desc_workday"> Weekday</string>
+    <string name="alarm_modify_alarm">Alter alarm clock</string>
+    <string name="alarm_noitice">Alarm Reminder:Vibrate 9 Times </string>
+    <string name="alarm_repeat">Rep</string>
+    <string name="alarm_week"/>
+    <string name="app_name">FitIncluded</string>
+    <string name="app_name11111111">BarChart</string>
+    <string name="app_start">Welcome to FIT INCLUDED</string>
+    <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
+    <string name="auth_google_play_services_client_google_display_name">Google</string>
+    <string name="baidutieba">百度贴吧</string>
+    <string name="baidutieba_client_inavailable">目前您的百度贴吧版本过低或未安装，需要安装百度贴吧才能使用</string>
+    <string name="ble_not_supported">BLE is not supported</string>
+    <string name="bluetooth">蓝牙</string>
+    <string name="body_info_age">Age</string>
+    <string name="body_info_age_is_necessary">age is necessary!</string>
+    <string name="body_info_age_recommend">Age should be between born year 12 to 114.</string>
+    <string name="body_info_bmi">BMI:</string>
+    <string name="body_info_body_type">,Body shape</string>
+    <string name="body_info_height">Height</string>
+    <string name="body_info_height_is_necessary">height is necessary</string>
+    <string name="body_info_height_recommend">recommend height is between 24” to 107”. </string>
+    <string name="body_info_height_recommend_m">recommend height is between 60cm to 272cm. </string>
+    <string name="body_info_mildly_obese">Mildly obese</string>
+    <string name="body_info_moderately_obese">Moderately obese</string>
+    <string name="body_info_modify"> PROFILE INFO </string>
+    <string name="body_info_normal">normal</string>
+    <string name="body_info_overweight">overweight</string>
+    <string name="body_info_register"> PROFILE INFO </string>
+    <string name="body_info_severe_obesity">Severe obese</string>
+    <string name="body_info_slim">Slim</string>
+    <string name="body_info_unknow">Null</string>
+    <string name="body_info_weight">Weight</string>
+    <string name="body_info_weight_is_necessary">weight is necessary</string>
+    <string name="body_info_weight_recommend">Choose a weight between 44 lbs and 998 lbs </string>
+    <string name="body_info_weight_recommend_m">Choose a weight between 20kg and 453kg </string>
+    <string name="bound_active">2.Click ‘Start’ button,choose and connect device,the tracker will vibrate if connected.</string>
+    <string name="bound_active_notice">Connect the tracker with the mains through the charging cable,it will be activated after five seconds light blinks.</string>
+    <string name="bound_active_notice2">a.Charging Voltage:5v DC         b.After activation, please continue charging until the charging is completed</string>
+    <string name="bound_active_notice3">充电器通过磁力吸附在表盘背面，手表正面会显示四位数ID号</string>
+    <string name="bound_active_notice4">手机APP点击绑定按钮后，手表会显示出左边的页面</string>
+    <string name="bound_active_notice5">点击确定"YES"按钮，确认绑定</string>
+    <string name="bound_failed"> Bound failed </string>
+    <string name="bound_failed_msg">The first equipment bounding need network, if your phone network fails, open network first and try again!</string>
+    <string name="bound_failed_reason">Bluetooth unable to connect the WRISTBAND successfully!Please try again!</string>
+    <string name="bound_illegal_address"> Illegal detail_sport_data_sssj</string>
+    <string name="bound_illegal_address_msg"> Illegal MAC!</string>
+    <string name="bound_item_click">Select to Pair</string>
+    <string name="bound_link_band">Linkloving band</string>
+    <string name="bound_link_niukouband">Linkloving band 3.0</string>
+    <string name="bound_link_watch">Linkloving watch</string>
+    <string name="bound_list">Device List</string>
+    <string name="bound_pick_up">To activate,remove tracker and begin charging by connecting the cable to a USB power source</string>
+    <string name="bound_refresh">Refresh</string>
+    <string name="bound_scan">3.Please wait a few seconds and pull off the charging line in 1 min and binding success. </string>
+    <string name="bound_scan_sqr"> Cancel({0}S LEFT)</string>
+    <string name="bound_skip">Skip</string>
+    <string name="bound_step2_tip">From the “Device List” screen – select the Bluetooth device. If more than one device appears, select the the device that matches the MAC:#### imprinted on the module.</string>
+    <string name="bound_step3_tip">Take off your charger from the wristband</string>
+    <string name="bound_title"> PAIR WRISTBAND </string>
+    <string name="brace_version">Firmware Version:</string>
+    <string name="bracelet_battery">{0}%</string>
+    <string name="bracelet_bluetooth_closed">Bluetooth not connected!</string>
+    <string name="bracelet_bound">Paired</string>
+    <string name="bracelet_help">Help</string>
+    <string name="bracelet_mac_address"> MAC:{0}</string>
+    <string name="bracelet_oad">Firmware Update</string>
+    <string name="bracelet_oad_Portal">A new firmware update is available.  Would you like to update now?</string>
+    <string name="bracelet_oad_failed">Update Failed</string>
+    <string name="bracelet_oad_failed_battery">Battery is less than 30%, please charge before updating</string>
+    <string name="bracelet_oad_failed_msg">Please keep your phone network work when update!</string>
+    <string name="bracelet_oad_keycodeback">Please do not switch !</string>
+    <string name="bracelet_oad_msg">Update can take 2-3 minutes. Proceed?</string>
+    <string name="bracelet_oad_reason">Update failed:Bluetooth is closed!</string>
+    <string name="bracelet_oad_version_top">Latest build</string>
+    <string name="bracelet_owner">\'s wristband </string>
+    <string name="bracelet_sync_format">MM-dd-yyyy HH:mm:ss</string>
+    <string name="bracelet_sync_none"> [Never been synchronized]</string>
+    <string name="bracelet_sync_time">Last sync time</string>
+    <string name="bracelet_title"> Wristband Info </string>
+    <string name="bracelet_unbound">Disconnect</string>
+    <string name="bracelet_unbound_failed">Unbound Failed</string>
+    <string name="bracelet_unbound_failed_msg">Please keep your phone network work when unbound!</string>
+    <string name="bracelet_unbound_msg">Disconnect tracker from this account?</string>
+    <string name="bracelet_update">Firmware Update</string>
+    <string name="bracelet_version"> Firmware:{0}</string>
+    <string name="cancel">Cancel</string>
+    <string name="cast_notification_connected_message">Connected to <ns1:g id="name">%1$s</ns1:g></string>
+    <string name="cast_notification_connecting_message">Connecting to <ns1:g id="name">%1$s</ns1:g></string>
+    <string name="cast_notification_disconnect">Disconnect</string>
+    <string name="chat_sendpic_image_view_file_path_not_valid">Image path is not valid, please try again after checking the SD card!</string>
+    <string name="chat_sendpic_image_view_image_not_valid">Image not valid or be removed, failed to load.</string>
+    <string name="chat_sendpic_image_view_imagebig_for_memery">Image is so large, you can restart the program and try again!</string>
+    <string name="chat_sendpic_image_view_imagedata_not_valid">Image date is not valid, please try again!</string>
+    <string name="chat_sendpic_image_view_imageloading">Image loading...</string>
+    <string name="chat_sendpic_image_view_imageloading2">Image loading...</string>
+    <string name="chat_sendpic_image_view_multitouch_hint">Tip: Supports multi-touch zoom in and out image</string>
+    <string name="chat_sendpic_image_view_oom_for_rotate">Insufficient memory to rotate the picture is not successful, you can restart the program and try again!</string>
+    <string name="chat_sendpic_image_view_sendpic">Send image</string>
+    <string name="chat_sendpic_image_view_title">View image</string>
+    <string name="common_distance_unit_metres">"meter "</string>
+    <string name="common_google_play_services_api_unavailable_text"><ns1:g id="app_name">%1$s</ns1:g> requires one or more Google Play services that are not currently available. Please contact the developer for assistance.</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable Google Play services</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t work unless you enable Google Play services.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Get Google Play services</string>
+    <string msgid="2122112764540849864" name="common_google_play_services_install_text_phone"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are missing from your phone.</string>
+    <string msgid="7351599665250191022" name="common_google_play_services_install_text_tablet"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are missing from your tablet.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+    <string name="common_google_play_services_network_error_title">Network Error</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_restricted_profile_text">Accessing accounts from a restricted profile is not supported.</string>
+    <string name="common_google_play_services_restricted_profile_title">Restricted Profile</string>
+    <string name="common_google_play_services_sign_in_failed_text">Error signing in the specified account. Please choose a different account.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Sign in failed</string>
+    <string name="common_google_play_services_unknown_issue"><ns1:g id="app_name">%1$s</ns1:g> is having trouble with Google Play services. If the problem persists, please contact the developer for assistance.</string>
+    <string name="common_google_play_services_unsupported_text"><ns1:g id="app_name">%1$s</ns1:g> relies on Google Play services, which is not supported by your device. Contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Update</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run unless you update Google Play services.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are currently updating.</string>
+    <string name="common_google_play_services_updating_title">Google Play services are updating</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="common_sleep_light"> Light sleep </string>
+    <string name="common_sleep_sound"> Deep sleep</string>
+    <string name="connected">Connected</string>
+    <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
+    <string name="create_calendar_title">Create calendar event</string>
+    <string name="date_picker_activity_title">Choose date</string>
+    <string name="date_picker_back2today">Back  to today</string>
+    <string name="date_picker_decrement_day_button">Decrement day</string>
+    <string name="date_picker_decrement_month_button">Decrement month</string>
+    <string name="date_picker_decrement_year_button">Decrement year</string>
+    <string name="date_picker_dialog_title">Select date</string>
+    <string name="date_picker_increment_day_button">Increment day</string>
+    <string name="date_picker_increment_month_button">Increment month</string>
+    <string name="date_picker_increment_year_button">Increment year</string>
+    <string name="date_picker_out_time">You have choose a invalid date!</string>
+    <string name="date_time_done">Done</string>
+    <string name="date_time_set">Set</string>
+    <string name="debug_device_set_success">DEBUG(设备反馈): 设置用户信息成功!</string>
+    <string name="debug_device_unbound_failed"> Unbundling failed</string>
+    <string name="decline">Decline</string>
+    <string name="detail_sport_data_bkl">杯可乐</string>
+    <string name="detail_sport_data_content_reading">reading...</string>
+    <string name="detail_sport_data_hdsj">Time</string>
+    <string name="detail_sport_data_image_loading">Picture preparing...</string>
+    <string name="detail_sport_data_nlxh">Calorie </string>
+    <string name="detail_sport_data_npl">您跑了</string>
+    <string name="detail_sport_data_nsl">您睡了</string>
+    <string name="detail_sport_data_pbjl">Distance</string>
+    <string name="detail_sport_data_pjsd">Speed</string>
+    <string name="detail_sport_data_qc">Get up</string>
+    <string name="detail_sport_data_qssj">Light sleep</string>
+    <string name="detail_sport_data_refresh_range">Refresh: Date Range:</string>
+    <string name="detail_sport_data_rs">Go to bed</string>
+    <string name="detail_sport_data_run_time">跑步用时</string>
+    <string name="detail_sport_data_sm">Sleep</string>
+    <string name="detail_sport_data_sssj">Deep sleep</string>
+    <string name="detail_sport_data_sum_main_run">Run</string>
+    <string name="detail_sport_data_sum_main_sleep">Sleep</string>
+    <string name="detail_sport_data_sum_main_walk">Walk</string>
+    <string name="detail_sport_data_title">Detail data</string>
+    <string name="detail_sport_data_today">Today</string>
+    <string name="detail_sport_data_waiting_tomorrow"> Looking forward to the future.</string>
+    <string name="detail_sport_data_wcmb">Completed</string>
+    <string name="detail_sport_data_ydjl">Distance</string>
+    <string name="detail_sport_data_ydl">Walk</string>
+    <string name="detail_sport_equivalent">相当于</string>
+    <string name="detail_sport_qpd">圈跑道</string>
+    <string name="device_info_address"> Device Code:</string>
+    <string name="device_info_msg"> Device Info:</string>
+    <string name="device_info_name"> Device Name:</string>
+    <string name="device_info_none">Null</string>
+    <string name="device_info_title"> Device Info </string>
+    <string name="disconnected">Disconnected</string>
+    <string name="douban">豆瓣</string>
+    <string name="dropbox">Dropbox</string>
+    <string name="email">邮件</string>
+    <string name="error_bluetooth_not_supported">Bluetooth not supported.</string>
+    <string name="evenote_title">The Reflex has been successfully paired</string>
+    <string name="evernote">印象笔记</string>
+    <string name="facebook">Facebook</string>
+    <string name="facebookmessenger">Facebook Messenger</string>
+    <string name="finish">完成</string>
+    <string name="flickr">Flickr</string>
+    <string name="forget_password_find_back">Forgot your password?</string>
+    <string name="forget_password_notice">(Please enter your registered e-mail to help you recover your account password)</string>
+    <string name="forget_password_register_mail">Email</string>
+    <string name="forgot_password_title">Reset Password</string>
+    <string name="foursquare">FourSquare</string>
+    <string name="ga_trackingId">UA-45864980-4</string>
+    <string name="general_about">About</string>
+    <string name="general_add">Add</string>
+    <string name="general_back">Back</string>
+    <string name="general_cancel">Cancel</string>
+    <string name="general_change">Change</string>
+    <string name="general_clouding">Synchronizing...</string>
+    <string name="general_clouding_failure">Synchronized fail</string>
+    <string name="general_clouding_success">Synchronized complete</string>
+    <string name="general_delete">Delete</string>
+    <string name="general_dialog_oad">{0}% completed \nDo not lock your phone,keep app on the front!</string>
+    <string name="general_dialog_oad_text">{0}% complete({2} out of {1} data points have been downloaded)</string>
+    <string name="general_dialog_sync_text"> {0}% complete({2} out of {1} data points have been downloaded)</string>
+    <string name="general_error">Error</string>
+    <string name="general_faild">Failed</string>
+    <string name="general_female">Female</string>
+    <string name="general_got_it">Got it</string>
+    <string name="general_invild">Invalid</string>
+    <string name="general_loading">Loading...</string>
+    <string name="general_male">Male</string>
+    <string name="general_more">More</string>
+    <string name="general_network_faild">Network is not stable, pls try again!</string>
+    <string name="general_next">Next</string>
+    <string name="general_no">No</string>
+    <string name="general_no_more_data">No more data</string>
+    <string name="general_nodata">no records</string>
+    <string name="general_not_delete">Can not Delete</string>
+    <string name="general_null_data">No more data</string>
+    <string name="general_null_label">No messages Posted Yet</string>
+    <string name="general_oad_end">Update complete</string>
+    <string name="general_oad_fail">Update failed</string>
+    <string name="general_oading">Updating...</string>
+    <string name="general_ok">OK</string>
+    <string name="general_prompt">Prompt</string>
+    <string name="general_reduce">Reduce</string>
+    <string name="general_reminder">Warm Reminder</string>
+    <string name="general_retry">Retry</string>
+    <string name="general_save">SAVE</string>
+    <string name="general_send">Sending...</string>
+    <string name="general_share">Share</string>
+    <string name="general_sleep">Sleep</string>
+    <string name="general_sport">Sport</string>
+    <string name="general_start">Start</string>
+    <string name="general_start_check">start to check</string>
+    <string name="general_submitting">Submitting...</string>
+    <string name="general_sycing">Synchronizing...</string>
+    <string name="general_sync_end">Synchronization is complete</string>
+    <string name="general_sync_time">{0}, {1}tips</string>
+    <string name="general_tip">Tip</string>
+    <string name="general_uploading">Downloading...</string>
+    <string name="general_wait">Wait...</string>
+    <string name="general_yes">Yes</string>
+    <string name="goal_consume">Burn</string>
+    <string name="goal_notice">Completed Step Target: Vibration 5 times</string>
+    <string name="goal_recommend">RCMD:</string>
+    <string name="goal_sport"> Steps</string>
+    <string name="goal_step"> Steps </string>
+    <string name="goal_step_error_message"> Target number of steps must be an integer greater than 0. </string>
+    <string name="goal_step_error_title"> Formal error</string>
+    <string name="goal_title"> Steps Target </string>
+    <string name="google_plus_client_inavailable">Google+ 版本过低或者没有安装，需要升级或安装Google+才能使用！</string>
+    <string name="googleplus">Google+</string>
+    <string name="handup_setting"> Display Settings</string>
+    <string name="handup_setting_intro">勿扰时间段内，除闹钟、倒计时外其余震动功能均关闭</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="home_state_active">Activity</string>
+    <string name="home_state_run">Run</string>
+    <string name="home_state_sit">Sit quietly</string>
+    <string name="home_state_walk">Walk</string>
+    <string name="instagram">Instagram</string>
+    <string name="instagram_client_inavailable">Instagram版本过低或者没有安装，需要升级或安装Instagram才能使用！</string>
+    <string name="instapager_email_or_password_incorrect">Email或密码不正确</string>
+    <string formatted="false" name="instapager_login_html" ns2:ignore="MissingTranslation">
+&lt;!DOCTYPE html>
+&lt;html>
+&lt;head>
+&lt;meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">
+&lt;meta content=\"width=device-width,minimum-scale=1,maximum-scale=1,initial-scale=1,user-scalable=no\" id=\"viewport\" name=\"viewport\">
+&lt;meta content=\"yes\" name=\"apple-mobile-web-app-capable\">
+&lt;title>%s&lt;/title>
+&lt;style type=\"text/css\">
+body{margin:0;padding:0}
+.inputstyle {
+    -webkit-tap-highlight-color:rgba(255,255,255,0);
+    width:100%%;
+    height:44px;
+    color:#000;
+    background:0;
+    border:0;
+    font-size:16px;
+    outline: none;
+    -webkit-appearance:none
+}
+
+.btn {
+    width:90%%;
+    height:44px;
+    line-height:44px;
+    background:#A0C035;
+    border:0;
+    border-radius:4px;
+    color:#fff;
+    font-size:16px;
+    text-align:center;
+    margin-top:15px;
+    display:block
+}
+.btn:disabled {
+    background: #dddddd;
+}
+.error {
+    color:red;
+}
+&lt;/style>
+&lt;/head>
+
+&lt;body>
+&lt;script type=\"text/javascript\">
+function login(form){
+    var u=form[\"u\"].value,p=form[\"p\"].value;
+    if(!u || !p)
+        return false;
+    form[\"s\"].disabled = true;
+    return true;
+}
+&lt;/script>
+&lt;form style=\"margin-top:45px;\" action=\"%s\" metho=\"get\" onsubmit=\"return login(this);\">
+%s
+&lt;div style=\"padding-left:15px;border-top:1px solid #E3E3E5;border-bottom:1px solid #E3E3E5;\">
+ &lt;input type=\"hidden\" name=\"ID_SIGN\" value=\"OWELJSFPWECSFEW\"/>
+ &lt;input class=\"inputstyle\" id=\"u\" name=\"u\" type=\"text\" value=\"%s\" placeholder=\"%s\" style=\"border-bottom:1px solid #E3E3E5;\"/>
+ &lt;input class=\"inputstyle\" id=\"p\" name=\"p\" type=\"password\" placeholder=\"%s\"/>
+&lt;/div>
+&lt;p>&lt;input style=\"margin:0 auto;\" type=\"submit\" name=\"s\" value=\"  %s  \" class=\"btn\"/>&lt;/p>
+&lt;/form>
+&lt;/body>
+&lt;/html>
+</string>
+    <string name="instapaper">Instapaper</string>
+    <string name="instapaper_email">邮箱</string>
+    <string name="instapaper_login">登录</string>
+    <string name="instapaper_logining">登录中…</string>
+    <string name="instapaper_pwd">密码</string>
+    <string name="intro_message">
+        
+        
+            
+            This sample demonstrates how to use the Bluetooth LE Generic Attribute Profile (GATT)
+            to transmit arbitrary data between devices.
+            
+        
+        
+    </string>
+    <string name="kaixin">开心网</string>
+    <string name="kakaostory">KakaoStory</string>
+    <string name="kakaostory_client_inavailable">目前您的KakaoStory版本过低或未安装，需要安装KakaoStory才能使用</string>
+    <string name="kakaotalk">KakaoTalk</string>
+    <string name="kakaotalk_client_inavailable">目前您的KakaoTalk版本过低或未安装，需要安装KakaoTalk才能使用</string>
+    <string name="label_data">Data:</string>
+    <string name="label_device_address">Device address:</string>
+    <string name="label_state">State:</string>
+    <string name="laiwang">来往</string>
+    <string name="laiwang_client_inavailable">目前您的来往版本过低或未安装，需要安装来往才能使用</string>
+    <string name="laiwangmoments">来往动态</string>
+    <string name="line">Line</string>
+    <string name="line_client_inavailable">目前您的Line版本过低或未安装，需要安装Line才能使用</string>
+    <string name="linkedin">领英</string>
+    <string name="list_friends">%s的朋友</string>
+    <string name="login_form_account">Email</string>
+    <string name="login_form_btn_forgetpsw">Forgot password >></string>
+    <string name="login_form_btn_login">Log In</string>
+    <string name="login_form_btn_register">Register</string>
+    <string name="login_form_cb_rememberpsw">Remember your name?</string>
+    <string name="login_form_error">Error connecting to the server and login,result==null</string>
+    <string name="login_form_error_message">Login failed!</string>
+    <string name="login_form_error_psw_message">Invalid login information, please check your Email and password.</string>
+    <string name="login_form_error_psw_tip">Error</string>
+    <string name="login_form_exit_app_tip">Are you sure to exit?</string>
+    <string name="login_form_forgot_password">Forgot password >></string>
+    <string name="login_form_have_latest_version">Have latest version</string>
+    <string name="login_form_have_latest_version_descrption">We strongly recommend that you update to the latest version in order to get better service. Continue to use the older version may cause problems. You can also e-mail us with \"support@linkloving.com\".</string>
+    <string name="login_form_have_latest_version_ignore">Ignore</string>
+    <string name="login_form_have_latest_version_update_now">Update now!</string>
+    <string name="login_form_hint_loginname">Email</string>
+    <string name="login_form_hint_loginpassword">Password</string>
+    <string name="login_form_loading_login">Logging...</string>
+    <string name="login_form_login">LOGIN</string>
+    <string name="login_form_password">Password</string>
+    <string name="login_form_qq_login">QQ Log In</string>
+    <string name="login_form_register">REGISTER</string>
+    <string name="login_form_relogin_text">Switch User</string>
+    <string name="login_form_title">Login FIT INCLUDED</string>
+    <string name="login_form_validate_login_name_empty">User name is necessary!</string>
+    <string name="login_form_validate_login_psw_length_less_six">Must compelete the password!</string>
+    <string name="login_form_version_error">Update version error.</string>
+    <string name="login_form_version_info">Version: {0}({1})</string>
+    <string name="long_sit_end_time">End time</string>
+    <string name="long_sit_end_time_text"> End time </string>
+    <string name="long_sit_notice_end"> times, Remind you of some exercise </string>
+    <string name="long_sit_notice_head"> If you sit too long, wristband will slightly vibrate </string>
+    <string name="long_sit_onset_text">Effective Period </string>
+    <string name="long_sit_start_time"> Start time</string>
+    <string name="long_sit_start_time_text"> Start time </string>
+    <string name="long_sit_step">Least Steps</string>
+    <string name="long_sit_switch_title">ON/OFF</string>
+    <string name="long_sit_text">Inactivity Reminder</string>
+    <string name="long_sit_time_error_message"> End time must be later than the start time.</string>
+    <string name="long_sit_time_error_title"> Invalid </string>
+    <string name="long_sit_title"> REMINDERS</string>
+    <string name="long_sit_to">To</string>
+    <string name="main_about_FitIncluded">About FitIncluded</string>
+    <string name="main_about_douban">Twitter</string>
+    <string name="main_about_mail">support@fitincluded.com</string>
+    <string name="main_about_official_website">www.fitincluded.com</string>
+    <string name="main_about_privacy_clear">Clear Cache</string>
+    <string name="main_about_privacy_conditions">Privacy Setting</string>
+    <string name="main_about_privacy_googlefit">Sync with Google fit</string>
+    <string name="main_about_privacy_policy">Privacy policy</string>
+    <string name="main_about_publish_by">Producted by FitIncluded CO., LTD</string>
+    <string name="main_about_send_mail_content">The email content can not be empty!</string>
+    <string name="main_about_send_mail_title">Feedback</string>
+    <string name="main_about_terms_conditions">Terms and Conditions</string>
+    <string name="main_about_title">More</string>
+    <string name="main_about_unit_conditions">Unit Setting</string>
+    <string name="main_about_weibo">Facebook</string>
+    <string name="main_more_about">About Us</string>
+    <string name="main_more_about_ent">About {0}</string>
+    <string name="main_more_exit_ent">Exit {0}</string>
+    <string name="main_more_exit_ent_faliure">Exit failure!</string>
+    <string name="main_more_exit_ent_message">Are you sure to exit \"{0}\" group ?</string>
+    <string name="main_more_exit_ent_success">Exit successfully!</string>
+    <string name="main_more_faq">FAQ</string>
+    <string name="main_more_from_qq_login">From Tencent QQ</string>
+    <string name="main_more_privacy">Privacy Setting</string>
+    <string name="main_more_privacy_messiage_off">Your profile/step total is now available to the Fitincluded Public Community. Users can find, follow, and see your daily step totals.</string>
+    <string name="main_more_privacy_messiage_on">Your profile/step total is now hidden from the Fitinlcluded Public Community.</string>
+    <string name="main_more_privacy_switch_google_off">Google Fit Sync has been turned off.</string>
+    <string name="main_more_privacy_switch_google_on">Google Fit Sync has been turned on.Return to main page to link your google account with Fitincluded</string>
+    <string name="main_more_privacy_switch_unit">Unit settings have been changed.</string>
+    <string name="main_more_privacy_title">Settings</string>
+    <string name="main_more_rexian">Service hotline</string>
+    <string name="main_more_setting">App Settings</string>
+    <string name="main_more_sycn">Cloud synchronization</string>
+    <string name="main_more_sycn_message">Cloud synchronization can take a few minutes to complete. Do you want to continue?</string>
+    <string name="main_more_sycn_title">Please confirm</string>
+    <string name="main_more_theme">Modify Theme</string>
+    <string name="main_more_tiaozhuan">跳转</string>
+    <string name="main_more_understand">Quick Start Guide</string>
+    <string name="main_more_version">Version</string>
+    <string name="main_more_version_check_is_latest">Your APP version is latest</string>
+    <string name="menu_body">Profile Info</string>
+    <string name="menu_clock">Alarms</string>
+    <string name="menu_connect">Connect</string>
+    <string name="menu_disconnect">Disconnect</string>
+    <string name="menu_exit">Exit Now</string>
+    <string name="menu_exit_app">Sign out</string>
+    <string name="menu_exit_mode">Select way to sign out</string>
+    <string name="menu_goal">Goal</string>
+    <string name="menu_more">More</string>
+    <string name="menu_ranking">Ranking</string>
+    <string name="menu_ring">Find Reflex</string>
+    <string name="menu_scan">Scan</string>
+    <string name="menu_sedentary">Inactive Alert</string>
+    <string name="menu_sport_data">Trends</string>
+    <string name="menu_stop">Stop</string>
+    <string name="mingdao">明道</string>
+    <string name="mingdao_share_content">网页分享</string>
+    <string name="multi_share">图文分享</string>
+    <string name="nearby_10_hour_ago">Less than 10 hour</string>
+    <string name="nearby_10_minute_ago">Less than 10 min</string>
+    <string name="nearby_11_hour_ago">Less than 11 hour</string>
+    <string name="nearby_12_hour_ago">Less than 12 hour</string>
+    <string name="nearby_13_hour_ago">Less than 13 hour</string>
+    <string name="nearby_14_hour_ago">Less than 14 hour</string>
+    <string name="nearby_15_hour_ago">Less than 15 hour</string>
+    <string name="nearby_16_hour_ago">Less than 16 hour</string>
+    <string name="nearby_17_hour_ago">Less than 17 hour</string>
+    <string name="nearby_18_hour_ago">Less than 18 hour</string>
+    <string name="nearby_19_hour_ago">Less than 19 hour</string>
+    <string name="nearby_1_day_ago">Less than 1 day</string>
+    <string name="nearby_1_hour_ago">Less than 1 hour</string>
+    <string name="nearby_1_month_ago">Less than 1 month</string>
+    <string name="nearby_1_week_ago">Less than 1 week</string>
+    <string name="nearby_20_hour_ago">Less than 20 hour</string>
+    <string name="nearby_21_hour_ago">Less than 21 hour</string>
+    <string name="nearby_22_hour_ago">Less than 22 hour</string>
+    <string name="nearby_23_hour_ago">Less than 23 hour</string>
+    <string name="nearby_2_day_ago">Less than 2 days</string>
+    <string name="nearby_2_hour_ago">Less than 2 hour</string>
+    <string name="nearby_2_week_ago">Less than 2 weeks</string>
+    <string name="nearby_30_minute_ago">Less than 30 min</string>
+    <string name="nearby_3_day_ago">Less than 3 days</string>
+    <string name="nearby_3_hour_ago">Less than 3 hour</string>
+    <string name="nearby_3_week_ago">Less than 3 weeks</string>
+    <string name="nearby_4_day_ago">Less than 4 days</string>
+    <string name="nearby_4_hour_ago">Less than 4 hour</string>
+    <string name="nearby_5_day_ago">Less than 5 days</string>
+    <string name="nearby_5_hour_ago">Less than 5 hour</string>
+    <string name="nearby_5_minute_ago">Less than 5 min</string>
+    <string name="nearby_6_day_ago">Less than 6 days</string>
+    <string name="nearby_6_hour_ago">Less than 6 hour</string>
+    <string name="nearby_7_hour_ago">Less than 7 hour</string>
+    <string name="nearby_8_hour_ago">Less than 8 hour</string>
+    <string name="nearby_9_hour_ago">Less than 9 hour</string>
+    <string name="nearby_empty">No nearby</string>
+    <string name="nearby_list_item_distance_desc">{0} | {1}</string>
+    <string name="nearby_title">Nearby</string>
+    <string name="nearby_too_long_ago">Never!</string>
+    <string name="nearby_unit_km">km</string>
+    <string name="nearby_unit_m">m</string>
+    <string name="neteasemicroblog">网易微博</string>
+    <string name="no_data">No data</string>
+    <string name="no_storage_card">No storage card</string>
+    <string name="not_enough_space">Not enough space</string>
+    <string name="pay_loading">loading...</string>
+    <string name="pinterest">Pinterest</string>
+    <string name="pinterest_client_inavailable">Pinterest版本过低或者没有安装，需要升级或安装Pinterest才能使用！</string>
+    <string name="place_autocomplete_clear_button">Clear search</string>
+    <string name="place_autocomplete_search_hint">Search</string>
+    <string name="pocket">Pocket</string>
+    <string name="portal_activity_more">More</string>
+    <string name="portal_main_battery_ble_timeout">Bluetooth scan timeout, please try again later.</string>
+    <string name="portal_main_battery_low"> Low Battery </string>
+    <string name="portal_main_battery_low_msg">Less than 10% of battery remaining.</string>
+    <string name="portal_main_be_bounded_hint">This wristband has been bound to the user {0}, bound failed. </string>
+    <string name="portal_main_bound_failed">Pairing timed out or canceled.  Please unplug charging cable and start over.</string>
+    <string name="portal_main_bound_failed_ble_dis">The bluetooth radio is not responding.  Please exit the Reflex App and go to your device Settings. Please turn off and on your bluetooth to reset the connection and try again.</string>
+    <string name="portal_main_bound_failed_nocharge">Please charging by connecting the cable to a USB power source</string>
+    <string name="portal_main_bound_success">Successfully Bounding</string>
+    <string name="portal_main_bound_title">Connecting….</string>
+    <string name="portal_main_bounding">Connection successful! Please unplug the USB Charging Cable.</string>
+    <string name="portal_main_bounding_wait">Connecting...Please wait thanks</string>
+    <string name="portal_main_data_calculating">Data calculating...</string>
+    <string name="portal_main_data_loading">Data loading...</string>
+    <string name="portal_main_date_format_error">Date format error.</string>
+    <string name="portal_main_debug_bound_success">Bounding information has been successfully written to the device.</string>
+    <string name="portal_main_debug_bound_to_server_failed">Bounding information has been successfully written to the device but fail to be stored to server.</string>
+    <string name="portal_main_debug_bound_to_server_failed_unknow">Bounding information has been successfully written to the device but unknown mistakes happen when synchronized to server.</string>
+    <string name="portal_main_debug_bound_to_server_success">Bounding information has been successfully written to the device and stored to server.</string>
+    <string name="portal_main_debug_save_sport_data_failed">Offline storage: 0 sport data was failed to save.</string>
+    <string name="portal_main_debug_save_sport_data_success">Offline storage: 0 sport data has been successfully saved.</string>
+    <string name="portal_main_debug_save_total_data_failed">Offline storage: 0 historical summary data, save failed.</string>
+    <string name="portal_main_debug_save_total_data_success">Offline storage: 0 historical summary data (including the day) has been successfully saved.</string>
+    <string name="portal_main_debug_state_connected">[ connected]</string>
+    <string name="portal_main_debug_state_connecting">[Connecting]</string>
+    <string name="portal_main_debug_state_unbound">[unbound]</string>
+    <string name="portal_main_debug_state_unconnect">[unconnected]</string>
+    <string name="portal_main_debug_sync_sport_data_success">Device Data:0 sport data has been removed.({0} count).</string>
+    <string name="portal_main_debug_sync_sport_data_to_server_end">Offline storage: 0 historical summary data (new equipment ?) no need to save.</string>
+    <string name="portal_main_debug_sync_sport_data_to_server_success">Automatic synchronization:0 sport data has been successfully synchronized to the server.</string>
+    <string name="portal_main_debug_sync_total_data_success">Device Data:  0 historical summary data has been successfully read.</string>
+    <string name="portal_main_debug_sync_total_data_to_server_end">Automatic synchronization:Summary data has been synchronized, no need to submit it to server again.</string>
+    <string name="portal_main_debug_sync_total_data_to_server_success">Automatic synchronization: 0 Summary data has been synchronized to server .</string>
+    <string name="portal_main_finish">Complete</string>
+    <string name="portal_main_goal">Goal {0} steps</string>
+    <string name="portal_main_has_bound">Your account has been bound to the other mobile phone devices, this binding can not continue, please try again after landing.</string>
+    <string name="portal_main_has_bound_drop">Device has been associated user ID ({0}) You can not bind the device again, please try again after the device unbundling.</string>
+    <string name="portal_main_has_bound_other">Your device has been bound account {0}, please try again again after notifying this account to unbound equipment.</string>
+    <string name="portal_main_history_data_saving">Historical summary data saving...</string>
+    <string name="portal_main_isbounding">Bounding...</string>
+    <string name="portal_main_local_sport_data_save_success">Offline storage: the day real-time aggregated data has been successfully saved.</string>
+    <string name="portal_main_server">Connect to the server.</string>
+    <string name="portal_main_sport_data_saving">Sport data saving...</string>
+    <string name="portal_main_state_connected">Connected</string>
+    <string name="portal_main_state_connecting">Connecting...</string>
+    <string name="portal_main_state_unbound">Disbounded</string>
+    <string name="portal_main_state_unconnect">Disconnected</string>
+    <string name="portal_main_timing">Calibrating world time standard...</string>
+    <string name="portal_main_timing_failed">Calibrating failed, please check your network.</string>
+    <string name="portal_main_today">Today</string>
+    <string name="portal_main_unbound">Unbound</string>
+    <string name="portal_main_unbound_msg">You have not bounded the device, please bound one first. </string>
+    <string name="portal_main_waiting_tomorrow"> Looking forward to future.</string>
+    <string name="power_setting">省电管理</string>
+    <string name="preparing_card">Preparing card</string>
+    <string name="pull_to_refresh">下拉刷新</string>
+    <string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_pull_label</string>
+    <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
+    <string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string>
+    <string name="pull_to_refresh_pull_label">Pull to refresh…</string>
+    <string name="pull_to_refresh_refreshing_label">Loading…</string>
+    <string name="pull_to_refresh_release_label">Release to refresh…</string>
+    <string name="qq">QQ</string>
+    <string name="qq_client_inavailable">QQ 版本过低或者没有安装，需要升级或安装QQ才能使用！</string>
+    <string name="qzone">QQ空间</string>
+    <string name="ranking_all">Full Ranking</string>
+    <string name="ranking_come_from">from</string>
+    <string name="ranking_ent">Company ranking</string>
+    <string name="ranking_item_desc"> He defeated {0}% people of the nationwide </string>
+    <string name="ranking_no_data">No data</string>
+    <string name="ranking_people_count">Current ranking participation number</string>
+    <string name="ranking_title">RANKING LIST</string>
+    <string name="ranking_wait_tomorrow">Looking forward to tomorrow.</string>
+    <string name="refreshing">刷新中…</string>
+    <string name="register_form_btn_submit">Register</string>
+    <string name="register_form_error_age">Failed in registeration, unknown error!</string>
+    <string name="register_form_error_height">Failed in registeration, unknown error!</string>
+    <string name="register_form_error_mail_exist">Failed in registeration,the Email has been registered!</string>
+    <string name="register_form_error_message">Failed in registeration, unknown error!</string>
+    <string name="register_form_error_weight">Failed in registeration, unknown error!</string>
+    <string name="register_form_mail_have_exist">Failed in registeration,the Email has been registered!</string>
+    <string name="register_form_mail_ok">Email is available</string>
+    <string name="register_form_next_step">Next（1/2）</string>
+    <string name="register_form_title">REGISTER</string>
+    <string name="register_form_valid_agree_role">Please read and accept the terms before registeration!</string>
+    <string name="register_form_valid_mail">Email is necessary!</string>
+    <string name="register_form_valid_nick_name">The nickname is necessary! </string>
+    <string name="register_form_valid_psw">The password is necessary!</string>
+    <string name="register_form_valid_psw_not_same">The two passwords are different!</string>
+    <string name="register_form_valid_psw_notenouph">Your password is too short! Use at least 6 characters.</string>
+    <string name="register_form_view_age">Age:</string>
+    <string name="register_form_view_agreelisence">Accept</string>
+    <string name="register_form_view_confirmpsw">Confirm Password *</string>
+    <string name="register_form_view_eMail">Email</string>
+    <string name="register_form_view_height">Height:</string>
+    <string name="register_form_view_look_caluse">Read terms >></string>
+    <string name="register_form_view_man">Male</string>
+    <string name="register_form_view_nickname">Nickname</string>
+    <string name="register_form_view_password">Password *</string>
+    <string name="register_form_view_weight">Weight:</string>
+    <string name="register_form_view_woman">Female</string>
+    <string name="register_success_experience">Come on in</string>
+    <string name="register_success_mail">Email:</string>
+    <string name="register_success_title">Succeeded!</string>
+    <string name="relationship">Friends</string>
+    <string name="relationship_attention">Follow</string>
+    <string name="relationship_attention_failed">Follow fail!</string>
+    <string name="relationship_attention_success">Follow complete!</string>
+    <string name="relationship_best_record">Best recording</string>
+    <string name="relationship_cancel_attention">Unfollow</string>
+    <string name="relationship_cancel_attention_failed">Cancel follow fail!</string>
+    <string name="relationship_cancel_attention_success">Unfollow complete!</string>
+    <string name="relationship_comment">Comment</string>
+    <string name="relationship_comment_empty">Comment can not be empty!</string>
+    <string name="relationship_comment_failed">Comment fail!</string>
+    <string name="relationship_comments">Comment</string>
+    <string name="relationship_concern_about">Following</string>
+    <string name="relationship_concern_me">Followers</string>
+    <string name="relationship_current_steps">Day recording</string>
+    <string name="relationship_hot_comments">Comments</string>
+    <string name="relationship_nearby">Nearby</string>
+    <string name="relationship_not_reply_self">Can not reply yourself!</string>
+    <string name="relationship_reply">Reply</string>
+    <string name="relationship_reply_empty">Replty can not be empty!</string>
+    <string name="relationship_reply_failed">Reply fail!</string>
+    <string name="relationship_search">Find</string>
+    <string name="relationship_search_already_group_message">You have been in \"{0}\" group.</string>
+    <string name="relationship_search_already_group_message_other">You have been in \"{0}\" group, please exit it to join other groups.</string>
+    <string name="relationship_search_condition_empty">Key word can not be empty!</string>
+    <string name="relationship_search_empty">No match info</string>
+    <string name="relationship_search_group">Find Group</string>
+    <string name="relationship_search_group_continue">Continue..</string>
+    <string name="relationship_search_group_errpasword">Please enter the correct password.</string>
+    <string name="relationship_search_group_features">Group Features</string>
+    <string name="relationship_search_group_inputpsd">Password Required</string>
+    <string name="relationship_search_group_msg">By joining this group, your nickname, email, gender, and daily step totals will be shared with the group admin.</string>
+    <string name="relationship_search_group_nopasword">Password is necessary.</string>
+    <string name="relationship_search_group_psderror">Password Error</string>
+    <string name="relationship_search_group_success">Success!</string>
+    <string name="relationship_search_group_success1">You can opt out / leave this group any time by going to Menu – More – Exit Group Name.</string>
+    <string name="relationship_search_group_success2">Check out the group leaderboard and messages from the group manager at Menu – More – About Group</string>
+    <string name="relationship_search_hint">Enter email or nickname</string>
+    <string name="relationship_search_hint_group">Enter group name</string>
+    <string name="relationship_search_join_failure">Join failed!</string>
+    <string name="relationship_search_join_group_message">Do you want to join \"{0}\" group ?</string>
+    <string name="relationship_search_join_succeed">Join succeeded!</string>
+    <string name="relationship_search_people_count">{0} people</string>
+    <string name="relationship_search_user">Find User</string>
+    <string name="relationship_user_info">Message to Friend</string>
+    <string name="release_to_refresh">松开刷新</string>
+    <string name="renren">人人网</string>
+    <string name="report_calories">Calorie</string>
+    <string name="report_data_reading">Week / Month report data reading...</string>
+    <string name="report_day_activte_lengend_ca_run">Run（cal）</string>
+    <string name="report_day_activte_lengend_ca_work">Walk（cal）</string>
+    <string name="report_day_activte_lengend_deepsleep"> Deep sleep（hour）</string>
+    <string name="report_day_activte_lengend_distance_run"> Run（miles）</string>
+    <string name="report_day_activte_lengend_distance_run_m"> Run（meters）</string>
+    <string name="report_day_activte_lengend_distance_work">Walk（miles）</string>
+    <string name="report_day_activte_lengend_distance_work_m">Walk（meters）</string>
+    <string name="report_day_activte_lengend_sleep"> Light sleep（hour）</string>
+    <string name="report_day_activte_lengend_step_run">Run（Steps）</string>
+    <string name="report_day_activte_lengend_step_work">Walk（Steps）</string>
+    <string name="report_distance"> Distance </string>
+    <string name="report_month_view">BY MONTH</string>
+    <string name="report_sleep">Sleep</string>
+    <string name="report_steps">Steps</string>
+    <string name="report_week_view">BY WEEK</string>
+    <string name="save">Save</string>
+    <string name="saving_image">Saving image</string>
+    <string name="select_a_friend">请选择一个朋友</string>
+    <string name="select_one_plat_at_least">请选择一个目标平台</string>
+    <string name="setting_success"> Successfully saved</string>
+    <string name="shake2share">摇晃手机！</string>
+    <string name="share">Share</string>
+    <string name="share_canceled">分享已取消</string>
+    <string name="share_completed">分享成功</string>
+    <string name="share_content">Love my Fit Included Bandit</string>
+    <string name="share_content_short">Share</string>
+    <string name="share_failed">分享失败</string>
+    <string name="share_to">分享到</string>
+    <string name="share_to_baidutieba">分享到百度贴吧</string>
+    <string name="share_to_mingdao">分享到明道</string>
+    <string name="share_to_qq">分享到QQ</string>
+    <string name="share_to_qzone">分享到QQ空间</string>
+    <string name="share_to_qzone_default">来自%s的分享</string>
+    <string name="sharing">分享操作正在后台进行…</string>
+    <string name="shortmessage">信息</string>
+    <string name="sinaweibo">新浪微博</string>
+    <string name="sohumicroblog">搜狐微博</string>
+    <string name="sohusuishenkan">搜狐随身看</string>
+    <string name="ssdk_alipay">支付宝好友</string>
+    <string name="ssdk_alipay_client_inavailable">目前您的支付宝版本过低或未安装，需要安装支付宝才能使用</string>
+    <string name="ssdk_alipaymoments">支付宝生活圈</string>
+    <string name="ssdk_bluetooth">蓝牙</string>
+    <string name="ssdk_dingding">钉钉</string>
+    <string name="ssdk_douban">豆瓣</string>
+    <string name="ssdk_dropbox">Dropbox</string>
+    <string name="ssdk_email">邮件</string>
+    <string name="ssdk_evernote">印象笔记</string>
+    <string name="ssdk_facebook">Facebook</string>
+    <string name="ssdk_facebookmessenger">Facebook Messenger</string>
+    <string name="ssdk_facebookmessenger_client_inavailable">目前您的FacebookMessenger版本过低或未安装，需要安装才能使用</string>
+    <string name="ssdk_flickr">Flickr</string>
+    <string name="ssdk_foursquare">FourSquare</string>
+    <string name="ssdk_gender_female">女</string>
+    <string name="ssdk_gender_male">男</string>
+    <string name="ssdk_google_plus_client_inavailable">Google+ 版本过低或者没有安装，需要升级或安装Google+才能使用！</string>
+    <string name="ssdk_googleplus">Google+</string>
+    <string name="ssdk_instagram">Instagram</string>
+    <string name="ssdk_instagram_client_inavailable">Instagram版本过低或者没有安装，需要升级或安装Instagram才能使用！</string>
+    <string name="ssdk_instapager_email_or_password_incorrect">Email或密码不正确</string>
+    <string name="ssdk_instapaper">Instapaper</string>
+    <string name="ssdk_instapaper_email">邮箱</string>
+    <string name="ssdk_instapaper_login">登录</string>
+    <string name="ssdk_instapaper_logining">登录中…</string>
+    <string name="ssdk_instapaper_pwd">密码</string>
+    <string name="ssdk_kaixin">开心网</string>
+    <string name="ssdk_kakaostory">KakaoStory</string>
+    <string name="ssdk_kakaostory_client_inavailable">目前您的KakaoStory版本过低或未安装，需要安装KakaoStory才能使用</string>
+    <string name="ssdk_kakaotalk">KakaoTalk</string>
+    <string name="ssdk_kakaotalk_client_inavailable">目前您的KakaoTalk版本过低或未安装，需要安装KakaoTalk才能使用</string>
+    <string name="ssdk_laiwang">来往</string>
+    <string name="ssdk_laiwang_client_inavailable">目前您的来往版本过低或未安装，需要安装来往才能使用</string>
+    <string name="ssdk_laiwangmoments">来往动态</string>
+    <string name="ssdk_line">Line</string>
+    <string name="ssdk_line_client_inavailable">目前您的Line版本过低或未安装，需要安装Line才能使用</string>
+    <string name="ssdk_linkedin">领英</string>
+    <string name="ssdk_meipai">美拍</string>
+    <string name="ssdk_mingdao">明道</string>
+    <string name="ssdk_mingdao_share_content">网页分享</string>
+    <string name="ssdk_neteasemicroblog">网易微博</string>
+    <string name="ssdk_oks_cancel">取消</string>
+    <string name="ssdk_oks_confirm">确定</string>
+    <string name="ssdk_oks_contacts">联系人</string>
+    <string name="ssdk_oks_multi_share">图文分享</string>
+    <string name="ssdk_oks_pull_to_refresh">下拉刷新</string>
+    <string name="ssdk_oks_refreshing">刷新中…</string>
+    <string name="ssdk_oks_release_to_refresh">松开刷新</string>
+    <string name="ssdk_oks_share">分享</string>
+    <string name="ssdk_oks_share_canceled">分享已取消</string>
+    <string name="ssdk_oks_share_completed">分享成功</string>
+    <string name="ssdk_oks_share_failed">分享失败</string>
+    <string name="ssdk_oks_sharing">分享操作正在后台进行…</string>
+    <string name="ssdk_pinterest">Pinterest</string>
+    <string name="ssdk_pinterest_client_inavailable">Pinterest版本过低或者没有安装，需要升级或安装Pinterest才能使用！</string>
+    <string name="ssdk_plurk">Plurk</string>
+    <string name="ssdk_pocket">Pocket</string>
+    <string name="ssdk_qq">QQ</string>
+    <string name="ssdk_qq_client_inavailable">QQ 版本过低或者没有安装，需要升级或安装QQ才能使用！</string>
+    <string name="ssdk_qzone">QQ空间</string>
+    <string name="ssdk_renren">人人网</string>
+    <string name="ssdk_share_to_facebook">分享到Facebook</string>
+    <string name="ssdk_share_to_googleplus">分享到Google+</string>
+    <string name="ssdk_share_to_mingdao">分享到明道</string>
+    <string name="ssdk_share_to_qq">分享到QQ</string>
+    <string name="ssdk_share_to_qzone">分享到QQ空间</string>
+    <string name="ssdk_share_to_qzone_default">来自%s的分享</string>
+    <string name="ssdk_share_to_youtube">分享到Youtube</string>
+    <string name="ssdk_shortmessage">信息</string>
+    <string name="ssdk_sinaweibo">新浪微博</string>
+    <string name="ssdk_sohumicroblog">搜狐微博</string>
+    <string name="ssdk_sohusuishenkan">搜狐随身看</string>
+    <string name="ssdk_symbol_ellipsis">...</string>
+    <string name="ssdk_tencentweibo">腾讯微博</string>
+    <string name="ssdk_tumblr">Tumblr</string>
+    <string name="ssdk_twitter">Twitter</string>
+    <string name="ssdk_use_login_button">请改用“登录”按钮</string>
+    <string name="ssdk_vkontakte">VK</string>
+    <string name="ssdk_website">http://www.mob.com</string>
+    <string name="ssdk_wechat">微信好友</string>
+    <string name="ssdk_wechat_client_inavailable">目前您的微信版本过低或未安装微信，需要安装微信才能使用</string>
+    <string name="ssdk_wechatfavorite">微信收藏</string>
+    <string name="ssdk_wechatmoments">微信朋友圈</string>
+    <string name="ssdk_weibo_oauth_regiseter">应用授权</string>
+    <string name="ssdk_weibo_upload_content">分享图片</string>
+    <string name="ssdk_whatsapp">WhatsApp</string>
+    <string name="ssdk_whatsapp_client_inavailable">目前您的WhatsApp版本过低或未安装，需要安装WhatsApp才能使用</string>
+    <string name="ssdk_yixin">易信</string>
+    <string name="ssdk_yixin_client_inavailable">目前您的易信版本过低或未安装，需要安装易信才能使用</string>
+    <string name="ssdk_yixinmoments">易信朋友圈</string>
+    <string name="ssdk_youdao">有道云笔记</string>
+    <string name="ssdk_youtube">Youtube</string>
+    <string name="store_picture_message">"Allow Ad to store image in Picture gallery?"</string>
+    <string name="store_picture_title">Save image</string>
+    <string name="tencentweibo">腾讯微博</string>
+    <string name="title_activity_comments">Comments</string>
+    <string name="title_activity_concern_about">ConcernAboutActivity</string>
+    <string name="title_activity_concern_me">ConcernMeActivity</string>
+    <string name="title_activity_custom">CustomActivity</string>
+    <string name="title_activity_date_picker">DatePickerActivity</string>
+    <string name="title_activity_device_info"> Device Info </string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="title_activity_nearby">Nearby</string>
+    <string name="title_activity_relationship_group">RelationshipGroupActivity</string>
+    <string name="title_activity_user_detial">UserDetialActivity</string>
+    <string name="title_activity_whats_up_detail">What\'s up</string>
+    <string name="title_activity_whats_up_history">What\'s up history</string>
+    <string name="title_devices">BLE Device Scan</string>
+    <string name="tumblr">Tumblr</string>
+    <string name="twitter">Twitter</string>
+    <string name="unbound_success"> Unbundling success</string>
+    <string name="unit_age">age</string>
+    <string name="unit_cal">Cal</string>
+    <string name="unit_cal_big">Cal</string>
+    <string name="unit_cm">Inches</string>
+    <string name="unit_cm_m">cm</string>
+    <string name="unit_day">Day</string>
+    <string name="unit_day4date">Day</string>
+    <string name="unit_hour">Hour</string>
+    <string name="unit_kg">Pounds</string>
+    <string name="unit_kg_m">kg</string>
+    <string name="unit_km">Km</string>
+    <string name="unit_km_en">Km</string>
+    <string name="unit_km_metric">Km</string>
+    <string name="unit_km_per_hour">mph</string>
+    <string name="unit_km_per_hour_metric">mph</string>
+    <string name="unit_m">Meters</string>
+    <string name="unit_m_s">m</string>
+    <string name="unit_mileage">Distance</string>
+    <string name="unit_miles">Miles</string>
+    <string name="unit_minute">Minute</string>
+    <string name="unit_month">Month</string>
+    <string name="unit_month4date">Month</string>
+    <string name="unit_second">Second</string>
+    <string name="unit_setting">Unit Settings</string>
+    <string name="unit_short_hour">H</string>
+    <string name="unit_step">Steps</string>
+    <string name="unit_week">Week</string>
+    <string name="unit_year">Year</string>
+    <string name="unit_year4date">Year</string>
+    <string name="unknown_characteristic">Unknown characteristic</string>
+    <string name="unknown_device">Unknown device</string>
+    <string name="unknown_service">Unknown service</string>
+    <string name="use_login_button">请改用“登录”按钮</string>
+    <string name="user_info_avatar_image_not_exists">Avatar not found!</string>
+    <string name="user_info_avatar_upload_faild1">Avatar update faild, please check your sdcard!</string>
+    <string name="user_info_avatar_upload_faild2">Sorry, your avatar update failed (image is so large)!</string>
+    <string name="user_info_avatar_upload_faild3">Sorry, your avatar update failed (OOM)!</string>
+    <string name="user_info_avatar_upload_faild4">Sorry, your avatar update failed!</string>
+    <string name="user_info_avatar_upload_sucess">Your avatar update sucess!</string>
+    <string name="user_info_avatar_uploading">Avatar uploading...</string>
+    <string name="user_info_body">Profile Info</string>
+    <string name="user_info_body_info_text">{0}”, {1}lbs, {2}, {3}</string>
+    <string name="user_info_body_info_text_m">{0}cm, {1}kg, {2}, {3}</string>
+    <string name="user_info_check_child">Home accounts</string>
+    <string name="user_info_child_account">please input child account nickname</string>
+    <string name="user_info_child_account_desc">Member</string>
+    <string name="user_info_child_add_title">Add account</string>
+    <string name="user_info_child_item_delete_msg">Are you sure to delete {0}?</string>
+    <string name="user_info_child_item_not_change">无法切换账号</string>
+    <string name="user_info_child_item_not_change_msg">当前正在使用中的账号无需切换。</string>
+    <string name="user_info_child_item_not_delete_msg">当前正在使用中的账号无法删除.</string>
+    <string name="user_info_child_switch">Switch account</string>
+    <string name="user_info_child_switch_message">Are you sure switch to {0}?</string>
+    <string name="user_info_child_title">Sub account list</string>
+    <string name="user_info_choose_photo">Choose Photo</string>
+    <string name="user_info_mail">Email</string>
+    <string name="user_info_main_account_desc">Headman</string>
+    <string name="user_info_nick_name">Nickname</string>
+    <string name="user_info_password">Password</string>
+    <string name="user_info_profile_photo">Profile Photo</string>
+    <string name="user_info_take_photo">Take Photo</string>
+    <string name="user_info_title">Profile</string>
+    <string name="user_info_update_body_title">Profile Info</string>
+    <string name="user_info_update_failure">Update failed.</string>
+    <string name="user_info_update_nick_name_title">Change Nickname</string>
+    <string name="user_info_update_nick_name_validate">Nickname is necessary.</string>
+    <string name="user_info_update_psw_title">Change Password</string>
+    <string name="user_info_update_success">Update successfully</string>
+    <string name="user_info_update_user_age">Age</string>
+    <string name="user_info_update_user_age_not_valid">Please enter a valid age.</string>
+    <string name="user_info_update_user_height">Height(cm)</string>
+    <string name="user_info_update_user_height_not_valid">Please enter a valid height.</string>
+    <string name="user_info_update_user_psw_length">less than 6 characters!</string>
+    <string name="user_info_update_user_psw_new_psw">New Password</string>
+    <string name="user_info_update_user_psw_new_psw_not_equal">Error Confirmation!</string>
+    <string name="user_info_update_user_psw_old_equal_new">The new password is the same as the old! </string>
+    <string name="user_info_update_user_psw_old_psw">Password</string>
+    <string name="user_info_update_user_psw_old_psw_false">Error Password!</string>
+    <string name="user_info_update_user_psw_repeat_new_psw">Confirm Password</string>
+    <string name="user_info_update_user_weight">Weight(kg)</string>
+    <string name="user_info_update_user_weight_not_valid">Please enter a valid weight.</string>
+    <string name="user_info_update_whats_up_count">Historical signatures{0}tips</string>
+    <string name="user_info_what_s_up">What\'s Up</string>
+    <string name="user_info_what_s_up_enter_hint">Say something...</string>
+    <string name="vkontakte">VK</string>
+    <string name="wallet_buy_button_place_holder">Buy with Google</string>
+    <string name="watch_setting">Setting</string>
+    <string name="website">http://www.mob.com</string>
+    <string name="wechat">微信好友</string>
+    <string name="wechat_client_inavailable">目前您的微信版本过低或未安装微信，需要安装微信才能使用</string>
+    <string name="wechatfavorite">微信收藏</string>
+    <string name="wechatmoments">微信朋友圈</string>
+    <string name="weibo_oauth_regiseter">应用授权</string>
+    <string name="weibo_upload_content">分享图片</string>
+    <string name="whats_up_detail_comments">Comment</string>
+    <string name="whats_up_detail_null_data">No comments</string>
+    <string name="whats_up_detail_reply">Reply</string>
+    <string name="whats_up_detail_title">What\'s up</string>
+    <string name="whats_up_history_add">Send</string>
+    <string name="whats_up_history_add_whats_up">Add what\'s up</string>
+    <string name="whats_up_history_comments">Comment</string>
+    <string name="whats_up_history_comments_empty">Comment should not empty!</string>
+    <string name="whats_up_history_date">yyyy-MM-dd</string>
+    <string name="whats_up_history_delete">Delete</string>
+    <string name="whats_up_history_delete_msg">Are sure delete?</string>
+    <string name="whats_up_history_edit">Edit</string>
+    <string name="whats_up_history_edit_whats_up">Edit  what\'s up</string>
+    <string name="whats_up_history_title">Status Messages</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="whatsapp_client_inavailable">目前您的WhatsApp版本过低或未安装，需要安装WhatsApp才能使用</string>
+    <string name="yixin">易信</string>
+    <string name="yixin_client_inavailable">目前您的易信版本过低或未安装，需要安装易信才能使用</string>
+    <string name="yixinmoments">易信朋友圈</string>
+    <string name="youdao">有道云笔记</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <item name="android:textColorPrimaryInverse">@android:color/primary_text_light</item>  
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="ChoiceItemPopWindow_bg_style">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_alignParentBottom">true</item>
+        <item name="android:layout_marginLeft">0dp</item>
+        <item name="android:layout_marginRight">0dp</item>
+        <item name="android:padding">15dp</item>
+        <item name="android:background">@drawable/dashed_bg</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+    <style name="ChoiceItemPopWindow_cancel_btn_style" parent="@style/text_darkShadow2">
+        <item name="android:layout_height">45dp</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_marginTop">20dip</item>
+        <item name="android:background">@drawable/btn_style_alert_dialog_cancel</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="ChoiceItemPopWindow_common_btn_style" parent="@style/text_witheShadow1">
+        <item name="android:layout_height">45dp</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:background">@drawable/btn_style_alert_dialog_button</item>
+        <item name="android:textColor">@color/gray_for_text</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="CropButton">
+		<item name="android:paddingTop">0dp</item>
+		<item name="android:paddingBottom">0dp</item>
+		<item name="android:layout_height">43dp</item>
+		<item name="android:layout_width">60dp</item>
+		<item name="android:textSize">20sp</item>
+		<item name="android:layout_weight">1</item>
+		<item name="android:textColor">#ff5b5b5b</item>
+		<item name="android:textStyle">bold</item>
+		<item name="android:background">@drawable/selector_crop_button</item>
+	</style>
+    <style name="CropButton_save" parent="CropButton">
+        <item name="android:background">@drawable/selector_crop_save_button</item>
+    </style>
+    <style name="Dialog_Fullscreen"> 
+      	<item name="android:windowFullscreen">true</item> 
+    </style>
+    <style name="MyDialog" parent="@android:Theme.Light.NoTitleBar">
+    </style>
+    <style name="NPWidget">
+        <item name="android:textAppearance">?android:attr/textAppearance</item>
+    </style>
+    <style name="NPWidget.Holo.Light.NumberPicker" parent="NPWidget.Holo.NumberPicker">
+        <item name="virtualButtonPressedDrawable">@drawable/item_background_holo_light</item>
+    </style>
+    <style name="NPWidget.Holo.NumberPicker" parent="NPWidget.NumberPicker">
+        <item name="solidColor">@android:color/transparent</item>
+        <item name="selectionDivider">@color/np_numberpicker_selection_divider</item>
+        <item name="selectionDividerHeight">2dip</item>
+        <item name="internalLayout">@layout/number_picker_with_selector_wheel</item>
+        <item name="internalMinWidth">64dip</item>
+        <item name="internalMaxHeight">180dip</item>
+        <item name="virtualButtonPressedDrawable">@drawable/item_background_holo_dark</item>
+    </style>
+    <style name="NPWidget.NumberPicker">
+        <item name="android:orientation">vertical</item>
+        <item name="android:fadingEdge">vertical</item>
+        <item name="android:fadingEdgeLength">50dip</item>
+    </style>
+    <style mce_bogus="1" name="PopupAnimation" parent="android:Animation">          
+        <item name="android:windowEnterAnimation">@anim/popup_enter</item>     
+        <item name="android:windowExitAnimation">@anim/popup_exit</item>     
+    </style>
+    <style name="SampleTheme" parent="@android:style/Theme">
+        <!--<item name="calendarViewStyle">@style/Widget.Holo.CalendarView</item>-->
+        <!--<item name="datePickerStyle">@style/Widget.Holo.DatePicker</item>-->
+        <!--<item name="numberPickerStyle">@style/NPWidget.Holo.NumberPicker</item>-->
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="SampleTheme.Light" parent="@android:style/Theme.Light">
+        <item name="calendarViewStyle">@style/Widget.Holo.Light.CalendarView</item>
+    </style>
+    <style name="TextAppearance.Holo.CalendarViewWeekDayView" parent="TextAppearance.Small.CalendarViewWeekDayView">
+        <item name="android:textColor">#505050</item>
+    </style>
+    <style name="TextAppearance.Holo.Light.CalendarViewWeekDayView" parent="TextAppearance.Small.CalendarViewWeekDayView">
+    </style>
+    <style name="TextAppearance.Small.CalendarViewWeekDayView" parent="@android:style/TextAppearance.Small">
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Theme.AppInvite.Preview" parent="Theme.AppInvite.Preview.Base">
+        <item name="android:colorBackground">@android:color/white</item>
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+    <style name="Theme.AppInvite.Preview.Base" parent="@android:style/Theme.Light.NoTitleBar"/>
+    <style name="Theme.Base" parent="android:Theme.Light"/>
+    <style name="Theme.Dialog.Alert" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!--item name="android:windowTitleStyle">@android:style/DialogWindowTitle</item-->
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowFrame">@null</item>
+    </style>
+    <style name="Theme.IAPTheme" parent="android:Theme">
+    <item name="android:windowIsTranslucent">true</item>
+    <item name="android:windowBackground">@android:color/transparent</item>
+    <item name="android:windowContentOverlay">@null</item>
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:windowIsFloating">true</item>
+    <item name="android:backgroundDimEnabled">false</item>
+  </style>
+    <style name="Theme.Sample" parent="Theme.Base"/>
+    <style name="WalletFragmentDefaultButtonTextAppearance">
+        <item name="android:textColor">@color/wallet_primary_text_holo_light</item>
+        <item name="android:textColorHighlight">@color/wallet_highlighted_text_holo_light</item>
+        <item name="android:textColorHint">@color/wallet_hint_foreground_holo_light</item>
+        <item name="android:textColorLink">@color/wallet_link_text_light</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="WalletFragmentDefaultDetailsHeaderTextAppearance" parent="WalletFragmentDefaultDetailsTextAppearance">
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="WalletFragmentDefaultDetailsTextAppearance">
+        <item name="android:textColor">@color/wallet_secondary_text_holo_dark</item>
+        <item name="android:textColorHighlight">@color/wallet_highlighted_text_holo_dark</item>
+        <item name="android:textColorHint">@color/wallet_hint_foreground_holo_dark</item>
+        <item name="android:textColorLink">@color/wallet_holo_blue_light</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="WalletFragmentDefaultStyle">
+        <item name="buyButtonHeight">48dp</item>
+        <item name="buyButtonWidth">match_parent</item>
+        <item name="buyButtonText">buy_with</item>
+        <item name="buyButtonAppearance">android_pay_dark</item>
+        <item name="maskedWalletDetailsTextAppearance">@style/WalletFragmentDefaultDetailsTextAppearance</item>
+        <item name="maskedWalletDetailsHeaderTextAppearance">@style/WalletFragmentDefaultDetailsHeaderTextAppearance</item>
+        <item name="maskedWalletDetailsBackground">@color/wallet_bright_foreground_holo_light</item>
+        <item name="maskedWalletDetailsButtonBackground">@android:drawable/btn_default</item>
+        <item name="maskedWalletDetailsButtonTextAppearance">@style/WalletFragmentDefaultButtonTextAppearance</item>
+        <item name="maskedWalletDetailsLogoTextColor">@color/wallet_bright_foreground_holo_dark</item>
+        <item name="maskedWalletDetailsLogoImageType">android_pay</item>
+    </style>
+    <style name="Widget"/>
+    <style name="Widget.CalendarView">
+        <item name="cv_showWeekNumber">true</item>
+        <item name="cv_firstDayOfWeek">1</item>
+        <item name="cv_minDate">01/01/1900</item>
+        <item name="cv_maxDate">12/31/2100</item>
+        <item name="cv_shownWeekCount">6</item>
+        <item name="cv_selectedWeekBackgroundColor">#330099FF</item>
+        <item name="cv_focusedMonthDateColor">#FFFFFFFF</item>
+        <item name="cv_unfocusedMonthDateColor">#66FFFFFF</item>
+        <item name="cv_weekNumberColor">#33FFFFFF</item>
+        <item name="cv_weekSeparatorLineColor">#19FFFFFF</item>
+        <item name="cv_selectedDateVerticalBar">@drawable/day_picker_week_view_dayline_holo</item>
+        <item name="cv_weekDayTextAppearance">@style/TextAppearance.Small.CalendarViewWeekDayView</item>
+        <item name="cv_dateTextAppearance">?android:attr/textAppearanceSmall</item>
+    </style>
+    <style name="Widget.DatePicker">
+        <!--item name="android:layout">@android:layout/date_picker</item-->
+        <item name="dp_calendarViewShown">false</item>
+        <item name="calendarViewStyle">@style/Widget.Holo.CalendarView  </item>
+        <item name="datePickerStyle">  @style/Widget.Holo.DatePicker    </item>
+        <item name="numberPickerStyle">@style/NPWidget.Holo.NumberPicker</item>
+    </style>
+    <style name="Widget.Holo.CalendarView" parent="Widget.CalendarView">
+        <item name="cv_selectedWeekBackgroundColor">#330099FF</item>
+        <item name="cv_focusedMonthDateColor">#FFFFFFFF</item>
+        <item name="cv_unfocusedMonthDateColor">#66FFFFFF</item>
+        <item name="cv_weekNumberColor">#33FFFFFF</item>
+        <item name="cv_weekSeparatorLineColor">#19FFFFFF</item>
+        <item name="cv_selectedDateVerticalBar">@drawable/day_picker_week_view_dayline_holo</item>
+        <item name="cv_weekDayTextAppearance">@style/TextAppearance.Holo.CalendarViewWeekDayView</item>
+        <item name="cv_dividerHorizontal">@drawable/list_divider_holo_dark</item>
+    </style>
+    <style name="Widget.Holo.DatePicker" parent="Widget.DatePicker">
+        <item name="dp_internalLayout">@layout/date_picker_holo</item>
+        <item name="dp_calendarViewShown">true</item>
+    </style>
+    <style name="Widget.Holo.Light.CalendarView" parent="Widget.CalendarView">
+        <item name="cv_selectedWeekBackgroundColor">#330066ff</item>
+        <item name="cv_focusedMonthDateColor">#FF000000</item>
+        <item name="cv_unfocusedMonthDateColor">#7F08002B</item>
+        <item name="cv_weekNumberColor">#7F080021</item>
+        <item name="cv_weekSeparatorLineColor">#7F08002A</item>
+        <item name="cv_weekDayTextAppearance">@style/TextAppearance.Holo.Light.CalendarViewWeekDayView</item>
+        <item name="cv_dividerHorizontal">@drawable/list_divider_holo_light</item>
+    </style>
+    <style name="Widget.Holo.Light.DatePicker" parent="Widget.Holo.DatePicker">
+    </style>
+    <style name="Widget.SampleMessage">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:lineSpacingMultiplier">1.1</item>
+    </style>
+    <style name="Widget.SampleMessageTile">
+        <item name="android:background">@drawable/tile</item>
+        <item name="android:shadowColor">#7F000000</item>
+        <item name="android:shadowDy">-3.5</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+    <style name="check_box_big_style">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:button">@drawable/common_check_box_big_bg</item>
+        <item name="android:paddingLeft">5dp</item>
+    </style>
+    <style name="check_box_style">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:button">@drawable/common_check_box_bg</item>
+        <item name="android:textColor">@color/brown_for_text</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+    <style name="common_image_view_rotateNiButton">
+        <item name="android:background">@drawable/common_image_view_rotate_ni_btn</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="common_image_view_rotateShunButton">
+        <item name="android:background">@drawable/common_image_view_rotate_shun_btn</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="edit_text_style">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">220dp</item>
+        <item name="android:background">@drawable/common_edit_txt_bg</item>
+        <item name="android:paddingLeft">5dp</item>
+        <item name="android:paddingRight">5dp</item>
+    </style>
+    <style name="forgot_edit_text_style">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">220dp</item>
+        <item name="android:background">@drawable/common_edit_txt_bg</item>
+        <item name="android:paddingLeft">15dp</item>
+        <item name="android:paddingRight">15dp</item>
+    </style>
+    <style name="layout_main_style1">
+		<item name="android:background">#f7f7f7</item>
+	</style>
+    <style name="listview_style1">
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:cacheColorHint">@android:color/transparent</item>
+        <item name="android:fadingEdgeLength">0.0dip</item>
+        <item name="android:dividerHeight">1dp</item>
+        <item name="android:divider">@drawable/main_alarms_list_line</item>
+        <item name="android:layout_marginLeft">3dp</item>
+        <item name="android:layout_marginRight">3dp</item>
+        <item name="android:layout_marginBottom">2dp</item>
+        <item name="android:layout_marginTop">2dp</item>
+        <!--
+			本listView样式的选中样式是在item里设置背景实现的，效果都差不多，这么用也没有关系.
+			@android:drawable本示用的android系统自带的资源哦. <item
+			name="android:listSelector">@android:drawable/list_selector_background</item>
+
+        -->
+    </style>
+    <style name="login_btn_style" parent="@style/text_darkShadow8">
+         <item name="android:layout_height">48dp</item>
+        <item name="android:layout_width">130dp</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">@drawable/common_btn_login</item>
+    </style>
+    <style name="login_edit_text_style">
+        <item name="android:layout_height">51.5dp</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:background">@drawable/common_edit_txt_bg</item>
+        <item name="android:paddingLeft">15dp</item>
+        <item name="android:drawablePadding">15dp</item>
+    </style>
+    <style name="m00_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="m00_dialog_btn_blue" parent="@style/m00_txt_font_shadow_color_black_style">
+        <item name="android:textSize">@dimen/m00_font_size_26pt</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:layout_height">45dp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">@drawable/common_red_btn_bg</item>
+    </style>
+    <style name="m00_dialog_btn_gray" parent="@style/m00_txt_font_shadow_color_black_style">
+        <item name="android:textSize">@dimen/m00_font_size_26pt</item>
+        <item name="android:textStyle">normal</item>
+         <item name="android:textColor">@color/white</item>
+        <item name="android:background">@drawable/common_gray_bth_bg</item>
+    </style>
+    <style name="m00_dialog_text_msg">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/gray_dark_for_text</item>
+    </style>
+    <style name="m00_dialog_text_title">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+    </style>
+    <style name="m00_txt_font_shadow_color_black_style">
+        <item name="android:shadowColor">#880e0f0f</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">0.5</item>
+    </style>
+    <style name="m00_txt_font_shadow_color_blue_style">
+        <item name="android:shadowColor">@color/m00_text_blue_065590_color</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">0.5</item>
+    </style>
+    <style name="main_about_text_shadow">
+        <item name="android:shadowColor">@color/black</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">0.5</item>
+    </style>
+    <style name="queryButtonStyle">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/button_selector_query</item>
+        <item name="android:paddingBottom">0dip</item>
+        <item name="android:paddingTop">0dip</item>
+        <item name="android:textColor">@drawable/button_text_selector</item>
+        <item name="android:textSize">10sp</item>
+    </style>
+    <style name="radio_btn_style">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:button">@drawable/common_raido_button_bg</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:paddingLeft">5dp</item>
+    </style>
+    <style name="settings_item_bg_group_bottom">
+        <item name="android:layout_height">45dp</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:background">@null</item>
+        <!-- <item name="android:background">@drawable/common_settings_item_bg_group_bottom</item> -->
+        <item name="android:drawablePadding">10.0dip</item>
+        <item name="android:paddingLeft">17dp</item>
+        <item name="android:paddingRight">17dp</item>
+        <item name="android:gravity">left|center</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:drawableRight">@null</item>
+    </style>
+    <style name="settings_item_bg_group_full">
+        <item name="android:layout_height">45dp</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:background">@drawable/common_settings_item_bg_group_full</item>
+        <item name="android:drawablePadding">10.0dip</item>
+        <item name="android:paddingLeft">17dp</item>
+        <item name="android:paddingRight">17dp</item>
+        <item name="android:gravity">left|center</item>
+        <item name="android:textColor">@color/gray_dark_for_text</item>
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:drawableRight">@null</item>
+    </style>
+    <style name="settings_item_bg_group_image_view_separator">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_marginLeft">3dp</item>
+        <item name="android:layout_marginRight">3dp</item>
+        <item name="android:src">@drawable/main_more_dashed_line</item>
+    </style>
+    <style name="settings_item_bg_group_middle">
+        <item name="android:layout_height">45dp</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:background">@null</item>
+        <!-- <item name="android:background">@drawable/common_settings_item_bg_group_middle</item> -->
+        <item name="android:drawablePadding">10.0dip</item>
+        <item name="android:paddingRight">17dp</item>
+        <item name="android:paddingLeft">17dp</item>
+        <item name="android:gravity">left|center</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:drawableRight">@null</item>
+    </style>
+    <style name="settings_item_bg_group_top">
+        <item name="android:layout_height">45dp</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:background">@null</item>
+        <!-- <item name="android:background">@drawable/common_settings_item_bg_group_top</item> -->
+        <item name="android:drawablePadding">10.0dip</item>
+        <item name="android:paddingRight">17dp</item>
+        <item name="android:paddingLeft">17dp</item>
+        <item name="android:gravity">left|center</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:drawableRight">@null</item>
+    </style>
+    <style name="settings_item_textView">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_marginRight">20.0dip</item>
+        <item name="android:layout_gravity">right|center</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">12.0sp</item>
+    </style>
+    <style name="text_blackShadow1">
+        <item name="android:shadowColor">#ff000000</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">1.0</item>
+    </style>
+    <style name="text_darkShadow1">
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">1</item>
+        <item name="android:shadowColor">#880e0f0f</item>
+    </style>
+    <style name="text_darkShadow2">
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">1</item>
+        <item name="android:shadowColor">#dd0e0f0f</item>
+    </style>
+    <style name="text_darkShadow7">
+		<item name="android:shadowDx">1</item>
+		<item name="android:shadowDy">1</item>
+		<item name="android:shadowRadius">1</item>
+		<item name="android:shadowColor">#dd0e0f0f</item>
+	</style>
+    <style name="text_darkShadow8">
+		<item name="android:shadowDx">1</item>
+		<item name="android:shadowDy">1</item>
+		<item name="android:shadowRadius">1</item>
+		<item name="android:shadowColor">#330e0f0f</item>
+	</style>
+    <style name="text_witheShadow1">
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">0.5</item>
+        <item name="android:shadowColor">#ffffffff</item>
+    </style>
+    <style name="text_witheShadow2">
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">0.5</item>
+        <item name="android:shadowColor">#ffffffff</item>
+    </style>
+    <style name="text_witheShadow3">
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">0.5</item>
+        <item name="android:shadowColor">#77ffffff</item>
+    </style>
+    <style name="widget_loading_dialog" parent="android:style/Theme.Dialog">
+		<item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item> 
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+	</style>
+    <style name="widget_title_bar_backBtn_style">
+        <item name="android:textColor">#666666</item>
+        <item name="android:background">@drawable/widget_title_btn_back_normal</item>
+       <item name="android:layout_width">60dp</item>
+        <item name="android:layout_height">33dp</item>
+    </style>
+    <style name="widget_title_bar_generalBtn_style">
+        <item name="android:textColor">@color/gray_dark_for_text</item>
+        <item name="android:background">@drawable/common_title_btn_general</item>
+        <item name="android:layout_width">60dp</item>
+        <item name="android:layout_height">33dp</item>
+        <item name="android:padding">0dp</item>
+    </style>
+    <style name="widget_title_bar_style">
+        <item name="android:background">@drawable/widget_title_bar_bg</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">50dp</item>
+    </style>
+    <style name="widget_title_bar_titleView_style" parent="text_darkShadow1">
+        <item name="android:textColor">@color/common_title_bar</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:ellipsize">middle</item>
+        <item name="android:maxWidth">160.0dip</item>
+        <item name="android:singleLine">true</item>
+    </style>
+</resources>

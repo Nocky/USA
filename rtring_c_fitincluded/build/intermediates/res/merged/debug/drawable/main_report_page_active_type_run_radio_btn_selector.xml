@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:state_checked="true" android:drawable="@drawable/main_report_page_active_type_work_radio_btn_rover"></item>
+    <item android:state_checked="false" android:drawable="@drawable/main_report_page_active_type_run_radio_btn_normal" />
+</selector>

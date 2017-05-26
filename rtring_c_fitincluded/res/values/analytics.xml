@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- for Google Analytics SDK for Android v3 (Beta) -->
+<!-- https://developers.google.com/analytics/devguides/collection/android/v3/ -->
+<!-- https://developers.google.com/analytics/devguides/collection/android/parameters -->
+<resources>
+  <!--Replace placeholder ID with your tracking ID-->
+  <string name="ga_trackingId">UA-45864980-4</string>
+
+  <!--Enable automatic activity tracking-->
+  <bool name="ga_autoActivityTracking">true</bool>
+
+  <!--Enable automatic exception tracking-->
+  <bool name="ga_reportUncaughtExceptions">true</bool>
+  
+  <!-- 
+  	這裡預設為10秒,也就是說每次trackEvent, trackException一次
+  	都會在10秒以後送出（當然你可以手動進行dipatch)
+   -->
+  <integer name="ga_dispatchPeriod">10</integer>
+</resources>

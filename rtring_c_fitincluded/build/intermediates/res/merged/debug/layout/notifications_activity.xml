@@ -1,0 +1,226 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/notification_activity"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/main_bg"
+    android:orientation="vertical" >
+
+    <com.eva.android.widget.CustomeTitleBar
+        android:id="@+id/notification_titleBar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+    </com.eva.android.widget.CustomeTitleBar>
+
+    <FrameLayout
+        android:id="@+id/notification_phone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/longsit_activity_switch_bg_img"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="15dp" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|left"
+            android:drawableLeft="@drawable/call_icon"
+            android:drawablePadding="10dp"
+            android:gravity="center"
+            android:text="来电提醒"
+            android:textColor="@color/gray_dark_for_text"
+            android:textSize="18sp" />
+
+        <CheckBox
+            android:id="@+id/call_switch_checkbox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right|center_vertical"
+            android:background="@drawable/longsit_check_box_selector"
+            android:button="@null"
+            android:gravity="center" />
+    </FrameLayout>
+
+    <LinearLayout
+        android:id="@+id/longsit_time_ll"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+    </LinearLayout>
+    
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/longsit_activity_switch_bg_img"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="15dp" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|left"
+            android:drawableLeft="@drawable/msg_icon"
+            android:drawablePadding="10dp"
+            android:gravity="center"
+            android:text="短信提醒"
+            android:textColor="@color/gray_dark_for_text"
+            android:textSize="18sp" />
+
+        <CheckBox
+            android:id="@+id/msg_switch_checkbox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right|center_vertical"
+            android:background="@drawable/longsit_check_box_selector"
+            android:button="@null"
+            android:gravity="center" />
+    </FrameLayout>
+     <LinearLayout
+        android:id="@+id/longsit_time_ll1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+    </LinearLayout>
+    
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/longsit_activity_switch_bg_img"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="15dp" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|left"
+            android:drawableLeft="@drawable/qq_icon"
+            android:drawablePadding="10dp"
+            android:gravity="center"
+            android:text="QQ提醒"
+            android:textColor="@color/gray_dark_for_text"
+            android:textSize="18sp" />
+
+        <CheckBox
+            android:id="@+id/QQ_switch_checkbox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right|center_vertical"
+            android:background="@drawable/longsit_check_box_selector"
+            android:button="@null"
+            android:gravity="center" />
+    </FrameLayout>
+    
+     <LinearLayout
+        android:id="@+id/longsit_time_ll2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+    </LinearLayout>
+    
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/longsit_activity_switch_bg_img"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="15dp" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|left"
+            android:drawableLeft="@drawable/weixin_icon"
+            android:drawablePadding="10dp"
+            android:gravity="center"
+            android:text="微信提醒"
+            android:textColor="@color/gray_dark_for_text"
+            android:textSize="18sp" />
+
+        <CheckBox
+            android:id="@+id/weixin_switch_checkbox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right|center_vertical"
+            android:background="@drawable/longsit_check_box_selector"
+            android:button="@null"
+            android:gravity="center" />
+    </FrameLayout>
+    
+    <LinearLayout
+        android:id="@+id/longsit_time_ll3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+    </LinearLayout>
+    
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/longsit_activity_switch_bg_img"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="15dp" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|left"
+            android:drawableLeft="@drawable/linkloving_icon"
+            android:drawablePadding="10dp"
+            android:gravity="center"
+            android:text="连爱"
+            android:textColor="@color/gray_dark_for_text"
+            android:textSize="18sp" />
+
+        <CheckBox
+            android:id="@+id/linkloving_switch_checkbox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right|center_vertical"
+            android:background="@drawable/longsit_check_box_selector"
+            android:button="@null"
+            android:gravity="center" />
+    </FrameLayout>
+    
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/longsit_activity_switch_bg_img"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="15dp" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|left"
+            android:drawablePadding="10dp"
+            android:gravity="center"
+            android:text="注意:勿扰时间段下,消息提醒将不会推送"
+            android:textColor="@color/gray_dark_for_text"
+            android:textSize="18sp" />
+
+    </FrameLayout>
+    
+
+</LinearLayout>

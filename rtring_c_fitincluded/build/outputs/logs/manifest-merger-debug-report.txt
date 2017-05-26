@@ -1,0 +1,813 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:2:1-540:12
+	package
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:4:5-44
+	android:versionName
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:6:5-39
+		INJECTED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml
+		INJECTED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml
+	xmlns:tools
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:3:5-51
+	android:versionCode
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:5:5-29
+		INJECTED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml
+		INJECTED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:8:5-10:41
+MERGED from [rt_c_watch_work_new:PullToRefreshLibrary:unspecified] F:\DanielEclipse\rt_c_watch_work_new\PullToRefreshLibrary\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [rt_c_watch_work_new:SlidingMenuLibrary:unspecified] F:\DanielEclipse\rt_c_watch_work_new\SlidingMenuLibrary\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [rt_c_watch_work_new:RTChart_fit:unspecified] F:\DanielEclipse\rt_c_watch_work_new\RTChart_fit\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [rt_c_watch_work_new:OneKeyShare-fitincluded:unspecified] F:\DanielEclipse\rt_c_watch_work_new\OneKeyShare-fitincluded\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [rt_c_watch_work_new:Linkloving_BLE4.0_lib:unspecified] F:\DanielEclipse\rt_c_watch_work_new\Linkloving_BLE4.0_lib\build\intermediates\bundles\default\AndroidManifest.xml:22:5-24:41
+MERGED from [rt_c_watch_work_new:google-play-services_lib:unspecified] F:\DanielEclipse\rt_c_watch_work_new\google-play-services_lib\build\intermediates\bundles\default\AndroidManifest.xml:20:5-22:41
+MERGED from [rt_c_watch_work_new:datapicker_library_fit:unspecified] F:\DanielEclipse\rt_c_watch_work_new\datapicker_library_fit\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\leo.wang\.android\build-cache\25d43557ebbd686b520da298dad4af35f86d8e84\output\AndroidManifest.xml:18:5-42
+	android:targetSdkVersion
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:10:9-38
+		INJECTED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml
+		INJECTED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:9:9-35
+		INJECTED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml
+		INJECTED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml
+uses-permission#android.permission.GET_TASKS
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:12:22-65
+uses-permission#android.permission.READ_CONTACTS
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:13:5-71
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:13:22-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:17:5-84
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:17:22-81
+uses-permission#android.permission.INTERNET
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:18:5-67
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:18:22-64
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:19:5-74
+MERGED from [rt_c_watch_work_new:Linkloving_BLE4.0_lib:unspecified] F:\DanielEclipse\rt_c_watch_work_new\Linkloving_BLE4.0_lib\build\intermediates\bundles\default\AndroidManifest.xml:36:5-74
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:19:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:20:5-68
+MERGED from [rt_c_watch_work_new:Linkloving_BLE4.0_lib:unspecified] F:\DanielEclipse\rt_c_watch_work_new\Linkloving_BLE4.0_lib\build\intermediates\bundles\default\AndroidManifest.xml:35:5-68
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:20:22-65
+uses-permission#android.permission.CAMERA
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:21:22-62
+uses-permission#android.permission.VIBRATE
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:22:5-66
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:22:22-63
+uses-permission#android.permission.RESTART_PACKAGES
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:23:5-75
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:23:22-72
+uses-permission#com.sonyericsson.permission.CAMERA_EXTENDED
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:25:5-83
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:25:22-80
+uses-permission#android.permission.WAKE_LOCK
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:26:5-68
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:26:22-65
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:27:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:29:5-79
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:29:22-76
+uses-permission#android.permission.READ_LOGS
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:30:5-68
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:30:22-65
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:31:5-73
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:31:22-70
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:32:5-75
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:32:22-72
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:33:5-81
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:33:22-78
+uses-permission#android.permission.Android.permission.RECEIVE_SMS
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:34:5-89
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:34:22-86
+uses-permission#android.permission.READ_SMS
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:35:5-67
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:35:22-64
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:38:5-71
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:38:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:39:5-74
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:39:22-71
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:40:5-74
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:40:22-71
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:41:5-80
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:41:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:42:5-79
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:42:22-76
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:43:5-85
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:43:22-82
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:44:5-76
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:44:22-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:45:5-76
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:45:22-73
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:48:5-75
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:48:22-72
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:55:5-89
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:55:22-86
+uses-feature#0x00020000
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:70:5-72:35
+	android:glEsVersion
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:71:9-41
+	android:required
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:72:9-32
+uses-feature#android.hardware.camera
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:74:5-76:36
+	android:required
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:76:9-33
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:75:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:78:5-80:36
+	android:required
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:80:9-33
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:79:9-57
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:82:5-80
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:82:22-77
+application
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:86:5-538:19
+MERGED from [rt_c_watch_work_new:PullToRefreshLibrary:unspecified] F:\DanielEclipse\rt_c_watch_work_new\PullToRefreshLibrary\build\intermediates\bundles\default\AndroidManifest.xml:11:5-20
+MERGED from [rt_c_watch_work_new:RTChart_fit:unspecified] F:\DanielEclipse\rt_c_watch_work_new\RTChart_fit\build\intermediates\bundles\default\AndroidManifest.xml:11:5-14:19
+MERGED from [rt_c_watch_work_new:OneKeyShare-fitincluded:unspecified] F:\DanielEclipse\rt_c_watch_work_new\OneKeyShare-fitincluded\build\intermediates\bundles\default\AndroidManifest.xml:18:5-19:19
+MERGED from [rt_c_watch_work_new:Linkloving_BLE4.0_lib:unspecified] F:\DanielEclipse\rt_c_watch_work_new\Linkloving_BLE4.0_lib\build\intermediates\bundles\default\AndroidManifest.xml:38:5-85:19
+MERGED from [rt_c_watch_work_new:google-play-services_lib:unspecified] F:\DanielEclipse\rt_c_watch_work_new\google-play-services_lib\build\intermediates\bundles\default\AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:92:9-41
+		REJECTED from [rt_c_watch_work_new:Linkloving_BLE4.0_lib:unspecified] F:\DanielEclipse\rt_c_watch_work_new\Linkloving_BLE4.0_lib\build\intermediates\bundles\default\AndroidManifest.xml:41:9-41
+	android:allowBackup
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:89:9-35
+	android:icon
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:91:9-44
+		REJECTED from [rt_c_watch_work_new:Linkloving_BLE4.0_lib:unspecified] F:\DanielEclipse\rt_c_watch_work_new\Linkloving_BLE4.0_lib\build\intermediates\bundles\default\AndroidManifest.xml:40:9-45
+	android:largeHeap
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:90:9-33
+	android:theme
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:93:9-40
+		REJECTED from [rt_c_watch_work_new:Linkloving_BLE4.0_lib:unspecified] F:\DanielEclipse\rt_c_watch_work_new\Linkloving_BLE4.0_lib\build\intermediates\bundles\default\AndroidManifest.xml:42:9-56
+	tools:replace
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:87:9-78
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:88:9-38
+		REJECTED from [rt_c_watch_work_new:Linkloving_BLE4.0_lib:unspecified] F:\DanielEclipse\rt_c_watch_work_new\Linkloving_BLE4.0_lib\build\intermediates\bundles\default\AndroidManifest.xml:39:9-74
+meta-data#com.google.android.gms.version
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:95:9-97:69
+MERGED from [rt_c_watch_work_new:google-play-services_lib:unspecified] F:\DanielEclipse\rt_c_watch_work_new\google-play-services_lib\build\intermediates\bundles\default\AndroidManifest.xml:25:9-27:69
+	android:value
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:97:13-66
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:96:13-58
+service#com.baidu.location.f
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:103:9-111:19
+	android:enabled
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:105:13-35
+	android:process
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:106:13-38
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:104:13-48
+intent-filter#com.baidu.location.service_v2.2
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:107:13-110:29
+action#com.baidu.location.service_v2.2
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:108:17-109:26
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:108:25-71
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:119:9-121:56
+	android:value
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:121:13-53
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:120:13-52
+activity#com.mob.tools.MobUIShell
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:132:9-159:20
+	android:windowSoftInputMode
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:136:13-67
+	android:configChanges
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:135:13-74
+	android:theme
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:134:13-72
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:133:13-52
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:138:13-143:29
+data
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:139:17-59
+	android:scheme
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:139:23-56
+action#android.intent.action.VIEW
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:140:17-69
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:140:25-66
+category#android.intent.category.BROWSABLE
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:141:17-78
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:141:27-75
+category#android.intent.category.DEFAULT
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:142:17-76
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:142:27-73
+intent-filter#android.intent.category.DEFAULT+com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:146:13-149:29
+action#com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:147:17-92
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:147:25-89
+activity#com.linkloving.rtring_c_watch.logic.launch.AppStart
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:161:9-173:20
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:166:13-49
+	android:label
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:165:13-45
+	android:configChanges
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:163:13-83
+	android:icon
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:164:13-48
+	android:theme
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:167:13-44
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:162:13-50
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:168:13-172:29
+action#android.intent.action.MAIN
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:169:17-69
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:169:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:171:17-77
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:171:27-74
+activity#com.linkloving.rtring_c_watch.logic.launch.LoginActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:174:9-180:20
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:177:13-49
+	android:windowSoftInputMode
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:179:13-72
+	android:configChanges
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:176:13-83
+	android:theme
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:178:13-44
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:175:13-55
+activity#com.tencent.connect.common.AssistActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:181:9-184:75
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:183:13-49
+	android:theme
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:184:13-72
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:182:13-69
+activity#com.tencent.tauth.AuthActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:185:9-198:20
+	android:launchMode
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:187:13-44
+	android:noHistory
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:188:13-37
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:186:13-58
+activity#com.linkloving.rtring_c_watch.logic.main.QRScanActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:199:9-205:20
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:202:13-50
+	android:windowSoftInputMode
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:204:13-60
+	android:configChanges
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:201:13-83
+	android:theme
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:203:13-71
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:200:13-54
+activity#com.linkloving.rtring_c_watch.logic.launch.RegisterActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:206:9-210:20
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:208:13-49
+	android:windowSoftInputMode
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:209:13-72
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:207:13-58
+activity#com.linkloving.rtring_c_watch.logic.launch.ForgetPassWordActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:211:9-214:20
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:213:13-49
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:212:13-64
+activity#com.linkloving.rtring_c_watch.logic.setup.BodyActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:215:9-218:20
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:217:13-49
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:216:13-53
+activity#com.linkloving.rtring_c_watch.logic.launch.RegisterSuccessActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:219:9-224:20
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:221:13-49
+	android:windowSoftInputMode
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:223:13-72
+	android:theme
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:222:13-66
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:220:13-65
+activity#com.linkloving.rtring_c_watch.logic.main.BundTypeActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:225:9-228:25
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:227:14-50
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:226:13-56
+activity#com.linkloving.rtring_c_watch.logic.main.MainPageActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:229:9-232:20
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:231:13-49
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:230:13-56
+activity#com.linkloving.rtring_c_watch.logic.main.PortalActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:233:9-239:20
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:237:13-49
+	android:launchMode
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:236:13-44
+	android:configChanges
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:235:13-83
+	android:theme
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:238:13-47
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:234:13-54
+activity#com.linkloving.rtring_c_watch.logic.main.BoundActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:240:9-244:20
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:243:13-49
+	android:configChanges
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:242:13-83
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:241:13-53
+activity#com.linkloving.rtring_c_watch.logic.main.BoundStep1Activity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:245:9-249:20
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:248:13-49
+	android:configChanges
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:247:13-83
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:246:13-58
+activity#com.linkloving.rtring_c_watch.logic.main.BoundStep2Activity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:250:9-254:20
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:253:13-49
+	android:configChanges
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:252:13-83
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:251:13-58
+activity#com.linkloving.rtring_c_watch.logic.reportday.SportDataDetailActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:255:9-259:20
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:257:13-49
+	android:theme
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:258:13-47
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:256:13-68
+activity#com.linkloving.rtring_c_watch.logic.main.BLEListActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:260:9-263:20
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:262:13-49
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:261:13-55
+activity#com.linkloving.rtring_c_watch.logic.main.OwnBraceletActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:264:9-267:20
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:266:13-49
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:265:13-59
+activity#com.linkloving.rtring_c_watch.logic.main.HandUpActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:268:9-271:20
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:270:13-49
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:269:13-54
+activity#com.linkloving.rtring_c_watch.logic.setup.LongSitActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:272:9-275:20
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:274:13-49
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:273:13-56
+activity#com.linkloving.rtring_c_watch.logic.setup.GoalActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:276:9-279:20
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:278:13-49
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:277:13-53
+activity#com.linkloving.rtring_c_watch.logic.setup.NotifacitionActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:280:9-283:20
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:282:13-49
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:281:13-61
+activity#com.linkloving.rtring_c_watch.logic.setup.PowerActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:284:9-287:20
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:286:13-49
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:285:13-54
+activity#com.linkloving.rtring_c_watch.logic.setup.HandUpActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:288:9-291:20
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:290:13-49
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:289:13-55
+activity#com.linkloving.rtring_c_watch.logic.setup.AlarmActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:292:9-295:20
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:294:13-49
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:293:13-54
+activity#com.linkloving.rtring_c_watch.logic.more.HelpActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:296:9-301:20
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:299:13-49
+	android:configChanges
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:298:13-83
+	android:theme
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:300:13-44
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:297:13-52
+activity#com.linkloving.rtring_c_watch.logic.more.AboutActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:302:9-314:20
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:305:13-49
+	android:configChanges
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:304:13-83
+	android:theme
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:306:13-44
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:303:13-53
+intent-filter#android.intent.action.SEND+android.intent.category.DEFAULT
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:307:13-313:29
+	android:label
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:307:28-65
+action#android.intent.action.SEND
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:308:17-69
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:308:25-66
+activity#com.linkloving.rtring_c_watch.logic.more.SendMailActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:315:9-318:20
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:317:13-49
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:316:13-56
+activity#com.linkloving.rtring_c_watch.logic.more.SkinActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:319:9-322:20
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:321:13-49
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:320:13-52
+activity#com.linkloving.rtring_c_watch.logic.more.MoreActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:323:9-328:20
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:326:13-49
+	android:configChanges
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:325:13-83
+	android:theme
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:327:13-44
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:324:13-52
+activity#com.linkloving.rtring_c_watch.logic.more.CommonWebActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:329:9-334:20
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:332:13-49
+	android:configChanges
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:331:13-83
+	android:theme
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:333:13-44
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:330:13-57
+activity#com.linkloving.rtring_c_watch.logic.more.UserActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:335:9-340:20
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:338:13-49
+	android:configChanges
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:337:13-83
+	android:theme
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:339:13-44
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:336:13-52
+activity#com.linkloving.rtring_c_watch.logic.more.PrivacySetActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:341:9-346:20
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:344:13-49
+	android:configChanges
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:343:13-83
+	android:theme
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:345:13-44
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:342:13-58
+activity#com.linkloving.rtring_c_watch.logic.report.ReportActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:347:9-361:20
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:350:13-49
+	android:configChanges
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:349:13-83
+	android:theme
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:351:13-44
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:348:13-56
+activity#com.linkloving.rtring_c_watch.logic.report.RankingActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:362:9-367:20
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:365:13-49
+	android:configChanges
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:364:13-83
+	android:theme
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:366:13-47
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:363:13-57
+activity#com.eva.android.widget.ImageViewActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:368:9-373:20
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:371:13-49
+	android:windowSoftInputMode
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:372:13-72
+	android:configChanges
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:370:13-83
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:369:13-68
+activity#com.eva.android.cropimage.CropImage
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:374:9-378:57
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:377:13-49
+	android:windowSoftInputMode
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:378:13-54
+	android:configChanges
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:376:13-83
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:375:13-63
+activity#com.linkloving.rtring_c_watch.logic.main.DeviceInfoActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:379:9-382:20
+	android:label
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:381:13-63
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:380:13-58
+activity#cn.sharesdk.framework.ShareSDKUIShell
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:383:9-446:20
+	android:windowSoftInputMode
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:387:13-67
+	android:configChanges
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:385:13-74
+	android:theme
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:386:13-72
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:384:13-65
+meta-data#AuthorizeAdapter
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:398:13-400:62
+	android:value
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:400:17-59
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:399:17-48
+meta-data#QZoneWebShareAdapter
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:410:13-412:75
+	android:value
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:412:17-72
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:411:17-52
+activity#com.linkloving.rtring_c_watch.wxapi.WXEntryActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:448:9-452:75
+	android:exported
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:451:13-36
+	android:configChanges
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:450:13-74
+	android:theme
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:452:13-72
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:449:13-50
+activity#com.linkloving.rtring_c_watch.logic.DatePickerActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:453:9-457:20
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:456:13-49
+	android:label
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:455:13-63
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:454:13-53
+activity#com.linkloving.rtring_c_watch.logic.sns.RelationshipGroupActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:458:9-462:20
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:461:13-49
+	android:label
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:460:13-70
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:459:13-64
+activity#com.linkloving.rtring_c_watch.logic.sns.ConcernMeActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:463:9-467:20
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:466:13-49
+	android:label
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:465:13-62
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:464:13-56
+activity#com.linkloving.rtring_c_watch.logic.sns.ConcernAboutActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:468:9-472:20
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:471:13-49
+	android:label
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:470:13-65
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:469:13-59
+activity#com.linkloving.rtring_c_watch.logic.sns.CommentsActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:473:9-477:20
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:476:13-49
+	android:label
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:475:13-60
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:474:13-55
+activity#com.linkloving.rtring_c_watch.logic.sns.NearbyActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:478:9-482:20
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:481:13-49
+	android:label
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:480:13-58
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:479:13-53
+activity#com.linkloving.rtring_c_watch.logic.sns.UserDetialActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:483:9-489:20
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:487:13-49
+	android:label
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:486:13-63
+	android:windowSoftInputMode
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:488:13-72
+	android:configChanges
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:485:13-63
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:484:13-57
+activity#com.linkloving.rtring_c_watch.logic.sns.SearchActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:490:9-493:20
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:492:13-49
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:491:13-82
+activity#com.linkloving.rtring_c_watch.logic.main.QRScanActivity2
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:494:9-497:20
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:496:13-49
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:495:13-84
+receiver#com.umeng.message.NotificationProxyBroadcastReceiver
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:499:9-502:20
+	android:exported
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:501:13-37
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:500:13-80
+service#org.android.agoo.service.ElectionService
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:503:9-510:19
+	android:process
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:506:13-47
+	android:exported
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:505:13-36
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:504:13-68
+intent-filter#org.agoo.android.intent.action.ELECTION_V2
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:507:13-509:29
+action#org.agoo.android.intent.action.ELECTION_V2
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:508:17-85
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:508:25-82
+activity#com.linkloving.rtring_c_watch.logic.sns.WhatsUpHistoryActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:512:9-515:20
+	android:label
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:514:13-68
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:513:13-61
+activity#com.linkloving.rtring_c_watch.logic.sns.WhatsUpDetailActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:516:9-520:20
+	android:label
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:518:13-67
+	android:windowSoftInputMode
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:519:13-72
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:517:13-60
+activity#com.linkloving.rtring_c_watch.oad.OADActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:521:9-523:52
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:523:13-49
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:522:13-44
+activity#com.linkloving.rtring_c_watch.logic.setup.MovingTargetActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:524:9-526:52
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:526:13-49
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:525:13-61
+activity#com.linkloving.rtring_c_watch.logic.main.SettingWatchActivity
+ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:527:9-529:52
+	android:screenOrientation
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:529:13-49
+	android:name
+		ADDED from F:\DanielEclipse\rt_c_watch_work_new\rtring_c_fitincluded\AndroidManifest.xml:528:13-60
+activity#com.lz.rtchart.Main2
+ADDED from [rt_c_watch_work_new:RTChart_fit:unspecified] F:\DanielEclipse\rt_c_watch_work_new\RTChart_fit\build\intermediates\bundles\default\AndroidManifest.xml:12:9-13:20
+	android:name
+		ADDED from [rt_c_watch_work_new:RTChart_fit:unspecified] F:\DanielEclipse\rt_c_watch_work_new\RTChart_fit\build\intermediates\bundles\default\AndroidManifest.xml:12:19-54
+supports-screens
+ADDED from [rt_c_watch_work_new:OneKeyShare-fitincluded:unspecified] F:\DanielEclipse\rt_c_watch_work_new\OneKeyShare-fitincluded\build\intermediates\bundles\default\AndroidManifest.xml:11:5-16:39
+	android:largeScreens
+		ADDED from [rt_c_watch_work_new:OneKeyShare-fitincluded:unspecified] F:\DanielEclipse\rt_c_watch_work_new\OneKeyShare-fitincluded\build\intermediates\bundles\default\AndroidManifest.xml:13:9-36
+	android:smallScreens
+		ADDED from [rt_c_watch_work_new:OneKeyShare-fitincluded:unspecified] F:\DanielEclipse\rt_c_watch_work_new\OneKeyShare-fitincluded\build\intermediates\bundles\default\AndroidManifest.xml:16:9-36
+	android:normalScreens
+		ADDED from [rt_c_watch_work_new:OneKeyShare-fitincluded:unspecified] F:\DanielEclipse\rt_c_watch_work_new\OneKeyShare-fitincluded\build\intermediates\bundles\default\AndroidManifest.xml:14:9-37
+	android:resizeable
+		ADDED from [rt_c_watch_work_new:OneKeyShare-fitincluded:unspecified] F:\DanielEclipse\rt_c_watch_work_new\OneKeyShare-fitincluded\build\intermediates\bundles\default\AndroidManifest.xml:15:9-34
+	android:anyDensity
+		ADDED from [rt_c_watch_work_new:OneKeyShare-fitincluded:unspecified] F:\DanielEclipse\rt_c_watch_work_new\OneKeyShare-fitincluded\build\intermediates\bundles\default\AndroidManifest.xml:12:9-34
+uses-feature#android.hardware.bluetooth_le
+ADDED from [rt_c_watch_work_new:Linkloving_BLE4.0_lib:unspecified] F:\DanielEclipse\rt_c_watch_work_new\Linkloving_BLE4.0_lib\build\intermediates\bundles\default\AndroidManifest.xml:31:5-33:35
+	android:required
+		ADDED from [rt_c_watch_work_new:Linkloving_BLE4.0_lib:unspecified] F:\DanielEclipse\rt_c_watch_work_new\Linkloving_BLE4.0_lib\build\intermediates\bundles\default\AndroidManifest.xml:33:9-32
+	android:name
+		ADDED from [rt_c_watch_work_new:Linkloving_BLE4.0_lib:unspecified] F:\DanielEclipse\rt_c_watch_work_new\Linkloving_BLE4.0_lib\build\intermediates\bundles\default\AndroidManifest.xml:32:9-53
+service#com.example.android.bluetoothlegatt.wapper.BLEWapper
+ADDED from [rt_c_watch_work_new:Linkloving_BLE4.0_lib:unspecified] F:\DanielEclipse\rt_c_watch_work_new\Linkloving_BLE4.0_lib\build\intermediates\bundles\default\AndroidManifest.xml:43:9-46:19
+	android:enabled
+		ADDED from [rt_c_watch_work_new:Linkloving_BLE4.0_lib:unspecified] F:\DanielEclipse\rt_c_watch_work_new\Linkloving_BLE4.0_lib\build\intermediates\bundles\default\AndroidManifest.xml:45:13-35
+	android:name
+		ADDED from [rt_c_watch_work_new:Linkloving_BLE4.0_lib:unspecified] F:\DanielEclipse\rt_c_watch_work_new\Linkloving_BLE4.0_lib\build\intermediates\bundles\default\AndroidManifest.xml:44:13-80
+activity#com.example.android.bluetoothlegatt.DeviceScanActivity
+ADDED from [rt_c_watch_work_new:Linkloving_BLE4.0_lib:unspecified] F:\DanielEclipse\rt_c_watch_work_new\Linkloving_BLE4.0_lib\build\intermediates\bundles\default\AndroidManifest.xml:48:9-60:20
+	android:label
+		ADDED from [rt_c_watch_work_new:Linkloving_BLE4.0_lib:unspecified] F:\DanielEclipse\rt_c_watch_work_new\Linkloving_BLE4.0_lib\build\intermediates\bundles\default\AndroidManifest.xml:50:13-45
+	android:name
+		ADDED from [rt_c_watch_work_new:Linkloving_BLE4.0_lib:unspecified] F:\DanielEclipse\rt_c_watch_work_new\Linkloving_BLE4.0_lib\build\intermediates\bundles\default\AndroidManifest.xml:49:13-82
+activity#com.example.android.bluetoothlegatt.DeviceControlActivity
+ADDED from [rt_c_watch_work_new:Linkloving_BLE4.0_lib:unspecified] F:\DanielEclipse\rt_c_watch_work_new\Linkloving_BLE4.0_lib\build\intermediates\bundles\default\AndroidManifest.xml:61:9-94
+	android:name
+		ADDED from [rt_c_watch_work_new:Linkloving_BLE4.0_lib:unspecified] F:\DanielEclipse\rt_c_watch_work_new\Linkloving_BLE4.0_lib\build\intermediates\bundles\default\AndroidManifest.xml:61:19-91
+activity#com.example.android.bluetoothlegatt.Demo2Acitvity
+ADDED from [rt_c_watch_work_new:Linkloving_BLE4.0_lib:unspecified] F:\DanielEclipse\rt_c_watch_work_new\Linkloving_BLE4.0_lib\build\intermediates\bundles\default\AndroidManifest.xml:62:9-63:20
+	android:name
+		ADDED from [rt_c_watch_work_new:Linkloving_BLE4.0_lib:unspecified] F:\DanielEclipse\rt_c_watch_work_new\Linkloving_BLE4.0_lib\build\intermediates\bundles\default\AndroidManifest.xml:62:19-83
+service#com.example.android.bluetoothlegatt.BLEProvider
+ADDED from [rt_c_watch_work_new:Linkloving_BLE4.0_lib:unspecified] F:\DanielEclipse\rt_c_watch_work_new\Linkloving_BLE4.0_lib\build\intermediates\bundles\default\AndroidManifest.xml:65:9-71:19
+	android:name
+		ADDED from [rt_c_watch_work_new:Linkloving_BLE4.0_lib:unspecified] F:\DanielEclipse\rt_c_watch_work_new\Linkloving_BLE4.0_lib\build\intermediates\bundles\default\AndroidManifest.xml:65:18-80
+intent-filter#android.intent.category.default+com.linkloving.ble.SERVICE
+ADDED from [rt_c_watch_work_new:Linkloving_BLE4.0_lib:unspecified] F:\DanielEclipse\rt_c_watch_work_new\Linkloving_BLE4.0_lib\build\intermediates\bundles\default\AndroidManifest.xml:66:13-70:29
+action#com.linkloving.ble.SERVICE
+ADDED from [rt_c_watch_work_new:Linkloving_BLE4.0_lib:unspecified] F:\DanielEclipse\rt_c_watch_work_new\Linkloving_BLE4.0_lib\build\intermediates\bundles\default\AndroidManifest.xml:67:17-69
+	android:name
+		ADDED from [rt_c_watch_work_new:Linkloving_BLE4.0_lib:unspecified] F:\DanielEclipse\rt_c_watch_work_new\Linkloving_BLE4.0_lib\build\intermediates\bundles\default\AndroidManifest.xml:67:25-66
+category#android.intent.category.default
+ADDED from [rt_c_watch_work_new:Linkloving_BLE4.0_lib:unspecified] F:\DanielEclipse\rt_c_watch_work_new\Linkloving_BLE4.0_lib\build\intermediates\bundles\default\AndroidManifest.xml:69:17-76
+	android:name
+		ADDED from [rt_c_watch_work_new:Linkloving_BLE4.0_lib:unspecified] F:\DanielEclipse\rt_c_watch_work_new\Linkloving_BLE4.0_lib\build\intermediates\bundles\default\AndroidManifest.xml:69:27-73
+activity#com.example.android.bluetoothlegatt.DemoActivity
+ADDED from [rt_c_watch_work_new:Linkloving_BLE4.0_lib:unspecified] F:\DanielEclipse\rt_c_watch_work_new\Linkloving_BLE4.0_lib\build\intermediates\bundles\default\AndroidManifest.xml:73:9-84:20
+	android:label
+		ADDED from [rt_c_watch_work_new:Linkloving_BLE4.0_lib:unspecified] F:\DanielEclipse\rt_c_watch_work_new\Linkloving_BLE4.0_lib\build\intermediates\bundles\default\AndroidManifest.xml:75:13-58
+	android:name
+		ADDED from [rt_c_watch_work_new:Linkloving_BLE4.0_lib:unspecified] F:\DanielEclipse\rt_c_watch_work_new\Linkloving_BLE4.0_lib\build\intermediates\bundles\default\AndroidManifest.xml:74:13-76

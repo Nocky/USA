@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="10dp" >
+
+    <com.eva.android.widget.CustomeTitleBar
+        android:id="@+id/register_form_titleBar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+    </com.eva.android.widget.CustomeTitleBar>
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scrollbars="none" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:orientation="vertical" >
+
+            <EditText
+                android:id="@+id/register_form_emailEdit"
+                style="@style/login_edit_text_style"
+                android:layout_width="fill_parent"
+                android:layout_marginTop="25dp"
+                android:drawableLeft="@drawable/register_mail_icon"
+                android:ems="10"
+                android:hint="@string/register_form_view_eMail"
+                android:singleLine="true"
+                android:text=""
+                android:textColor="#666666"
+                android:textColorHighlight="@color/white"
+                android:textColorHint="#999999"
+                android:textSize="18sp" >
+            </EditText>
+
+            <EditText
+                android:id="@+id/resigter_form_nicknameEdit"
+                style="@style/login_edit_text_style"
+                android:layout_width="fill_parent"
+                android:layout_marginTop="15dp"
+                android:drawableLeft="@drawable/register_nickname_icon"
+                android:ems="10"
+                android:hint="@string/register_form_view_nickname"
+                android:singleLine="true"
+                android:text=""
+                android:textColor="#666666"
+                android:textColorHighlight="@color/white"
+                android:textColorHint="#999999"
+                android:textSize="18sp" >
+
+            </EditText>
+
+            <EditText
+                android:id="@+id/register_form_passwordEdit"
+                style="@style/login_edit_text_style"
+                android:layout_width="fill_parent"
+                android:layout_marginTop="15dp"
+                android:drawableLeft="@drawable/register_psw_icon"
+                android:ems="10"
+                android:hint="@string/register_form_view_password"
+                android:inputType="textPassword"
+                android:singleLine="true"
+                android:text=""
+                android:textColor="#666666"
+                android:textColorHighlight="@color/white"
+                android:textColorHint="#999999"
+                android:textSize="18sp" >
+
+            </EditText>
+
+            <EditText
+                android:id="@+id/register_form_conformPswEdit"
+                style="@style/login_edit_text_style"
+                android:layout_width="fill_parent"
+                android:layout_marginTop="15dp"
+                android:drawableLeft="@drawable/register_psw_icon"
+                android:ems="10"
+                android:hint="@string/register_form_view_confirmpsw"
+                android:inputType="textPassword"
+                android:singleLine="true"
+                android:text=""
+                android:textColor="#666666"
+                android:textColorHighlight="@color/white"
+                android:textColorHint="#999999"
+                android:textSize="18sp" >
+
+            </EditText>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="20dp"
+                android:orientation="horizontal" >
+
+                <CheckBox
+                    android:id="@+id/register_form_agreeLisenseCb"
+                    style="@style/check_box_big_style"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:text="@string/register_form_view_agreelisence"
+                    android:textColor="#B6B6B6" />
+
+                <Button
+                    android:id="@+id/register_form_to_clause"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="10dp"
+                    android:background="@null"
+                    android:text="@string/register_form_view_look_caluse"
+                    android:textColor="#FF9941"
+                    android:textColorLink="@color/yellow_title" />
+            </RelativeLayout>
+
+            <Button
+                android:id="@+id/register_form_submitBtn"
+                style="@style/login_btn_style"
+                android:layout_width="fill_parent"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="20dp"
+                android:text="@string/register_form_next_step" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,426 @@
+[
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_progressbar.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\ssdk_oks_classic_progressbar.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\ding_item.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\ding_item.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\m00_check_box_selector.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\m00_check_box_selector.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_background_transition_holo_dark.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\default\\res\\drawable\\list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\longsit_check_box_selector.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\longsit_check_box_selector.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_dot_dashed.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\bg_dot_dashed.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_query.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\default\\res\\drawable\\button_selector_query.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_background_transition_holo_light.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\default\\res\\drawable\\list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\common_login_btn_ok.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\default\\res\\drawable\\common_login_btn_ok.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\lay_seekbar_pulsation_bg.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\lay_seekbar_pulsation_bg.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\main_more_dashed_line.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\main_more_dashed_line.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\love_btn_bg.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\love_btn_bg.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\dashed_line.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\dashed_line.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\main_report_page_top_timetype_radio_btn_month_selector.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\main_report_page_top_timetype_radio_btn_month_selector.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\common_progress_bar_green.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\common_progress_bar_green.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\m00_blue_button_selector.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\m00_blue_button_selector.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\first_login_go_klink.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\first_login_go_klink.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\cai_item.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\cai_item.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\bound_manual_btn.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\bound_manual_btn.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\common_red_btn_bg.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\common_red_btn_bg.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\skyblue_platform_list_item.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\default\\res\\drawable\\skyblue_platform_list_item.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\main_circle_view_clickable_selector.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\main_circle_view_clickable_selector.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_dialog_bg.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\default\\res\\drawable\\shape_dialog_bg.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\button_text_selector.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\default\\res\\drawable\\button_text_selector.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\button_round_normal.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\default\\res\\drawable\\button_round_normal.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_item_bg.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\menu_item_bg.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\slidingmenu_shadow.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\slidingmenu_shadow.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\common_settings_item_bg_group_bottom.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\common_settings_item_bg_group_bottom.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\main_report_page_top_timetype_radio_btn_day_selector.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\main_report_page_top_timetype_radio_btn_day_selector.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\main_fragment_ble_opr_btn.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\main_fragment_ble_opr_btn.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\alarm_item_icon_button_selector.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\alarm_item_icon_button_selector.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\classic_platform_corners_bg.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\default\\res\\drawable\\classic_platform_corners_bg.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\pop_relationship_bg.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\pop_relationship_bg.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\common_image_view_rotate_ni_btn.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\common_image_view_rotate_ni_btn.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\sns_add_friend_form_condition_bg_selector.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\sns_add_friend_form_condition_bg_selector.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\main_fragment_title_logo_bg_selector.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\main_fragment_title_logo_bg_selector.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\bracelet_unbound_btn.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\bracelet_unbound_btn.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\goal_tuijian_btn_selector.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\goal_tuijian_btn_selector.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\portal_sport_bg.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\portal_sport_bg.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\common_raido_man_bg.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\common_raido_man_bg.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\main_report_page_active_type_work_radio_btn_selector.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\main_report_page_active_type_work_radio_btn_selector.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\common_image_view_rotate_shun_btn.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\common_image_view_rotate_shun_btn.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\common_btn_blue.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\common_btn_blue.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\more_btn_bg.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\more_btn_bg.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\exit_button_selector.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\exit_button_selector.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\common_raido_woman_bg.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\common_raido_woman_bg.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\common_refresh_button.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\common_refresh_button.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\common_red_btn_bg_cancle.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\default\\res\\drawable\\common_red_btn_bg_cancle.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\common_settings_item_bg_group_top.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\common_settings_item_bg_group_top.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\portal_sleep_bg.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\portal_sleep_bg.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\skyblue_platform_list_item_selected.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\default\\res\\drawable\\skyblue_platform_list_item_selected.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\list_view_repet_deliver.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\list_view_repet_deliver.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\main_report_page_active_type_sleep_radio_btn_selector.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\main_report_page_active_type_sleep_radio_btn_selector.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\common_login_btn.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\common_login_btn.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\whats_up_history_list_item_btn_selector.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\whats_up_history_list_item_btn_selector.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\common_check_box_selector.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\common_check_box_selector.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\item_background_holo_dark.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\default\\res\\drawable\\item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\common_check_box_bg.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\common_check_box_bg.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_share.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\selector_btn_share.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\common_gray_bth_bg.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\common_gray_bth_bg.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\common_raido_woman_button_bg.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\common_raido_woman_button_bg.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_crop_button.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\selector_crop_button.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\main_fragment_tip_close_btn.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\main_fragment_tip_close_btn.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\main_report_page_active_type_run_radio_btn_selector.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\main_report_page_active_type_run_radio_btn_selector.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\relationship_tab_selector.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\relationship_tab_selector.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\common_cancel_btn.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\common_cancel_btn.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\ok_btn_bg.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\ok_btn_bg.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\m00_check_radio_selector.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\m00_check_radio_selector.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\PullToRefreshLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\button_round_press.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\default\\res\\drawable\\button_round_press.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\common_btn_green_usedindark.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\common_btn_green_usedindark.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_commend_state.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\list_item_commend_state.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\alarm_dialog_button_selector.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\alarm_dialog_button_selector.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\main_report_page_dataselect_right_btn.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\main_report_page_dataselect_right_btn.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\relationship_tab_text_selector.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\relationship_tab_text_selector.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\dashed_bg.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\dashed_bg.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\common_title_btn_back.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\common_title_btn_back.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\item_background_holo_light.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\default\\res\\drawable\\item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\common_settings_item_bg_group_full.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\common_settings_item_bg_group_full.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\common_check_box_big_bg.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\common_check_box_big_bg.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\holder_bg.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\holder_bg.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\common_raido_button_bg.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\common_raido_button_bg.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\main_report_page_top_timetype_radio_btn_week_selector.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\main_report_page_top_timetype_radio_btn_week_selector.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\common_raido_man_button_bg.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\common_raido_man_button_bg.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\main_report_page_dataselect_left_btn.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\main_report_page_dataselect_left_btn.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\alarm_list_item_bg_selector.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\alarm_list_item_bg_selector.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_alert_dialog_cancel.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\btn_style_alert_dialog_cancel.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\bound_scan_btn.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\bound_scan_btn.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\main_report_page_active_type_ca_radio_btn_selector.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\main_report_page_active_type_ca_radio_btn_selector.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\skyblue_platform_list_selector.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\default\\res\\drawable\\skyblue_platform_list_selector.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_crop_save_button.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\selector_crop_save_button.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_alert_dialog_button.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\btn_style_alert_dialog_button.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\common_settings_item_bg_group_middle.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\common_settings_item_bg_group_middle.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\m00_gray_button_selector.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\m00_gray_button_selector.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\PullToRefreshLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\common_title_btn_general.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\common_title_btn_general.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable\\ranking_progress_bar_drawable.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable\\ranking_progress_bar_drawable.xml"
+    }
+]

@@ -1,0 +1,546 @@
+[
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\myskin.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\myskin.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\common_image_view_layout.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\common_image_view_layout.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\user_info_child_account_nickname.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\user_info_child_account_nickname.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\cropimage.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\cropimage.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\common_toast.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\common_toast.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\activity_comments.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\activity_comments.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\select_dialog_item.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bund_type.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\activity_bund_type.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\widget_simple_gridview_item.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\widget_simple_gridview_item.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\whats_up_history_listview_group_item.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\whats_up_history_listview_group_item.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\time_layout.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\default\\res\\layout\\time_layout.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\common_web_view.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\common_web_view.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\ent_view.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\ent_view.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\body_info_activity.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\body_info_activity.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\ranking_activity.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\ranking_activity.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\ranking_activity_list_head_view.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\ranking_activity_list_head_view.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ble_list.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\activity_ble_list.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\item_bundtype.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\item_bundtype.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\forget_password.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\forget_password.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_detail_comments.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\list_item_detail_comments.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenumain.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\SlidingMenuLibrary\\build\\intermediates\\bundles\\default\\res\\layout\\slidingmenumain.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\activity_own_watch.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\activity_own_watch.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\detail_chart_view.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\detail_chart_view.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\shequ_layout.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\shequ_layout.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\activity_privacy.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\activity_privacy.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\report_page_activity.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\report_page_activity.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\activity_concern_about.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\activity_concern_about.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\m00_coverlayer.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\m00_coverlayer.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\main_more_change_avatar_dialog.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\main_more_change_avatar_dialog.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\PullToRefreshLibrary\\build\\intermediates\\bundles\\default\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\sqllite_cache_view_list.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\sqllite_cache_view_list.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\widget_progress_dialog.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\widget_progress_dialog.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\user_info_update_user_body.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\user_info_update_user_body.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\register_success.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\register_success.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\common_pull_down_head.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\common_pull_down_head.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\main2.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\RTChart_fit\\build\\intermediates\\bundles\\default\\res\\layout\\main2.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\handup_activity.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\handup_activity.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\reportday_composition_view.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\reportday_composition_view.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_portal_menu.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\fragment_portal_menu.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\main_about.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\main_about.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\activity_device_info.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\activity_device_info.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\RTChart_fit\\build\\intermediates\\bundles\\default\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\guide.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\guide.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_detial.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\activity_user_detial.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\common_web_view_progress.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\common_web_view_progress.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\PullToRefreshLibrary\\build\\intermediates\\bundles\\default\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bound_step2.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\activity_bound_step2.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\main_about_send_mail.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\main_about_send_mail.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\alarm_change_alarm_dialog.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\alarm_change_alarm_dialog.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custom.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\Linkloving_BLE4.0_lib\\build\\intermediates\\bundles\\default\\res\\layout\\activity_custom.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_device.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\Linkloving_BLE4.0_lib\\build\\intermediates\\bundles\\default\\res\\layout\\listitem_device.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_portal_main.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\fragment_portal_main.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\main_page_activity.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\main_page_activity.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\change_long_sit_time_dialog.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\change_long_sit_time_dialog.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\widget_simple_gridview.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\widget_simple_gridview.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\slide_view_merge.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\slide_view_merge.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\nearby_activity_listview_item.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\nearby_activity_listview_item.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\custom_alert_dialog.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\custom_alert_dialog.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bound_step3.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\activity_bound_step3.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\gatt_services_characteristics.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\Linkloving_BLE4.0_lib\\build\\intermediates\\bundles\\default\\res\\layout\\gatt_services_characteristics.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\widget_simple_viewpager.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\widget_simple_viewpager.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\notification_view.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\notification_view.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\ranking_activity_listview_item.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\ranking_activity_listview_item.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\grid_item_sport_data.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\grid_item_sport_data.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_menu.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\list_item_menu.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\skyblue_editpage_at_layout.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\default\\res\\layout\\skyblue_editpage_at_layout.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\whats_up_detail_listview_item.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\whats_up_detail_listview_item.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\whats_up_history_listview_child_item.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\whats_up_history_listview_child_item.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\notifications_activity.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\notifications_activity.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\power_activity.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\power_activity.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_ble_list.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\list_item_ble_list.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\sqllite_cache_view_list_item.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\sqllite_cache_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_search.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\list_item_search.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\activity_whats_up_history.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\activity_whats_up_history.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bound_step1.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\activity_bound_step1.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\skyblue_share_platform_list.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\default\\res\\layout\\skyblue_share_platform_list.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\custom_alert_dialog_btn.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\custom_alert_dialog_btn.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\activity_relationship_group.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\activity_relationship_group.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\activity_own_bracelet.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\activity_own_bracelet.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\user_info_update_user_psw.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\user_info_update_user_psw.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\activity_whats_up_detail.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\activity_whats_up_detail.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_search_user.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\list_item_search_user.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\skyblue_editpage_inc_image_layout.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\default\\res\\layout\\skyblue_editpage_inc_image_layout.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sport_data_detail2.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\activity_sport_data_detail2.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\whats_up_history_listview_item.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\whats_up_history_listview_item.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\common_pull_down_footer.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\common_pull_down_footer.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\guide_lastloading.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\guide_lastloading.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\popup_progess_view.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\popup_progess_view.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\nearby_activity.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\nearby_activity.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\report_page_active_composition_view.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\report_page_active_composition_view.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\select_dialog.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\skyblue_share_platform_list_item.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\default\\res\\layout\\skyblue_share_platform_list_item.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\view_circle_bar_night.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\view_circle_bar_night.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\moving_targer_info_activity.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\moving_targer_info_activity.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_view.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\default\\res\\layout\\calendar_view.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_comments.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\list_item_comments.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_concern_about.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\list_item_concern_about.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\activity_concern_me.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\activity_concern_me.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\start.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\start.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\date_picker_holo.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\default\\res\\layout\\date_picker_holo.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_custom.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\Linkloving_BLE4.0_lib\\build\\intermediates\\bundles\\default\\res\\layout\\fragment_custom.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\skyblue_share_actionbar.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\default\\res\\layout\\skyblue_share_actionbar.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\view_circle_bar.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\view_circle_bar.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\activity_portal_menu.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\activity_portal_menu.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\view_detail_chart_item.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\view_detail_chart_item.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\select_dialog_singlechoice.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\number_picker_with_selector_wheel.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\default\\res\\layout\\number_picker_with_selector_wheel.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_concern_me.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\list_item_concern_me.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\alarm_activity_listview_item.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\alarm_activity_listview_item.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\main_more.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\main_more.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\activity_oad.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\activity_oad.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\skyblue_editpage.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\default\\res\\layout\\skyblue_editpage.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\select_dialog_multichoice.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\login_form.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\login_form.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_search_group.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\list_item_search_group.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\longsit_activity.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\longsit_activity.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bound.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\activity_bound.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\activity_date_picker.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\activity_date_picker.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\dropdown_item.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\user_info_update_user_nickname.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\user_info_update_user_nickname.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\activity_portal_main.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\activity_portal_main.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\widget_title_bar.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\widget_title_bar.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\user_info.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\user_info.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_indeterminate_progress.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\Linkloving_BLE4.0_lib\\build\\intermediates\\bundles\\default\\res\\layout\\actionbar_indeterminate_progress.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\goal_activity.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\goal_activity.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\user_info_update_whatsup.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\user_info_update_whatsup.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\popup_relationship_view.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\popup_relationship_view.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_device_info.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\fragment_device_info.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\alarm_activity.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\alarm_activity.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\layout\\register_form.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\layout\\register_form.xml"
+    }
+]

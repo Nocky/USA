@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <com.eva.android.widget.CustomeTitleBar
+        android:id="@+id/login_form_titleBar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" 
+        android:visibility="gone">
+    </com.eva.android.widget.CustomeTitleBar>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/login_form_titleBar"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="40dp"
+            android:background="@drawable/new_logo" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="35dp"
+            android:orientation="vertical" >
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp" >
+
+                <EditText
+                    android:id="@+id/login_form_uidEdit"
+                    style="@style/login_edit_text_style"
+                    android:drawableLeft="@drawable/login_user"
+                    android:ems="10"
+                    android:hint="@string/login_form_account"
+                    android:singleLine="true"
+                    android:text=""
+                    android:textColor="#666666"
+                    android:textColorHighlight="@color/white"
+                    android:textColorHint="#bbbbbb"
+                    android:textSize="18sp" >
+                    <requestFocus />
+                </EditText>
+
+                <ImageButton
+                    android:id="@+id/login_form_dropdown_button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="right|center_vertical"
+                    android:layout_marginRight="5dip"
+                    android:background="@drawable/login_input_arrow"
+                    android:contentDescription="@string/app_name" />
+            </FrameLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp" >
+
+                <EditText
+                    android:id="@+id/login_form_passwordEdit"
+                    style="@style/login_edit_text_style"
+                    android:layout_weight="1"
+                    android:drawableLeft="@drawable/login_lock_icon"
+                    android:ems="10"
+                    android:hint="@string/login_form_password"
+                    android:inputType="textPassword"
+                    android:singleLine="true"
+                    android:textColor="#666666"
+                    android:textColorHighlight="@color/white"
+                    android:textColorHint="#bbbbbb"
+                    android:textSize="18sp" >
+
+                    <requestFocus />
+                </EditText>
+            </LinearLayout>
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="20dp" >
+
+            
+            <Button
+                android:id="@+id/login_form_submigBtn"
+                style="@style/main_about_text_shadow"
+                android:layout_width="138dp"
+                android:layout_height="50dp"
+                android:background="@drawable/common_btn_login"
+                android:text="@string/login_form_login"
+                android:textColor="@color/white"
+                android:textSize="18sp" />
+            <Button
+                android:id="@+id/login_form_registerBtn"
+                style="@style/main_about_text_shadow"
+                android:layout_width="138dp"
+                android:layout_height="50dp"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/common_btn_register"
+                android:text="@string/login_form_register"
+                android:textColor="@color/white"
+                android:textSize="18sp" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:orientation="vertical"
+            android:visibility="gone" >
+
+            <CheckBox
+                android:id="@+id/login_form_rememberPswCb"
+                style="@style/check_box_style"
+                android:checked="true"
+                android:text="Remember your name?" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="10dp"
+            android:gravity="right|center_horizontal"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/login_form_QQBtn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:text="@string/login_form_qq_login"
+                android:textColor="@color/cadetblue"
+                android:textSize="16sp" />
+            
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"/>
+            
+            <Button
+                android:id="@+id/login_form_forgotPswBtn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="15dp"
+                android:background="@null"
+                android:text="@string/login_form_forgot_password"
+                android:textColor="@color/white"
+                android:textSize="16sp"
+                 />
+
+        </LinearLayout>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:gravity="bottom|center_horizontal"
+        android:orientation="vertical"
+        android:visibility="gone" >
+
+        <TextView
+            android:id="@+id/login_form_versionView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="version_info"
+            android:textColor="#CBCBCB"
+            android:textSize="9sp" />
+
+        <TextView
+            android:id="@+id/login_form_publish"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="© 2014 LINKLOVING All Rights Reserved"
+            android:textColor="#CBCBCB"
+            android:textSize="9sp" />
+    </LinearLayout>
+
+</RelativeLayout>

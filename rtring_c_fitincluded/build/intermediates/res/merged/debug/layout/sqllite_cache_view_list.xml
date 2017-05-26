@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!-- 本地sqlLite缓存查看列表的布局 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent" android:weightSum="1"
+	style="@style/layout_main_style1">
+	<com.eva.android.widget.CustomeTitleBar
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:id="@+id/sqllite_cache_total_list_titleBar">
+	</com.eva.android.widget.CustomeTitleBar>
+	<ListView android:id="@+id/sqllite_cache_total_list_listView"
+		style="@style/listview_style1"></ListView>
+</LinearLayout>

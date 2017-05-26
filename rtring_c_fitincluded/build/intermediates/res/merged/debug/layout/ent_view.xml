@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ent_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@color/dia_view_dark" >
+    
+    <!--  dia_view_dark-->
+    
+    <TextView
+        android:id="@+id/ent_msg"
+        android:layout_marginStart="30dp"
+        android:layout_marginEnd="30dp"
+        android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:textColor="@color/white"
+    	android:textSize="18sp"
+    	android:text="dnsajkdbsajkbfdjskafnbksdanfksadnfj,sdabflsdabfjkdsankl."
+        >
+    </TextView>
+    
+
+</LinearLayout>

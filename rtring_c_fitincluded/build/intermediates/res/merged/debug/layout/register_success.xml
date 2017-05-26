@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/activity_sport_data_detail_sleepSumView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/register_success_tick"
+            android:drawablePadding="15dp"
+            android:gravity="center"
+            android:singleLine="true"
+            android:text="@string/register_success_title"
+            style="@style/text_witheShadow3"
+            android:textColor="@color/medium_gray"
+            android:textSize="30sp" />
+
+    </LinearLayout>
+    
+    <LinearLayout 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center_horizontal"
+        >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="19dp" >
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/register_success_mail"
+            android:textColor="@color/medium_gray"
+            android:textSize="17sp" />
+
+        <TextView
+            android:id="@+id/register_sucess_email_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:text="pick.peng@gmail.com"
+            android:textColor="@color/yellow_title"
+            android:textSize="18sp" />
+    </LinearLayout>
+    
+    </LinearLayout>
+    
+    <Button
+        android:id="@+id/register_success_go_btn"
+        android:layout_width="match_parent"
+        android:layout_marginLeft="45dp"
+        android:layout_marginRight="45dp"
+        android:layout_height="45dp"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:layout_marginTop="57dp"
+        android:background="@drawable/common_btn_login"
+        android:text="@string/register_success_experience"
+        android:textColor="@color/white"
+        android:padding="0dp"
+        android:textSize="20sp" />
+
+</LinearLayout>

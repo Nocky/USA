@@ -1,0 +1,394 @@
+[
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_fragment_ble_connect_status_yellow.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable-hdpi\\main_fragment_ble_connect_status_yellow.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\m00_pop_up_divider.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable-hdpi\\m00_pop_up_divider.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_medium_off_client.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\day_picker_week_view_dayline_holo.9.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\day_picker_week_view_dayline_holo.9.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_selector_disabled_holo_dark.9.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_toast_icon_ok.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable-hdpi\\widget_toast_icon_ok.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_small_off_client.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xicon.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable-hdpi\\xicon.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_rotate.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\PullToRefreshLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_image_view_rotate_shun_btn_normal.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable-hdpi\\common_image_view_rotate_shun_btn_normal.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_selector_disabled_holo_light.9.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fragment_menu_deliver.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable-hdpi\\fragment_menu_deliver.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_refresh_pressed.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable-hdpi\\common_refresh_pressed.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_unduplitoast_icon.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable-hdpi\\widget_unduplitoast_icon.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_input_arrow.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable-hdpi\\login_input_arrow.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_full_open_on_phone.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\userinfo_scroll_weight.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable-hdpi\\userinfo_scroll_weight.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_refresh_normal.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable-hdpi\\common_refresh_normal.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_focused_holo.9.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\list_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_down_bg.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable-hdpi\\common_down_bg.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_deliver.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable-hdpi\\common_deliver.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_fragment_ic_tipsclose_h.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable-hdpi\\main_fragment_ic_tipsclose_h.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\del_icon_normal.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable-hdpi\\del_icon_normal.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_pressed_holo_dark.9.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\places_ic_search.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\places_ic_search.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\powered_by_google_dark.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_loading_progress.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable-hdpi\\widget_loading_progress.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_toast_icon_warn.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable-hdpi\\widget_toast_icon_warn.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_longpressed_holo.9.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\Linkloving_BLE4.0_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_notification_1.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\cast_ic_notification_1.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_appicon.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable-hdpi\\ic_appicon.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_image_view_rotate_ni_btn_normal.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable-hdpi\\common_image_view_rotate_ni_btn_normal.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\places_ic_clear.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\places_ic_clear.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_flip.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\PullToRefreshLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_notification_2.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\cast_ic_notification_2.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\detail_walk_symbol.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable-hdpi\\detail_walk_symbol.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_fragment_ble_connect_status_green.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable-hdpi\\main_fragment_ble_connect_status_green.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\powered_by_google_light.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\powered_by_google_light.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_title_btn_.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable-hdpi\\common_title_btn_.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_pressed_holo_light.9.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\indicator_arrow.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\PullToRefreshLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_notification_on.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\cast_ic_notification_on.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_fragment_ic_tipsclose.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable-hdpi\\main_fragment_ic_tipsclose.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_fragment_ble_hint_icon.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable-hdpi\\main_fragment_ble_hint_icon.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_fragment_ble_connect_status_black.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable-hdpi\\main_fragment_ble_connect_status_black.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_image_view_rotate_ni_btn_pressed.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable-hdpi\\common_image_view_rotate_ni_btn_pressed.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lib_comfirm.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable-hdpi\\lib_comfirm.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_toast_icon_error.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable-hdpi\\widget_toast_icon_error.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_image_view_rotate_shun_btn_pressed.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable-hdpi\\common_image_view_rotate_shun_btn_pressed.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\detail_run_symbol.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable-hdpi\\detail_run_symbol.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_standard_off_client.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\detail_site_symbol.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable-hdpi\\detail_site_symbol.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_up_bg.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable-hdpi\\common_up_bg.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_divider_holo_light.9.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\list_divider_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ssdk_oks_ptr_ptr.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\ssdk_oks_ptr_ptr.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_tall_off_client.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_ic_googleplayservices.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_item_pressed.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable-hdpi\\menu_item_pressed.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_loading_progress_big.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable-hdpi\\widget_loading_progress_big.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_toast_icon_info.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable-hdpi\\widget_toast_icon_info.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tile.9.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\Linkloving_BLE4.0_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\tile.9.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_notification_0.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\cast_ic_notification_0.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_divider_holo_dark.9.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\datapicker_library_fit\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\list_divider_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_fragment_ble_connect_status_red.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable-hdpi\\main_fragment_ble_connect_status_red.png"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\detail_sleep_symbol.png",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\rtring_c_fitincluded\\res\\drawable-hdpi\\detail_sleep_symbol.png"
+    }
+]

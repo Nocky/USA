@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:id="@+id/user_info_child_account_nickname_LL"
+    android:paddingLeft="30dp"
+    android:paddingRight="30dp" >
+    
+ <EditText
+        android:id="@+id/user_info_child_account_nicknameView"
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:background="@drawable/chat_put_in"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:text="" />
+</LinearLayout>

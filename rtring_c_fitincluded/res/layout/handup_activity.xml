@@ -1,0 +1,176 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/handup_activity"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/main_bg"
+    android:orientation="vertical" >
+
+    <com.eva.android.widget.CustomeTitleBar
+        android:id="@+id/handup_titleBar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+    </com.eva.android.widget.CustomeTitleBar>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp" >
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_marginTop="50dip"
+            android:layout_marginBottom="50dip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/handup_title_img" />
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/longsit_activity_switch_bg_img"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:padding="15dp" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|left"
+                android:drawableLeft="@drawable/handup_icon"
+                android:drawablePadding="10dp"
+                android:gravity="center"
+                android:text="@string/handup_setting"
+                android:textColor="@color/gray_dark_for_text"
+                android:textSize="18sp" />
+
+            <CheckBox
+                android:id="@+id/handup_switch_checkbox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right|center_vertical"
+                android:background="@drawable/longsit_check_box_selector"
+                android:button="@null"
+                android:gravity="center" />
+        </FrameLayout>
+
+        <LinearLayout
+            android:id="@+id/handup_time_ll"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dp"
+            android:background="@drawable/long_sit_time_bg"
+            android:orientation="vertical"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:visibility="visible" >
+
+            <!--
+                 <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="15dp"
+                android:text="@string/long_sit_onset_text"
+                android:textColor="@color/bg_gray"
+                android:textSize="16sp" />
+            -->
+
+            <LinearLayout
+                android:id="@+id/handup_start_time_linear"
+                android:layout_width="fill_parent"
+                android:layout_height="0px"
+                android:layout_weight="1" >
+
+                <FrameLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent" >
+
+                    <TextView
+                        android:id="@+id/handup_start_time"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="right|center_vertical"
+                        android:layout_marginRight="40dp"
+                        android:text="09:00" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:text="@string/long_sit_start_time" >
+                    </TextView>
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="right|center_vertical"
+                        android:src="@drawable/long_sit_drop_down" />
+                </FrameLayout>
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/long_sit_dlivier" />
+
+            <LinearLayout
+                android:id="@+id/handup_end_time_linear"
+                android:layout_width="fill_parent"
+                android:layout_height="0px"
+                android:layout_weight="1" >
+
+                <FrameLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent" >
+
+                    <TextView
+                        android:id="@+id/handup_end_time"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="right|center_vertical"
+                        android:layout_marginRight="40dp"
+                        android:text="09:00" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:text="@string/long_sit_end_time" />
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="right|center_vertical"
+                        android:src="@drawable/long_sit_drop_down" />
+                </FrameLayout>
+            </LinearLayout>
+        </LinearLayout>
+        
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/longsit_activity_switch_bg_img"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:padding="15dp"
+            android:layout_marginTop="50dp" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|left"
+                android:drawablePadding="10dp"
+                android:gravity="center"
+                android:text="@string/handup_setting_intro"
+                android:textColor="@color/gray_dark_for_text"
+                android:textSize="14sp" />
+           
+        </FrameLayout>
+        
+    </LinearLayout>
+
+</LinearLayout>

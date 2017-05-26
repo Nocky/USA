@@ -1,0 +1,1643 @@
+[
+    {
+        "outputFile": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 43,
+                    "endOffset": 139
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 43,
+                        "endOffset": 139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 144,
+                    "endColumn": 87,
+                    "endOffset": 227
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 144,
+                        "endColumn": 87,
+                        "endOffset": 227
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 232,
+                    "endColumn": 40,
+                    "endOffset": 268
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 232,
+                        "endColumn": 40,
+                        "endOffset": 268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 273,
+                    "endColumn": 37,
+                    "endOffset": 306
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 273,
+                        "endColumn": 37,
+                        "endOffset": 306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 311,
+                    "endColumn": 37,
+                    "endOffset": 344
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 311,
+                        "endColumn": 37,
+                        "endOffset": 344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 349,
+                    "endColumn": 43,
+                    "endOffset": 388
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 349,
+                        "endColumn": 43,
+                        "endOffset": 388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 393,
+                    "endColumn": 36,
+                    "endOffset": 425
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 393,
+                        "endColumn": 36,
+                        "endOffset": 425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 430,
+                    "endColumn": 41,
+                    "endOffset": 467
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 430,
+                        "endColumn": 41,
+                        "endOffset": 467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 472,
+                    "endColumn": 45,
+                    "endOffset": 513
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 472,
+                        "endColumn": 45,
+                        "endOffset": 513
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 518,
+                    "endColumn": 64,
+                    "endOffset": 578
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 518,
+                        "endColumn": 64,
+                        "endOffset": 578
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 583,
+                    "endColumn": 37,
+                    "endOffset": 616
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 583,
+                        "endColumn": 37,
+                        "endOffset": 616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 621,
+                    "endColumn": 41,
+                    "endOffset": 658
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 621,
+                        "endColumn": 41,
+                        "endOffset": 658
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 663,
+                    "endColumn": 49,
+                    "endOffset": 708
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 663,
+                        "endColumn": 49,
+                        "endOffset": 708
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 713,
+                    "endColumn": 97,
+                    "endOffset": 806
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 713,
+                        "endColumn": 97,
+                        "endOffset": 806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 811,
+                    "endColumn": 46,
+                    "endOffset": 853
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 811,
+                        "endColumn": 46,
+                        "endOffset": 853
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 858,
+                    "endColumn": 47,
+                    "endOffset": 901
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 858,
+                        "endColumn": 47,
+                        "endOffset": 901
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 906,
+                    "endColumn": 98,
+                    "endOffset": 1000
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 906,
+                        "endColumn": 98,
+                        "endOffset": 1000
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1005,
+                    "endColumn": 78,
+                    "endOffset": 1079
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1005,
+                        "endColumn": 78,
+                        "endOffset": 1079
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1084,
+                    "endLine": 85,
+                    "endColumn": 9,
+                    "endOffset": 2991
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1084,
+                        "endLine": 85,
+                        "endColumn": 9,
+                        "endOffset": 2991
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 2996,
+                    "endColumn": 49,
+                    "endOffset": 3041
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 2996,
+                        "endColumn": 49,
+                        "endOffset": 3041
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 3046,
+                    "endColumn": 47,
+                    "endOffset": 3089
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 3046,
+                        "endColumn": 47,
+                        "endOffset": 3089
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 3094,
+                    "endColumn": 47,
+                    "endOffset": 3137
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 3094,
+                        "endColumn": 47,
+                        "endOffset": 3137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 3142,
+                    "endColumn": 52,
+                    "endOffset": 3190
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 4,
+                        "startOffset": 3142,
+                        "endColumn": 52,
+                        "endOffset": 3190
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 3195,
+                    "endColumn": 45,
+                    "endOffset": 3236
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 3195,
+                        "endColumn": 45,
+                        "endOffset": 3236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 3241,
+                    "endColumn": 38,
+                    "endOffset": 3275
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 3241,
+                        "endColumn": 38,
+                        "endOffset": 3275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 3280,
+                    "endColumn": 49,
+                    "endOffset": 3325
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 3280,
+                        "endColumn": 49,
+                        "endOffset": 3325
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 3330,
+                    "endColumn": 99,
+                    "endOffset": 3425
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 3330,
+                        "endColumn": 99,
+                        "endOffset": 3425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 3430,
+                    "endColumn": 47,
+                    "endOffset": 3473
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 3430,
+                        "endColumn": 47,
+                        "endOffset": 3473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 3478,
+                    "endColumn": 96,
+                    "endOffset": 3570
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 3478,
+                        "endColumn": 96,
+                        "endOffset": 3570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 3575,
+                    "endColumn": 38,
+                    "endOffset": 3609
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 3575,
+                        "endColumn": 38,
+                        "endOffset": 3609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 3614,
+                    "endColumn": 80,
+                    "endOffset": 3690
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 3614,
+                        "endColumn": 80,
+                        "endOffset": 3690
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 3695,
+                    "endColumn": 47,
+                    "endOffset": 3738
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 3695,
+                        "endColumn": 47,
+                        "endOffset": 3738
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 3743,
+                    "endColumn": 37,
+                    "endOffset": 3776
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 3743,
+                        "endColumn": 37,
+                        "endOffset": 3776
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 3781,
+                    "endColumn": 81,
+                    "endOffset": 3858
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 4,
+                        "startOffset": 3781,
+                        "endColumn": 81,
+                        "endOffset": 3858
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 3863,
+                    "endColumn": 39,
+                    "endOffset": 3898
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 4,
+                        "startOffset": 3863,
+                        "endColumn": 39,
+                        "endOffset": 3898
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 3903,
+                    "endColumn": 46,
+                    "endOffset": 3945
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 3903,
+                        "endColumn": 46,
+                        "endOffset": 3945
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 3950,
+                    "endColumn": 38,
+                    "endOffset": 3984
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 4,
+                        "startOffset": 3950,
+                        "endColumn": 38,
+                        "endOffset": 3984
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 3989,
+                    "endColumn": 54,
+                    "endOffset": 4039
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 3989,
+                        "endColumn": 54,
+                        "endOffset": 4039
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 4044,
+                    "endColumn": 44,
+                    "endOffset": 4084
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 4,
+                        "startOffset": 4044,
+                        "endColumn": 44,
+                        "endOffset": 4084
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 4089,
+                    "endColumn": 49,
+                    "endOffset": 4134
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 4,
+                        "startOffset": 4089,
+                        "endColumn": 49,
+                        "endOffset": 4134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 4139,
+                    "endColumn": 47,
+                    "endOffset": 4182
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 4139,
+                        "endColumn": 47,
+                        "endOffset": 4182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 4187,
+                    "endColumn": 98,
+                    "endOffset": 4281
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 4,
+                        "startOffset": 4187,
+                        "endColumn": 98,
+                        "endOffset": 4281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 4286,
+                    "endColumn": 41,
+                    "endOffset": 4323
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 4,
+                        "startOffset": 4286,
+                        "endColumn": 41,
+                        "endOffset": 4323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 4328,
+                    "endColumn": 48,
+                    "endOffset": 4372
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 4328,
+                        "endColumn": 48,
+                        "endOffset": 4372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 4377,
+                    "endColumn": 33,
+                    "endOffset": 4406
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 4,
+                        "startOffset": 4377,
+                        "endColumn": 33,
+                        "endOffset": 4406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 4411,
+                    "endColumn": 78,
+                    "endOffset": 4485
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 4,
+                        "startOffset": 4411,
+                        "endColumn": 78,
+                        "endOffset": 4485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 4490,
+                    "endColumn": 38,
+                    "endOffset": 4524
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 4,
+                        "startOffset": 4490,
+                        "endColumn": 38,
+                        "endOffset": 4524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 4529,
+                    "endColumn": 43,
+                    "endOffset": 4568
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 4,
+                        "startOffset": 4529,
+                        "endColumn": 43,
+                        "endOffset": 4568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 4573,
+                    "endColumn": 51,
+                    "endOffset": 4620
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 4573,
+                        "endColumn": 51,
+                        "endOffset": 4620
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 4625,
+                    "endColumn": 38,
+                    "endOffset": 4659
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 4,
+                        "startOffset": 4625,
+                        "endColumn": 38,
+                        "endOffset": 4659
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 4664,
+                    "endColumn": 51,
+                    "endOffset": 4711
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 4,
+                        "startOffset": 4664,
+                        "endColumn": 51,
+                        "endOffset": 4711
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 4716,
+                    "endColumn": 62,
+                    "endOffset": 4774
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 4,
+                        "startOffset": 4716,
+                        "endColumn": 62,
+                        "endOffset": 4774
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 4779,
+                    "endColumn": 45,
+                    "endOffset": 4820
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 4,
+                        "startOffset": 4779,
+                        "endColumn": 45,
+                        "endOffset": 4820
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 4825,
+                    "endColumn": 36,
+                    "endOffset": 4857
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 4825,
+                        "endColumn": 36,
+                        "endOffset": 4857
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 4862,
+                    "endColumn": 48,
+                    "endOffset": 4906
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 4,
+                        "startOffset": 4862,
+                        "endColumn": 48,
+                        "endOffset": 4906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 4911,
+                    "endColumn": 48,
+                    "endOffset": 4955
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 122,
+                        "startColumn": 4,
+                        "startOffset": 4911,
+                        "endColumn": 48,
+                        "endOffset": 4955
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 4960,
+                    "endColumn": 45,
+                    "endOffset": 5001
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 4,
+                        "startOffset": 4960,
+                        "endColumn": 45,
+                        "endOffset": 5001
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 5006,
+                    "endColumn": 40,
+                    "endOffset": 5042
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 4,
+                        "startOffset": 5006,
+                        "endColumn": 40,
+                        "endOffset": 5042
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 5047,
+                    "endColumn": 55,
+                    "endOffset": 5098
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 4,
+                        "startOffset": 5047,
+                        "endColumn": 55,
+                        "endOffset": 5098
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 5103,
+                    "endColumn": 50,
+                    "endOffset": 5149
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 126,
+                        "startColumn": 4,
+                        "startOffset": 5103,
+                        "endColumn": 50,
+                        "endOffset": 5149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 5154,
+                    "endColumn": 45,
+                    "endOffset": 5195
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 127,
+                        "startColumn": 4,
+                        "startOffset": 5154,
+                        "endColumn": 45,
+                        "endOffset": 5195
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 5200,
+                    "endColumn": 50,
+                    "endOffset": 5246
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 128,
+                        "startColumn": 4,
+                        "startOffset": 5200,
+                        "endColumn": 50,
+                        "endOffset": 5246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 5251,
+                    "endColumn": 58,
+                    "endOffset": 5305
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 129,
+                        "startColumn": 4,
+                        "startOffset": 5251,
+                        "endColumn": 58,
+                        "endOffset": 5305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 5310,
+                    "endColumn": 47,
+                    "endOffset": 5353
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 130,
+                        "startColumn": 4,
+                        "startOffset": 5310,
+                        "endColumn": 47,
+                        "endOffset": 5353
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 5358,
+                    "endColumn": 43,
+                    "endOffset": 5397
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 131,
+                        "startColumn": 4,
+                        "startOffset": 5358,
+                        "endColumn": 43,
+                        "endOffset": 5397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 5402,
+                    "endColumn": 42,
+                    "endOffset": 5440
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 4,
+                        "startOffset": 5402,
+                        "endColumn": 42,
+                        "endOffset": 5440
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 5445,
+                    "endColumn": 46,
+                    "endOffset": 5487
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 133,
+                        "startColumn": 4,
+                        "startOffset": 5445,
+                        "endColumn": 46,
+                        "endOffset": 5487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 5492,
+                    "endColumn": 48,
+                    "endOffset": 5536
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 134,
+                        "startColumn": 4,
+                        "startOffset": 5492,
+                        "endColumn": 48,
+                        "endOffset": 5536
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 5541,
+                    "endColumn": 45,
+                    "endOffset": 5582
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 4,
+                        "startOffset": 5541,
+                        "endColumn": 45,
+                        "endOffset": 5582
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 5587,
+                    "endColumn": 41,
+                    "endOffset": 5624
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 4,
+                        "startOffset": 5587,
+                        "endColumn": 41,
+                        "endOffset": 5624
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 5629,
+                    "endColumn": 43,
+                    "endOffset": 5668
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 137,
+                        "startColumn": 4,
+                        "startOffset": 5629,
+                        "endColumn": 43,
+                        "endOffset": 5668
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 5673,
+                    "endColumn": 54,
+                    "endOffset": 5723
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 4,
+                        "startOffset": 5673,
+                        "endColumn": 54,
+                        "endOffset": 5723
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 5728,
+                    "endColumn": 40,
+                    "endOffset": 5764
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 139,
+                        "startColumn": 4,
+                        "startOffset": 5728,
+                        "endColumn": 40,
+                        "endOffset": 5764
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 5769,
+                    "endColumn": 54,
+                    "endOffset": 5819
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 140,
+                        "startColumn": 4,
+                        "startOffset": 5769,
+                        "endColumn": 54,
+                        "endOffset": 5819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 5824,
+                    "endColumn": 39,
+                    "endOffset": 5859
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 4,
+                        "startOffset": 5824,
+                        "endColumn": 39,
+                        "endOffset": 5859
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 5864,
+                    "endColumn": 81,
+                    "endOffset": 5941
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 142,
+                        "startColumn": 4,
+                        "startOffset": 5864,
+                        "endColumn": 81,
+                        "endOffset": 5941
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 5946,
+                    "endColumn": 47,
+                    "endOffset": 5989
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 143,
+                        "startColumn": 4,
+                        "startOffset": 5946,
+                        "endColumn": 47,
+                        "endOffset": 5989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 5994,
+                    "endColumn": 47,
+                    "endOffset": 6037
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 144,
+                        "startColumn": 4,
+                        "startOffset": 5994,
+                        "endColumn": 47,
+                        "endOffset": 6037
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 6042,
+                    "endColumn": 54,
+                    "endOffset": 6092
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 145,
+                        "startColumn": 4,
+                        "startOffset": 6042,
+                        "endColumn": 54,
+                        "endOffset": 6092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 6097,
+                    "endColumn": 53,
+                    "endOffset": 6146
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 146,
+                        "startColumn": 4,
+                        "startOffset": 6097,
+                        "endColumn": 53,
+                        "endOffset": 6146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 6151,
+                    "endColumn": 45,
+                    "endOffset": 6192
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 147,
+                        "startColumn": 4,
+                        "startOffset": 6151,
+                        "endColumn": 45,
+                        "endOffset": 6192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 6197,
+                    "endColumn": 93,
+                    "endOffset": 6286
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 148,
+                        "startColumn": 4,
+                        "startOffset": 6197,
+                        "endColumn": 93,
+                        "endOffset": 6286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 6291,
+                    "endColumn": 36,
+                    "endOffset": 6323
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 149,
+                        "startColumn": 4,
+                        "startOffset": 6291,
+                        "endColumn": 36,
+                        "endOffset": 6323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 6328,
+                    "endColumn": 78,
+                    "endOffset": 6402
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 150,
+                        "startColumn": 4,
+                        "startOffset": 6328,
+                        "endColumn": 78,
+                        "endOffset": 6402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 6407,
+                    "endColumn": 46,
+                    "endOffset": 6449
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 151,
+                        "startColumn": 4,
+                        "startOffset": 6407,
+                        "endColumn": 46,
+                        "endOffset": 6449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 6454,
+                    "endColumn": 40,
+                    "endOffset": 6490
+                },
+                "from": {
+                    "file": "F:\\DanielEclipse\\rt_c_watch_work_new\\OneKeyShare-fitincluded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 152,
+                        "startColumn": 4,
+                        "startOffset": 6454,
+                        "endColumn": 40,
+                        "endOffset": 6490
+                    }
+                }
+            }
+        ]
+    }
+]

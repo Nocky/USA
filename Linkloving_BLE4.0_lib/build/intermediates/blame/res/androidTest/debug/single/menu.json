@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\Linkloving_BLE4.0_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\gatt_services.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\Linkloving_BLE4.0_lib\\build\\intermediates\\bundles\\debug\\res\\menu\\gatt_services.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\Linkloving_BLE4.0_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\main.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\Linkloving_BLE4.0_lib\\build\\intermediates\\bundles\\debug\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "F:\\DanielEclipse\\rt_c_watch_work_new\\Linkloving_BLE4.0_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\custom.xml",
+        "source": "F:\\DanielEclipse\\rt_c_watch_work_new\\Linkloving_BLE4.0_lib\\build\\intermediates\\bundles\\debug\\res\\menu\\custom.xml"
+    }
+]

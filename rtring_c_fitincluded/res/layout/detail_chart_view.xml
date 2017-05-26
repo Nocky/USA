@@ -1,0 +1,105 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="220dip">    
+    
+     <HorizontalScrollView
+	    android:id="@+id/hScrollView"
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    android:gravity="bottom"
+	    android:scrollbars="none"
+	    android:fadingEdge="none">
+	
+	      <LinearLayout
+	          android:id="@+id/lLayout"
+	          android:layout_width="wrap_content"
+	          android:layout_height="fill_parent"
+	          android:gravity="bottom"
+	          android:orientation="horizontal" >
+	       
+	     </LinearLayout>		      		
+ 	</HorizontalScrollView>   
+ 
+	
+	  
+	  <TextView
+	      android:id="@+id/timeTextview"
+	      android:layout_width="wrap_content"
+	      android:layout_height="wrap_content"
+	      android:layout_alignParentBottom="true"
+	      android:layout_alignParentRight="true"
+	      android:layout_marginRight="10dp"	    
+	      android:text="08:00"
+	      android:textColor="@color/white"
+	      android:textSize="18sp" />
+	 
+	   <ImageView
+	       android:id="@+id/symbolImageView"
+	       android:layout_width="wrap_content"
+	       android:layout_height="wrap_content"
+	       android:layout_above="@id/timeTextview"
+	       android:layout_alignParentRight="true"	
+	       android:layout_marginRight="10dp"
+	       android:src="@drawable/detail_walk_symbol" />
+	     
+	 <TextView
+	     android:visibility="gone"
+	     android:id="@+id/stateTextview"
+	     android:layout_width="wrap_content"
+	     android:layout_height="wrap_content"
+	     android:layout_alignParentTop="true"		     
+	     android:layout_toLeftOf="@id/symbolImageView"
+	     android:layout_marginTop="10dp"
+	     android:layout_marginRight="10dp"
+	     android:textColor="#46a4b5"
+	     android:textSize="22dp"
+	     android:text="走路" />
+	   
+	 <TextView
+	     android:id="@+id/infoTextview"
+	     android:layout_width="wrap_content"
+	     android:layout_height="wrap_content"
+	     android:layout_below="@id/stateTextview"
+	     android:layout_marginRight="3dp"
+	     android:layout_marginTop="12dp"
+	     android:layout_toLeftOf="@id/symbolImageView"
+	     android:text="300m 400步   4分钟"
+	     android:textColor="#b1b1b1"
+	     android:textSize="14dp" />
+
+	 <TextView
+	     android:id="@+id/textView1"
+	     android:visibility="gone"
+	     android:layout_width="wrap_content"
+	     android:layout_height="wrap_content"
+	     android:layout_alignParentBottom="true"
+	     android:layout_alignParentLeft="true"
+	           android:textColor="@color/white"
+	      android:textSize="18sp" 
+	     android:text="00:00" />
+
+	 <TextView
+	     android:id="@+id/textView2"
+	     android:visibility="gone"
+	     android:layout_width="wrap_content"
+	     android:layout_height="wrap_content"
+	     android:layout_alignLeft="@+id/infoTextview"
+	     android:layout_alignParentBottom="true"
+	     android:layout_centerHorizontal="true"
+	        android:textColor="@color/white"
+	      android:textSize="18sp" 
+	     android:text="12:00" />
+
+	 <TextView
+	     android:id="@+id/textView3"
+	     android:visibility="gone"
+	     android:layout_width="wrap_content"
+	     android:layout_height="wrap_content"
+	     android:layout_alignParentBottom="true"
+	     android:layout_alignParentRight="true"
+	        android:textColor="@color/white"
+	      android:textSize="18sp" 
+	     android:text="24:00" />
+    	 
+</RelativeLayout>  	
